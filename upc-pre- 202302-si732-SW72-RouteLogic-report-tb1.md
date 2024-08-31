@@ -372,7 +372,7 @@ Implementaremos estos modelos y evaluaremos su efectividad en la generación de 
 
 #### 1.2.2.4. Lean UX Canvas
 
-![Lean UX Canvas](/Informe/image-report/Lean_Canvas.png)
+![Lean UX Canvas](image-report/Lean_Canvas.png)
 
 ---
 
