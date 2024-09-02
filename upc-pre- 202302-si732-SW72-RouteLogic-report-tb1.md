@@ -447,3 +447,19 @@ urbana.
 | HU28 | conocer los planes de suscripción                | como visitante de la landing page, quiero encontrar información sobre los planes de suscripción disponibles para entender las opciones de pago y beneficios asociados con cada plan.                    | dado que estoy interesado en utilizar la aplicación de forma regular, cuando navego por la sección de planes de suscripción, entonces encuentro una descripción clara de los diferentes planes disponibles, sus precios y las características incluidas en cada uno.                                                                          |            |
 | HU29 | obtener respuestas a preguntas frecuentes        | como visitante de la landing page, quiero acceder a una sección de preguntas frecuentes para encontrar respuestas a mis dudas más comunes sobre la aplicación de seguimiento de rutas.                  | dado que tengo preguntas sobre la aplicación, cuando accedo a la sección de preguntas frecuentes, entonces encuentro una lista completa de preguntas comunes y sus respuestas claras y concisas, lo que me ayuda a entender mejor cómo funciona la aplicación y cómo puedo utilizarla eficazmente.                                            |            |
 |HU30 | Promociones | Como cliente, quiero ver las promociones disponibles en la aplicación para que pueda aprovechar descuentos al utilizar el servicio de transporte público. | Dado que el cliente abre la aplicación, Cuando accede a la sección de promociones, Entonces se muestran claramente todas las promociones vigentes, incluyendo sus términos y condiciones. |
+
+## 3.3 Impact Mapping
+
+En la sección de Impact Mapping, exploraremos las repercusiones más amplias y los objetivos
+estratégicos que buscamos lograr con la implementación de esta aplicación. En lugar de centrarnos en
+detalles técnicos o funcionalidades específicas, el Impact Mapping nos ayudará a comprender cómo
+nuestro proyecto contribuirá a alcanzar metas más grandes y cómo afectará positivamente a los
+diferentes grupos de interés. A través de este mapeo de impacto, identificaremos las conexiones entre
+las características de la aplicación y los resultados deseados, lo que nos permitirá tomar decisiones
+informadas sobre qué aspectos priorizar y cómo medir el éxito a largo plazo.
+
+<div align="center">
+
+  <img src="image-report/impact_mapping.png">
+
+</div>
