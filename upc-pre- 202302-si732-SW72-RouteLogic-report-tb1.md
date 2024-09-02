@@ -391,3 +391,16 @@ Segmento objetivo 2: Empresas de transporte que operan en Lima.
 • Gerentes de operaciones y logística de estas empresas: Profesionales encargados de la planificación, organización y optimización de las rutas y servicios de transporte público.
 
 • Empresas de transporte formalizadas y en cumplimiento con la normativa: Entidades que operan legalmente en Lima y buscan mejorar la calidad y eficiencia de sus servicios a través de la colaboración con TrackRoute.
+
+
+# Capítulo III: Requeriments Specifications
+
+## 3.1 To-Be Scenario Mapping
+
+Con la herramiento del To-be scenario mapping exploramos las mejoras y las nuevas funcionalidades que se incorporarán en la aplicación “TrackMyRoute”. Estas mejoras están diseñadas para optimizar la experiencia de los usuarios al movilizarse por la ciudad de Lima en transporte público y proporcionar a la empresa de transporte una visión en tiempo real de sus clientes. A través de este proceso, visualizamos cómo la aplicación evolucionará para brindar un servicio más eficiente y útil a los dos grupos de usuarios.
+
+<div align="center">
+  <img src="image-report\tobemap.jpg">
+</div>
+<br>
+
