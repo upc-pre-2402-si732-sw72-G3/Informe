@@ -256,7 +256,7 @@ URL del repositorio del proyecto: [https://github.com/upc-pre-2402-si732-sw72-G3
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>
-            (Nombre aqui)
+            Piero Stephano Miranda Sinarahua
         </td>
     </tr>
     <tr>
@@ -270,7 +270,8 @@ URL del repositorio del proyecto: [https://github.com/upc-pre-2402-si732-sw72-G3
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        (Texto Aqui)
+        Me llamo Piero Miranda y actualmente estoy llevando la carrera de Ingeniería de Software. Considero que soy una persona responsable y que puedo aportar al equipo en cualquier aspecto que se requiera. De igual 
+         manera, siento que los conocimientos que he ido adquiriendo en ciclos anteriores serán de gran ayuda para llevar a cabo el presente trabajo.
         </td>
     </tr>
 </table>
