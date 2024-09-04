@@ -14,14 +14,14 @@
 - **Nombre del Startup**: RouteLogic
 - **Nombre del Producto**: TrackMyRoute
 - **Relación de Integrantes**:
-        | Nombre                                      | Código        |
-        | --------------------------------------------| ------------- |
-        | Luza Carhuamaca, Jose Adrian                | u202213404    |
-        | Elsner De La Torre Ugarte, Julio Esteban    | u202111654    |
-        | Miranda Sinarahua, Piero Stephano           | u20181g752    |
-        | Landeo Simeón, Favio Sebastian              | u202119588    |
-        | Poma Espinoza, Gustavo Arturo               | u20221c138    |
-        | Ramirez Alfaro, Miguel Angel                | u202117152    |
+| Nombre                                      | Código        |
+| --------------------------------------------| ------------- |
+| Luza Carhuamaca, Jose Adrian                | u202213404    |
+| Elsner De La Torre Ugarte, Julio Esteban    | u202111654    |
+| Miranda Sinarahua, Piero Stephano           | u20181g752    |
+| Landeo Simeón, Favio Sebastian              | u202119588    |
+| Poma Espinoza, Gustavo Arturo               | u20221c138    |
+| Ramirez Alfaro, Miguel Angel                | u202117152    |
 
 - **Mes y Año**: Septiembre del 2024
 
@@ -1313,3 +1313,219 @@ Para que este verifique si es valido la ruta que ah sido escogida y el status es
 Tenemos una entidad la cual se encarga de ver la subscripcion actual del usuario y que beneficios este va poseer.
 
 <a href="https://ibb.co/dcTTW3s"><img src="https://i.ibb.co/rtjj7LK/Captura-de-pantalla-2024-04-13-001255.png" alt="Captura-de-pantalla-2024-04-13-001255" border="0"></a>
+
+---
+
+# Capítulo V: Product Implementation
+
+## 5.1 Software Configuration Management
+### 5.1.1 Software Development Environment Configuration
+   **Project Management**
+
+Para la organizacion del proyecto necesitabamos una planificación en cuanto a tareas asignadas, un punto de reunión y un repositorio donde trabajaramos en conjunto cada avance del proyecto, es por esto que elegimos las siguientes herramientas:
+
+* Centro de organización de trabajo: Github
+    
+* Planificación de tareas: Trello
+    
+* Reuniones con el equipo: Google Meet
+    
+**Requirements Management**
+
+Para realizar las actividades del proyecto necesitábamos designarlas a cada integrante del grupo en caso de revisión o cambios, esta lista de asignaciones fue realizada en Trello:
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://www.trello.com/</td>
+        </tr>
+    </tbody>
+</table>
+
+**Product UX/UI Design**
+
+Para el diseño de los wireframe y mockups, además de un prototipo de Web App se utilizó Figma:
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://www.figma.com/</td>
+        </tr>
+    </tbody>
+</table>
+
+**Software Development**
+
+La herramienta para la implementación del proyecto es WebStorm de Jetbrains:
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://www.jetbrains.com/es-es/webstorm/</td>
+        </tr>
+    </tbody>
+</table>
+
+**Software Testing**
+
+Gherkin es un sistema de etiquetado utilizado para detallar como se comporta el software de manera legible.
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://cucumber.io/docs/gherkin/</td>
+        </tr>
+    </tbody>
+</table>
+
+**Software Deployment**
+
+Se ha utilizado Github para desplegar la landing page con Github Pages:
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://pages.github.com/</td>
+        </tr>
+    </tbody>
+</table>
+
+**Software Documentation**
+
+Se ha utilizado Github para alojar los distintos repositorios creados por los miembros del equipo para la colaboración en tiempo real mientras se codifican distintas áreas del proyecto.
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://github.com/</td>
+        </tr>
+    </tbody>
+</table>
+
+### 5.1.2 Source Code Management
+   <table>
+    <tbody>
+        <tr>
+            <td>Link Landing Page:</td>
+            <td> https://github.com/upc-pre-2402-si732-sw72-G3/Landing </td>
+        </tr>
+        <tr>
+            <td> Backend Services: </td>
+            <td> https://github.com/upc-pre-2402-si732-sw72-G3/Backend </td>
+        </tr>
+        <tr>
+            <td> Link Front Web Applications: </td>
+            <td> https://github.com/upc-pre-2402-si732-sw72-G3/Frontend </td>
+        </tr>
+    </tbody>
+</table>
+
+**Flujo de trabajo GitFlow**
+
+<img src="https://nvie.com/img/git-model@2x.png" width="60%" alt="Ejemplo flujo de Gitflow"/>
+
+Usaremos el flujo de trabajo planteado por Vincent Driessen en "A successful Git branching model" con los siguientes parámetros:
+ * Una rama de producción.
+ * Una rama de pruebas.
+ * Una rama en la que se solucionen los bugs rapidamente y vuelvan a producción.
+ * Ramas de features a implementar.
+ * Cada cambio en producción debe establecerse como una nueva versión.
+ * Para este proyecto en concreto consideramos que los cambios en la rama de producción y de pruebas deben tener autorización de un compa­ñero de equipo.
+   
+Teniendo en cuenta la información anterior nos inclinamos por este tipo de organización en los branches:
+* **Main branch:** Esta rama esta destinada a la producción de la aplicación, cada cambio deberá tener autorización de un compañero de equipo para evitar cambios sin verificar.
+* **Hotfix branch:** En esta rama se incluirán todas las versiones que poseen errores identificados y que con cada arreglo de este se despliegue otra vez a Main Branch además de implementarla en lo que será Develop Branch.
+* **Release branch:** Esta rama se utilizará para una previa a lo que será el Main Branch, aquí se seguirá de cerca a la aplicación en otros ambientes en busca de bugs.
+* **Develop branch:** Esta rama está destinada a las constantes implementaciones en caliente de los features, 
+* **Features branch:** Cada feature poseerá su respectiva rama, una vez que se encuentre correctamente implementada será fusionada con Develop branch.
+
+Con cada deployment de la aplicación debe establecerse como una nueva versión.
+
+### 5.1.3 Source Code Style Guide & Conventions
+   
+Usaremos buenas prácticas en cuanto al código de manera que sea coherente y sostenible.
+
+**HTML:**
+* Cada etiqueta, id, nombre y clase será nombrada usando Lowercase.
+* Utilizar UTF-8.
+* Redacción en inglés.
+* En cada referencia a un archivo, colocar el tipo de archivo (.css, .js).
+* Terminar cada etiqueta con />.
+    
+**CSS:**
+* Width del body al 100%.
+* En cuanto a las imágenes, especificar el ancho (Width) de acuerdo a la etiqueta padre.
+* Cada etiqueta, nombre y clase será nombrada de acuerdo al propósito y clasificación del elemento.
+* Separación de palabras con un guion "-".
+* Margin y padding en "*" con valor de 0.
+
+**Commit conventions:** Para las convenciones de commit, se utilizarán las convenciones básicas es decir: 
+ `git commit -m "<message>" -m"<description">`
+  
+### 5.1.4 Software Deployment Configuration
+
+#### Repositorios de la Organización
+
+<img src='image-report/Repositories.png'/>
+
+#### Creación de ramas
+Para la creación de cada rama del proyecto seguiremos estos pasos:
+1. Seleccionar " # Branches":
+
+  <img src='image-report/paso1-branch.jpeg'/>
+
+2. Click en "New Branch" :
+
+   <img src='image-report/paso2-branch.jpeg'/>
+
+3. Escribir el nombre de cada rama, luego crear nuevo branch:
+
+	<img src='image-report/paso3-branch.jpeg'/>
+
+4. Ramas creadas:
+
+	<img src='image-report/paso4-branch.jpeg'/>
+
+### Agregar reglas de protección
+
+1. Settings -> Branches:
+
+<img src='image-report/rule-1.jpeg'/>
+
+2. Nombrar regla como la rama a proteger y agregarle protección:
+
+<img src='image-report/rule-2.jpeg'/>
+
+
+
+## Lanzamiento del proyecto
+
+### Landing Page Deployment:
+Además de control de versiones, Github posee GithubPages, que sirve para lanzar tu proyecto si se encuentra en un repositorio de Github. Para esto necesitamos:
+ * Una cuenta persona
+ * Repositorio
+ * Permisos en el repositorio
+
+1. Seleccionamos al branch "main", luego el directorio "/root" y finalmente guardamos la configuración.
+
+2. Esperamos a que se lanze el proyecto, sabremos que esta listo cuando veamos el URL.
+
+### Frontend-Application Deployment
+Con el fin de desplegar el frontend usaremos Firebase, que se usa continuamente para el despliegue de aplicaciones web.
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de Firebase: </td>
+            <td>https://firebase.google.com</td>
+        </tr>
+    </tbody>
+</table>
+
+---
