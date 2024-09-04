@@ -34,11 +34,10 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 
 | **Versión** | **Fecha** | **Autor** | **Descripción de Modificación** |
 |-------------|-----------|-----------|---------------------------------|
-|    TB1      |     4/09/2024      |    Julio Elsner        |      Creación de los wireframes en sector movil. El proceso abarca desde el prototipado de aplicaciones móviles para Android e iOS, que incluye wireframes, prototipos interactivos y pruebas de usuario, hasta el diseño UX/UI de aplicaciones web, con la creación de wireframes, mock-ups, y diagramas de flujo. Además, se desarrolla un prototipo interactivo de la aplicación web para evaluar la usabilidad antes del desarrollo completo. Finalmente, la arquitectura de software se basa en el Diseño Orientado al Dominio (DDD), enfocándose en modelar entidades clave, definir contextos delimitados, y utilizar una arquitectura basada en eventos para reflejar fielmente las necesidades del negocio.
- |
-|             |           |           |                                 |
-|             |           |           |                                 |
+|    TB1      |     4/09/2024      |    Todos        |      Añadimos los capítulos 1, 2, 3, 4 y 5. Además se tomó en cuenta la creación de los prototipos en dispositivos móviles. |
+
 ---
+
 # Project Report Collaboration Insights 
 
 URL del repositorio del proyecto: [https://github.com/upc-pre-2402-si732-sw72-G3/Informe]
@@ -59,12 +58,11 @@ URL del repositorio del proyecto: [https://github.com/upc-pre-2402-si732-sw72-G3
 
 # Tabla de contenidos
 - [Universidad Peruana de Ciencias Aplicadas](#universidad-peruana-de-ciencias-aplicadas)
-    - [Informe de Trabajo Final](#informe-de-trabajo-final)
+- [Informe de Trabajo Final](#informe-de-trabajo-final)
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
-  - [| v4.0        | 28/06/2024| Todos     | Integración de Back y Front  de nuestro Sistema|](#-v40---------28062024-todos------integración-de-back-y-front--de-nuestro-sistema)
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
 - [Tabla de contenidos](#tabla-de-contenidos)
-  - [STUDENT OUTCOME](#student-outcome)
+- [Student Outcome](#student-outcome)
 - [Capítulo I: Introducción](#capítulo-i-introducción)
   - [1.1 Startup Profile](#11-startup-profile)
     - [1.1.1 Descripción de la Startup](#111-descripción-de-la-startup)
@@ -96,7 +94,6 @@ URL del repositorio del proyecto: [https://github.com/upc-pre-2402-si732-sw72-G3
   - [3.2 User Stories](#32-user-stories)
   - [3.3 Impact Mapping](#33-impact-mapping)
   - [3.4 Product Backlog](#34-product-backlog)
-  - [|34| HU34| Recuperación de Contraseña| Como cliente, quiero tener la opción de recuperar mi contraseña en caso de olvido o pérdida para que pueda volver a acceder a mi cuenta sin problemas| 3|](#34-hu34-recuperación-de-contraseña-como-cliente-quiero-tener-la-opción-de-recuperar-mi-contraseña-en-caso-de-olvido-o-pérdida-para-que-pueda-volver-a-acceder-a-mi-cuenta-sin-problemas-3)
 - [Capítulo IV: Product Design](#capítulo-iv-product-design)
   - [4.1 Style Guidelines](#41-style-guidelines)
   - [4.2 Information Architecture](#42-information-architecture)
@@ -116,7 +113,7 @@ URL del repositorio del proyecto: [https://github.com/upc-pre-2402-si732-sw72-G3
     - [4.7.2 Class Dictionary](#472-class-dictionary)
   - [4.8 Database Design](#48-database-design)
     - [4.8.1 Database Diagram](#481-database-diagram)
-- [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
+- [Capítulo V: Product Implementation](#capítulo-v-product-implementation)
   - [5.1 Software Configuration Management](#51-software-configuration-management)
     - [5.1.1 Software Development Environment Configuration](#511-software-development-environment-configuration)
     - [5.1.2 Source Code Management](#512-source-code-management)
@@ -125,20 +122,27 @@ URL del repositorio del proyecto: [https://github.com/upc-pre-2402-si732-sw72-G3
       - [Repositorios de la Organización](#repositorios-de-la-organización)
       - [Creación de ramas](#creación-de-ramas)
     - [Agregar reglas de protección](#agregar-reglas-de-protección)
-  - [Lanzamiento del proyecto](#lanzamiento-del-proyecto)
+    - [Lanzamiento del proyecto](#lanzamiento-del-proyecto)
     - [Landing Page Deployment:](#landing-page-deployment)
     - [Frontend-Application Deployment](#frontend-application-deployment)
-  - [5.2 Landing Page, Services \& Applications Implementation.](#52-landing-page-services--applications-implementation)
+  - [5.2 Product Implementation & Deployment](#52-landing-page-services--applications-implementation)
     - [5.2.2. Sprint 2](#522-sprint-2)
     - [5.2.3. Sprint 3](#523-sprint-3)
     - [5.2.4. Sprint 4](#524-sprint-4)
-  - [5.3. Validation Interviews](#53-validation-interviews)
-    - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
-    - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
 - [Conclusiones](#conclusiones)
 - [Anexos](#anexos)
+
 ---
 
+## STUDENT OUTCOME
+<b>ABET – EAC - Student Outcome 4</b>
+
+| Criterio específico                                                                                                                                              | Acciones realizadas                                                                                                                                                      | Conclusiones                                                                                                                                   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| Reconoce responsabilidad ética y profesional en situaciones de ingeniería de software.        | **Luza Carhuamaca, Jose Adrian** <br> **TB1:** <br> (TB1) <br> <br> <br> **Elsner De La Torre Ugarte, Julio Esteban** <br> **TB1:** <br> (TB1) <br> <br> <br> **Miranda Sinarahua, Piero Stephano** <br> **TB1:** <br> (TB1) <br> <br> <br> **Landeo Simeón, Favio Sebastián** <br> **TB1:** <br> (TB1) <br> <br> <br> **Poma Espinoza, Gustavo Arturo** <br> **TB1:** <br> (TB1) <br> <br> <br> **Ramirez Alfaro, Miguel Angel** <br> **TB1:** <br> (TB1) | El equipo trabajó de manera cohesiva y eficiente, aprovechando las diversas habilidades de sus miembros para desarrollar una solución robusta y efectiva en el proyecto. |.                                                                                                                                   |
+| Emite juicios informados considerando el impacto de las soluciones de ingeniería de software en contextos globales, económicos, ambientales y sociales.  | **Luza Carhuamaca, Jose Adrian** <br> **TB1:** <br> (TB1) <br> <br> <br> **Elsner De La Torre Ugarte, Julio Esteban** <br> **TB1:** <br> (TB1) <br> <br> <br> **Miranda Sinarahua, Piero Stephano** <br> **TB1:** <br> (TB1) <br> <br> <br> **Landeo Simeón, Favio Sebastián** <br> **TB1:** <br> (TB1) <br> <br> <br> **Poma Espinoza, Gustavo Arturo** <br> **TB1:** <br> (TB1) <br> <br> <br> **Ramirez Alfaro, Miguel Angel** <br> **TB1:** <br> (TB1)  | El equipo adquirió un conocimiento profundo del sector del transporte, aplicando este entendimiento para crear una aplicación de rutas eficiente y adaptada a las necesidades del usuario.                                                                                                   |
+
+---
 
 # Capítulo I: Introducción
 ## 1.1 Startup Profile
