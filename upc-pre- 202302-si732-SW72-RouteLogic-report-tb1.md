@@ -503,3 +503,516 @@ informadas sobre qué aspectos priorizar y cómo medir el éxito a largo plazo.
 |33|HU33 | Historial de Viajes| Como cliente, quiero poder acceder a un historial detallado de mis viajes anteriores en la aplicación para que pueda realizar un seguimiento de mis desplazamientos y gastos.| 5|
 |34| HU34| Recuperación de Contraseña| Como cliente, quiero tener la opción de recuperar mi contraseña en caso de olvido o pérdida para que pueda volver a acceder a mi cuenta sin problemas| 3|
 ---
+# Capítulo IV: Product Design
+
+## 4.1. Style Guidelines.
+
+Las guías de estilo son los criterios y sugerencias creados para uniformar la apariencia, el estilo y la facilidad de uso tanto de la Landing Page como de la Aplicación Web.
+
+### 4.1.1. General Style Guidelines.
+
+La paleta de colores que estamos usando en nuestra Landing Page y Web Application son los siguientes: 
+
+<div align="center">
+
+  <img src="image-report/Colors.png">
+
+</div>
+
+El tono predominante y fundamental de nuestra solución es el azul y sus diversas variaciones, seleccionado con el propósito de generar en nuestros usuarios sensaciones de confianza, seguridad y calma. Nuestra meta es mantener la simplicidad y el minimalismo para lograr que nuestros usuarios se sientan comodos con la aplicación.
+
+
+Se ha seleccionado MuseoModerno para el logotipo, los títulos y los subtítulos de la Landing Page y la Aplicación Web, ya que su diseño evoca pistas y carreteras, lo cual se considera adecuado para nuestro producto. Para los textos, el contenido informativo y los botones de la Landing Page, se utilizará Montserrat.
+
+<div align="center">
+
+  <img src="image-report/Fonts.png">
+
+</div>
+
+Optamos por establecer un espaciado entre letras de 1,15 para los textos y el contenido de la página, y de 2 píxeles para los títulos y subtítulos, con el objetivo de garantizar una visualización óptima para nuestros usuarios.
+
+En cuanto al tono de nuestra comunicación, será formal, cortés y tranquilo, ya que la mayoría de nuestro público objetivo son adultos.
+
+### 4.1.2. Web Style Guidelines.
+
+Para el diseño de la Aplicación Web, hemos definido una paleta de colores principal compuesta por azul y blanco, junto con la tipografía Montserrat que abarca el 90% del diseño. Priorizamos la simplicidad en el diseño y la optimización para su funcionamiento eficiente en todos los dispositivos, siguiendo los principios de responsive design y usabilidad.
+
+Utilizamos los siguientes iconos para la parte del dashboard.
+
+<div align="center">
+
+  <img src="image-report/Iconos.png">
+
+</div>
+
+### 4.1.3. Mobile Style Guidelines.
+
+<div align="center">
+
+  <img src="image-report/Icons-android.png">
+
+</div>
+
+#### 4.1.3.1. iOS Mobile Style Guidelines.
+
+<div align="center">
+
+  <img src="image-report/Icons-Iphone.png">
+
+</div>
+
+#### 4.1.3.2. Android Mobile Style Guidelines.
+
+<div align="center">
+
+  <img src="image-report/Icons-android.png">
+
+</div>
+
+## 4.2. Information Architecture.
+
+En este apartado, presentaremos el procedimiento de ordenar, configurar y categorizar el contenido de la Landing Page y la Aplicación Web de Track My Route de manera que resulte comprensible y accesible para nuestros usuarios. Ponemos énfasis en diseñar la estructura y la navegación de sistemas de información, asi como páginas web y sistemas de gestión de contenido, con el fin de potenciar la usabilidad y la experiencia del usuario.
+
+### 4.2.1. Organization Systems.
+
+ - **Forma jerárquica**
+        
+        La aplicación web de TrackMyRoute se organizará de forma jerárquica, comenzando con un panel de control principal que ofrece acceso rápido a las funciones esenciales. Esto incluirá la búsqueda de rutas por ubicación y horarios en tiempo real, así como la opción de pago de pasajes. En un segundo nivel, los usuarios podrán acceder a su historial de viajes y pagos, además de encontrar promociones disponibles para ellos. En un nivel más profundo de jerarquía, tendrán la posibilidad de configurar notificaciones personalizadas y gestionar su perfil de usuario. Además, habrá una sección de ayuda que proporcionará recursos adicionales y soporte. Esta estructura jerárquica está diseñada para garantizar una navegación intuitiva y una experiencia fluida para los usuarios al buscar y gestionar información relacionada con el transporte público.
+    - **Organización secuencial (step-by-step to accomplish)**
+        En la aplicación web de TrackMyRoute, se ha implementado la organización secuencial en situaciones donde los usuarios necesitan completar una serie de pasos en un orden específico para alcanzar un objetivo determinado. Por ejemplo, durante el proceso de registro de un nuevo usuario, se les guiará a través de una secuencia de pasos que incluirá la creación de una cuenta, la configuración de preferencias y la aceptación de los términos y condiciones. Esto también se observa al buscar rutas y autobuses, así como al pagar el pasaje a través de la aplicación. Esta metodología de organización secuencial ayuda a simplificar y estructurar procesos complejos, lo que facilita la navegación y la comprensión para los usuarios.
+    - **Organización matricial**
+        
+        En TrackMyRoute, se emplea la organización matricial en situaciones donde hay una diversidad de categorías o dimensiones que se entrelazan y se relacionan entre sí. Esto es evidente al buscar autobuses, donde se muestra un mapa junto con la información de los autobuses y se ofrecen filtros para refinar la búsqueda. Asimismo, se utiliza en la disposición visual de las promociones dirigidas a los usuarios.
+
+
+### 4.2.2. Labeling Systems.
+
+| Etiqueta            | Descripción                                                                                                                                    |
+|:-------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------:|
+| Buscar Rutas        | En esta sección se le mostrará al usuario avisos por parte de la aplicación                                                                    |
+| Notificaciones      | En esta sección el usuario podrá ingresar su origen y destino y visualizar sus rutas y buses, así como un mapa con información en tiempo real. |
+| Pagar Pasaje        | En esta sección el usuario podrá pagar sus pasajes de su ruta de manera anticipada para ser más eficiente a la hora de abordar el bus.         |
+| Promociones         | En esta sección el usuario podrá acceder a distintas promociones que brindamos a nuestros usuarios premium                                     |
+| Historial de Viajes | En esta sección el usuario podrá visualizar sus viajes anteriores y pasajes pagados.                                                           |
+| Soporte y Ayuda     | En esta sección el usuario accede a ayuda por parte de nuestro equipo de soporte.                                                              |
+| Configuración       | En esta sección el usuario puede configurar sus preferencias y su perfil.           
+
+
+### 4.2.3. SEO Tags and Meta Tags
+
+Los tags de SEO y Meta tags son cruciales ya que desempeñan una función vital en la optimización para motores de búsqueda (SEO), contribuyendo a mejorar la visibilidad y el ranking de una página web en los resultados de búsqueda. Por ende, para optimizar la búsqueda y el posicionamiento de TrackMyRoute, hemos implementado lo siguiente:
+
+| Landing Page | Web Application |
+|---------------|-----------------|
+|**Title:** TrackMyRoute<br>**Description:** Optimiza tu viaje y libérate del estrés<br>**Keywords:** Autobús, Metro, Tren, Paradas, Ubicación, Tráfico, Planificador, Seguridad, Comodidad, Precisión, Horario, Buses en Lima, Rutas.<br>**Authors:** TrackMyRoute| **Title:**  TrackMyRoute <br> **Description:** Optimiza tu viaje y libérate del estrés <br> **Keywords:** Autobús, Metro, Tren, Paradas, Ubicación, Tráfico, Planificador, Seguridad, Comodidad, Precisión, Horario, Buses en Lima, Rutas, Buses, Seguimiento, Mapas, Transporte, Navegación, Tiempo, Notificaciones, Promociones, Pasajes, Historial. <br> **Authors:** TrackMyRoute|
+
+### 4.2.4. Searching Systems.
+
+El sistema de búsqueda de nuestra aplicación se fundamenta en la ubicación de los autobuses y sus rutas, así como en los puntos de recogida de pasajeros. Esta funcionalidad estará conectada a una base de datos que contiene información sobre los autobuses, sus rutas y los costos de los pasajes. Por lo tanto, esta herramienta de búsqueda estará disponible en las secciones de "Buscar Rutas", "Pagar Pasajes" y "Historial de Viajes".
+
+### 4.2.5. Navigation Systems.
+
+Los métodos de navegación utilizados en TrackMyRoute son los siguientes:
+
+1. Barra de navegación en la Landing Page: Los usuarios pueden desplazarse por nuestra Landing Page para familiarizarse con nuestra aplicación y comprender nuestra propuesta de valor.
+2. Barra de navegación en la Aplicación Web: Los usuarios tienen la posibilidad de explorar los distintos apartados y funciones de nuestra propuesta utilizando la barra de navegación.
+3. Tarjetas de promociones: Los usuarios pueden ver fácilmente las promociones que les ofrecemos a través de las tarjetas de promociones.
+
+## 4.3. Landing Page UI Design.
+### 4.3.1. Landing Page Wireframe.
+
+<div align="center">
+
+  <img src="image-report/landing_wireframe.png">
+
+</div>
+
+### 4.3.2. Landing Page Mock-up.
+
+Link Landing Page mockup: https://www.figma.com/proto/aJREmuLbY7nLlgmOTtjcW5/TrackMyRoute-Web?type=design&node-id=1-2&t=vpM8mg1HtrwmaE8b-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2&mode=design 
+
+<div align="center">
+
+  <img src="image-report/landing_mockup.png">
+
+</div>
+
+## 4.4. Mobile Applications UX/UI Design.
+### 4.4.1. Mobile Applications Wireframes.
+
+<div align="center">
+
+  <img src="image-report/presentation.png">
+
+</div>
+
+<div align="center">
+
+  <img src="image-report/login.png">
+
+</div>
+
+<div align="center">
+
+  <img src="image-report/register.png">
+
+</div>
+
+<div align="center">
+
+  <img src="image-report/home.png">
+
+</div>
+
+<div align="center">
+
+  <img src="image-report/trips.png">
+
+</div>
+
+<div align="center">
+
+  <img src="image-report/findBus.png">
+
+</div>
+
+<div align="center">
+
+  <img src="image-report/selectBus.png">
+
+</div>
+
+<div align="center">
+
+  <img src="image-report/profile.png">
+
+</div>
+
+<div align="center">
+
+  <img src="image-report/payment.png">
+
+</div>
+
+<div align="center">
+
+  <img src="image-report/promotions.png">
+
+</div>
+
+
+
+<div align="center">
+
+  <img src="image-report/help.png">
+
+</div>
+
+### 4.4.2. Mobile Applications Wireflow Diagrams.
+
+<div align="center">
+
+  <img src="image-report/wireframe-flow1.jpg">
+
+</div>
+  
+
+<div align="center">
+
+  <img src="image-report/wireframe-flow2.jpg">
+
+</div>
+
+### 4.4.3. Mobile Applications Mock-ups.
+
+<div align="center">
+
+  <img src="image-report/mobile-mockup.png">
+
+</div>
+
+
+### 4.4.4. Mobile Applications User Flow Diagrams.
+
+<div align="center">
+
+  <img src="image-report/userflow1.jpg">
+</div>
+
+<div align="center">
+
+  <img src="image-report/userflow2.jpg">
+</div>
+
+## 4.5. Mobile Applications Prototyping.
+
+<div align="center">
+
+  <img src="image-report/prototipo.png">
+</div>
+
+Link de prototipo: https://www.figma.com/proto/aJREmuLbY7nLlgmOTtjcW5/TrackMyRoute-Web?type=design&node-id=3-6&t=PO71zMM1GnVJDk1r-1&scaling=scale-down-width&page-id=1%3A3&starting-point-node-id=3%3A6&mode=design
+
+### 4.5.1. Android Mobile Applications Prototyping.
+
+Link de prototipo: https://www.figma.com/design/gRfIpmDEc54Tptas8ZOsgU/TrackMyRoute---Experimentos?node-id=0-1&t=7fVzSFGuX1I6ZYXA-1
+
+### 4.5.2. iOS Mobile Applications Prototyping.
+
+Link de prototipo: https://www.figma.com/design/gRfIpmDEc54Tptas8ZOsgU/TrackMyRoute---Experimentos?node-id=0-1&t=7fVzSFGuX1I6ZYXA-1
+
+### 4.6. Web Applications UX/UI Design.
+### 4.6.1. Web Applications Wireframes.
+
+Los wireframes actúan como el plano de la aplicación web, delineando la estructura y el diseño de cada página. Se enfocan en:
+
+Diseño de la Página: Estructura básica sin colores ni gráficos.
+Ubicación del Contenido: Posicionamiento de elementos clave como menús de navegación, botones y bloques de contenido.
+Visualización del Flujo de Usuario: Ilustrando cómo los usuarios navegarán a través de la aplicación.
+
+<div align="center">
+
+  <img src="image-report/Wireframe-Login.png">
+
+</div>
+
+<div align="center">
+
+  <img src="image-report/Wireframe-Register.png">
+
+</div>
+
+<div align="center">
+
+  <img src="image-report/Wireframe-BuscarRutas.png">
+
+</div>
+
+<div align="center">
+
+  <img src="image-report/Wireframe-PagarPasaje.png">
+
+</div>
+
+<div align="center">
+
+  <img src="image-report/Wireframe-Promos.png">
+
+</div>
+
+<div align="center">
+
+  <img src="image-report/Wireframe-HistorialdeViajes.png">
+
+</div>
+
+<div align="center">
+
+  <img src="image-report/Wireframe-SoporteyAyuda.png">
+
+</div>
+
+<div align="center">
+
+  <img src="image-report/Wireframe-Configuracion.png">
+
+</div>
+
+Link de wireframe:  https://www.figma.com/design/aJREmuLbY7nLlgmOTtjcW5/TrackMyRoute-Web?node-id=2053-676&node-type=FRAME&t=gDbP6FCDP3Ohxegw-0
+
+### 4.6.2. Web Applications Wireflow Diagrams.
+
+<div align="center">
+
+  <img src="image-report/userflow2.jpg">
+</div>
+
+### 4.6.3. Web Applications Mock-ups.
+
+
+<div align="center">
+
+  <img src="image-report/landing_Login.png">
+
+</div>
+
+<div align="center">
+
+  <img src="image-report/Landing_register.png">
+
+</div>
+
+<div align="center">
+
+  <img src="image-report/Landing_Recuperar-Contraseña.png">
+
+</div>
+
+<div align="center">
+
+  <img src="image-report/Dashboard-BuscarRutas.png">
+
+</div>
+
+<div align="center">
+
+  <img src="image-report/Dashboard-BuscarRutas-origen.png">
+
+</div>
+
+<div align="center">
+
+  <img src="image-report/Dashboard-BuscarRutas-destino.png">
+
+</div>
+
+<div align="center">
+
+  <img src="image-report/Dashboard-BuscarRutas-final.png">
+
+</div>
+
+<div align="center">
+
+  <img src="image-report/Dashboard-PagarPasaje.png">
+
+</div>
+
+<div align="center">
+
+  <img src="image-report/Dashboard-HistorialdeViajes.png">
+
+</div>
+
+<div align="center">
+
+  <img src="image-report/Dashboard-Promos.png">
+
+</div>
+
+<div align="center">
+
+  <img src="image-report/Dashboard-SoporteyAyuda.png">
+
+</div>
+
+<div align="center">
+
+  <img src="image-report/Dashboard-Configuracion.png">
+
+</div>
+
+### 4.6.4. Web Applications User Flow Diagrams.
+
+<div align="center">
+
+  <img src="image-report/WebApplicationFlow.png">
+</div>
+
+## 4.7. Web Applications Prototyping.
+
+Link de Interactive Prototype: https://www.figma.com/proto/aJREmuLbY7nLlgmOTtjcW5/TrackMyRoute-Web?type=design&node-id=3-6&t=PO71zMM1GnVJDk1r-1&scaling=scale-down-width&page-id=1%3A3&starting-point-node-id=3%3A6&show-proto-sidebar=1
+
+## 4.8. Domain-Driven Software Architecture.
+
+Para el modelo de negocio que utilizaremos para desarrollar nuestro software complejo que se centra en la problematica que abordamos. para ello utilizaremos la tecnica de modelado C4 Model.
+
+### 4.8.1. Software Architecture Context Diagram.
+
+Este es el diagrama de Contexto de nuestro sistema:
+<a href="https://ibb.co/6sR9D3q"><img src="https://i.ibb.co/9Y9KyFd/Diagrama-de-contexto.png" alt="Diagrama-de-contexto" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'>
+
+### 4.8.2. Software Architecture Container Diagrams.
+
+Este es el diagrama de Contenedores de nuestro sistema:
+<a href="https://ibb.co/WGG7WvQ"><img src="https://i.ibb.co/rFFqG2g/Diagrama-de-Contenedores.png" alt="Diagrama-de-Contenedores" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'>
+
+### 4.8.3. Software Architecture Components Diagrams.
+
+Esto son los diagramas de componentes de nuestro sistema:
+##### Diagrama de componentes #1:
+<a href="https://ibb.co/fY8VnbZ"><img src="https://i.ibb.co/RphGB1t/Diagrama-de-Componentes-1.png" alt="Diagrama-de-Componentes-1" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'>
+
+##### Diagrama de componentes #2:
+<a href="https://ibb.co/16Fq7d3"><img src="https://i.ibb.co/FVRwm09/Diagrama-de-Componentes-2.png" alt="Diagrama-de-Componentes-2" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'>
+
+##### Diagrama de componentes #3:
+<a href="https://ibb.co/ZK3KrfR"><img src="https://i.ibb.co/J2N2TcW/Diagrama-de-Componentes-3.png" alt="Diagrama-de-Componentes-3" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'>
+
+##### Diagrama de componentes #4:
+<a href="https://ibb.co/0qRCjGF"><img src="https://i.ibb.co/cJS6crC/Diagrama-de-Componentes-4.png" alt="Diagrama-de-Componentes-4" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'>
+
+## 4.9. Software Object-Oriented Design.
+### 4.9.1. Class Diagrams.
+
+Para nuestro sistema, hemos implementado un diagrama de clases. Este diagrama visualiza la estructura estática del software, mostrando las clases, sus atributos y las relaciones entre ellas. Es una herramienta esencial que nos ayuda a comprender cómo se organizan y comunican las diferentes partes de nuestro sistema de software.
+
+Diagramas de clases por módulo:
+
+- User Interface:
+
+<a href="https://ibb.co/dBRPs3p"><img src="https://i.ibb.co/SNztD1m/Register-user.png" alt="Register-user" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'>
+
+- Subscription:
+
+<a href="https://ibb.co/7SFX1G9"><img src="https://i.ibb.co/3TH7C0J/Subscription.png" alt="Subscription" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'>
+
+- FAQ:
+
+<a href="https://ibb.co/swKY5Km"><img src="https://i.ibb.co/0MCbBCD/FAQ.png" alt="FAQ" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'>
+
+- Track Route:
+
+<a href="https://ibb.co/VWL1F4z"><img src="https://i.ibb.co/ccyBWnZ/TRACK-ROUTE.png" alt="TRACK-ROUTE" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'>
+
+### 4.9.2. Class Dictionary.
+
+Explicacion del funcionamiento de cada funcion por módulo.
+Módulos:
+
+- User Interface:
+Para explicar nuestro sistema de usuario este tendra que registrarse para luego iniciar sesion en su cuenta, donde este recibira un correo para confirmar su creacion, todo esto en una clase llamada UserInterface que recibira toda la información.
+
+<a href="https://ibb.co/GTyXMmL"><img src="https://i.ibb.co/C2gq9LZ/1.png" alt="1" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'>
+
+- Subscription:
+Este modulo de clases es referido a la eleccion que tenga el usuario sobre la subscripcion que desea poseer.
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/gDHP4gp/Captura-de-pantalla-2024-04-12-012158.png" alt="Captura-de-pantalla-2024-04-12-012158" border="0"></a>
+
+- FAQ:
+Esta esta dirigido a una parte mas de dudas que tenga el usuario sobre el uso o funcionamiento de la aplicación.
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/41KRfZJ/Captura-de-pantalla-2024-04-12-012114.png" alt="Captura-de-pantalla-2024-04-12-012114" border="0"></a>
+
+- Track Route:
+Esta es el modulo que explica el funcionamiento principal de la aplicacion, nos mostrara la ruta de los buses y como de acuerdo a las preferencias del usuario puede variar, ademas de una funcionalidad para pagar el servicio del bus que este desee tomar.
+
+<a href="https://ibb.co/VWL1F4z"><img src="https://i.ibb.co/ccyBWnZ/TRACK-ROUTE.png" alt="TRACK-ROUTE" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'>
+
+## 4.10. Database Design.
+
+Para explicar el sistema de nuestra aplicacion comenzemos por las entidades como buses company y customers cada una de ellas se refiere a los usuarios tanto de buses como el cliente que se transporta(Este de acuerdo a la subscripcion que posea tiene distintos beneficios)
+
+### 4.10.1. Relational/Non-Relational Database Diagram.
+
+Utilizamos MySql para le creación de la base de datos por lo cual es una relacional.
+
+<a href="https://ibb.co/kgsjjrs"><img src="https://i.ibb.co/svdnnDd/Captura-de-pantalla-2024-04-13-000952.png" alt="Captura-de-pantalla-2024-04-13-000952" border="0"></a>
+
+Tenemos una entidad que explica la data que va tener cada uno de los buses en nuestro sistema. 
+<a href="https://ibb.co/5Yb6Zb7"><img src="https://i.ibb.co/pWYxqYm/Captura-de-pantalla-2024-04-13-001411.png" alt="Captura-de-pantalla-2024-04-13-001411" border="0"></a>
+
+Tenemos una entidad llamada tracMyRouteBuses esta se refiere a la data que va recibir sobre las rutas que van a tomar los distintos servicios de buses.
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/tm6Y0Dq/image.png" alt="image" border="0"></a>
+
+Estas pueden ser personalizadas por el usuario.
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/RbR8SC8/Captura-de-pantalla-2024-04-12-011834.png" alt="Captura-de-pantalla-2024-04-12-011834" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'>
+
+Para que este verifique si es valido la ruta que ah sido escogida y el status es un dato uqe se mandara a la entidad "Status_TrackRouteBuses".
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/H2ttRPK/Captura-de-pantalla-2024-04-12-011940.png" alt="Captura-de-pantalla-2024-04-12-011940" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'>
+
+Tenemos una entidad la cual se encarga de ver la subscripcion actual del usuario y que beneficios este va poseer.
+
+<a href="https://ibb.co/dcTTW3s"><img src="https://i.ibb.co/rtjj7LK/Captura-de-pantalla-2024-04-13-001255.png" alt="Captura-de-pantalla-2024-04-13-001255" border="0"></a>
