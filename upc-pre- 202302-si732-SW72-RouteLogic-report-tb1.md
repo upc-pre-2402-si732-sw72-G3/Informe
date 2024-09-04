@@ -1411,7 +1411,7 @@ Se ha utilizado Github para alojar los distintos repositorios creados por los mi
     <tbody>
         <tr>
             <td>Link Landing Page:</td>
-            <td> https://github.com/upc-pre-2402-si732-sw72-G3/Landing </td>
+            <td> https://g2-aplicacionesweb-si91.github.io/Landing/ </td>
         </tr>
         <tr>
             <td> Backend Services: </td>
