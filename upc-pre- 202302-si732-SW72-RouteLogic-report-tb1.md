@@ -1554,4 +1554,1525 @@ Con el fin de desplegar el frontend usaremos Firebase, que se usa continuamente 
     </tbody>
 </table>
 
----
+## 5.2 Landing Page, Services & Applications Implementation.
+- ### 5.2.1 Sprint 1
+- #### 5.2.1.1. Sprint Planning 1
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td>Sprint 1</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Date</td>
+            <td>30/03/2024</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>00:00 am</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Google Meet</td>
+        </tr>
+        <tr>
+            <td>Prepared By</td>
+            <td>TrackMyRoute</td>
+        </tr>
+        <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td>Rivas Sarango, David Alejandro / Ramirez Mendoza, Carlos Arian / Valenzuela Vallejos, Alessandro Stefano  / Casimiro Fernandez, Carlos Oswaldo / Landeo Simeón, Favio Sebastián</td>
+        </tr>
+        <tr>
+            <td>Sprint n – 1 Review Summary</td>
+            <td>Debido a que es el primer sprint, no hay reviews de un sprint anterior.</td>
+        </tr>
+        <tr>
+            <td>Sprint n – 1 Retrospective Summary</td>
+            <td>Siendo el primer sprint, se mencionará la expectativa de los miembros del equipo: Terminar las actividades antes de la crítica. </td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Goal</td>
+            <td>Diseñar e implementar la Landing Page de TrackMyRoute para dar a conocer el valor de la propuesta.</td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Velocity</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>Sum of Story Points</td>
+            <td>21</td>
+        </tr>
+    </tbody>
+</table>
+  
+- #### 5.2.1.2. Sprint Backlog 1
+   
+  En este primer Sprint backlog el grupo se enfoco en realizar la Landing page. Para el registro de cada tarea utilizamos Trello.
+
+<img src='image-report/Sprint1-Trello.JPG' />
+
+Link trello: https://trello.com/b/Bwzbm2Db/sprint1
+
+
+<table>
+    <thead>
+            <tr>
+            <td>Sprint #:</td>
+            <td colspan="7">Sprint 1</td>
+            </tr>
+            <tr>
+                <td colspan="2">User Story</td>
+                <td colspan="6">Work-Item / Task</td>
+            </tr>
+            <tr>
+                <td>ID</td>
+                <td>Title</td>
+                <td>ID</td>
+                <td>Title</td>
+                <td>Description</td>
+                <td>Estimation (Hours)</td>
+                <td>Assigned to</td>
+                <td>Status (To-Do/In-Process/To-Review/Done)</td>
+            </tr>
+    </thead>
+    <tbody>
+            <tr>
+                <td>HU24</td>
+                <td>sección principal de landing page</td>
+                <td>01</td>
+                <td>Sección principal de Landing Page</td>
+                <td>Usuario debe serle visualmente atractiva la página y su contenido.</td>
+                <td>2</td>
+                <td>Favio Landeo</td>
+                <td>Done</td>
+            </tr>
+	    <tr>
+                <td>HU25</td>
+                <td>información de beneficios</td>
+                <td>02</td>
+                <td>nformación de beneficios</td>
+                <td>Usuario debe poder visualizar una sección dedicada a los beneficios de la aplicación.</td>
+                <td>2</td>
+                <td>Alessandro Valenzuela</td>
+                <td>Done</td>
+            </tr>
+	    <tr>
+                <td>HU26</td>
+                <td>conocer los aliados que respaldan la app</td>
+                <td>03</td>
+                <td>Conocer los aliados que respaldan la app</td>
+                <td>Usuario debe poder visualizar una lista de aliados estratégicos.</td>
+                <td>2</td>
+                <td>Arian Ramirez</td>
+                <td>To-Do</td>
+            </tr>
+	    <tr>
+                <td>HU27</td>
+                <td>reseñas de usuarios satisfechos</td>
+                <td>04</td>
+                <td>Reseñas de usuarios satisfechos</td>
+                <td>Usuario debe poder visualizar reseñas y testimonios de usuarios satisfechos con la aplicación.</td>
+                <td>2</td>
+                <td>Not asigned yet</td>
+                <td>Arian Ramirez</td>
+            </tr>
+	    <tr>
+                <td>HU28</td>
+                <td>conocer los planes de suscripción</td>
+                <td>05</td>
+                <td>Conocer los planes de suscripción</td>
+                <td>Usuario debe poder visualizar información sobre los planes de suscripción.</td>
+                <td>2</td>
+                <td>Not asigned yet</td>
+                <td>Carlos Casimiro</td>
+            </tr>
+	    <tr>
+                <td>HU29</td>
+                <td>obtener respuestas a preguntas frecuentes</td>
+                <td>06</td>
+                <td>Obtener respuestas a preguntas frecuentes</td>
+                <td>Usuario debe poder visualizar una sección de preguntas frecuentes.</td>
+                <td>2</td>
+                <td>Not asigned yet</td>
+                <td>David Rivas/td>
+            </tr>
+    </tbody>
+</table>
+  
+- #### 5.2.1.3. Development Evidence for Sprint Review
+<table>
+    <thead>
+            <tr>
+                <td><strong>Repository</strong></td>
+                <td><strong>Branch</strong></td>
+                <td><strong>Commit ID</strong></td>
+                <td><strong>Commit Message</strong></td>
+                <td><strong>Commit Message Body</strong></td>
+                <td><strong>Commited on (Date)</strong></td>
+            </tr>
+    </thead>
+    <tbody>
+            <tr>
+                <td>https://github.com/G2-AplicacionesWeb-SI91/Landing</td>
+                <td>Landing page - main</td>
+                <td>bd194a8</td>
+                <td>chore: init commit landing page html and css</td>
+                <td>chore: init commit landing page html and css</td>
+                <td>14/04/2024</td>
+            </tr>
+	    <tr>
+                <td></td>
+                <td>Landing page - main</td>
+                <td>7fa250e</td>
+                <td>landing ended</td>
+                <td>landing ended</td>
+                <td>14/04/2024</td>
+            </tr>
+	    <tr>
+                <td></td>
+                <td>Landing page - main</td>
+                <td>5f79f2a</td>
+                <td>fix: img url</td>
+                <td>fix: img url</td>
+                <td>14/04/2024</td>
+            </tr>
+	    <tr>
+                <td></td>
+                <td>Landing page - main</td>
+                <td>fed933d</td>
+                <td>fix: url img</td>
+                <td>fix: url img</td>
+                <td>14/04/2024</td>
+            </tr>
+	    <tr>
+                <td></td>
+                <td>Landing page - main</td>
+                <td>5b5966f</td>
+                <td>Update styles.css</td>
+                <td>Update styles.css</td>
+                <td>14/04/2024</td>
+            </tr>
+	    <tr>
+                <td></td>
+                <td>Landing page - main</td>
+                <td>934607f</td>
+                <td>updated: format document</td>
+                <td>updated: format document</td>
+                <td>14/04/2024</td>
+            </tr>
+	    <tr>
+                <td></td>
+                <td>Landing page - main</td>
+                <td>248073c</td>
+                <td>Update index.html</td>
+                <td>Update index.html</td>
+                <td>14/04/2024</td>
+            </tr>
+    </tbody>
+</table>
+   
+- #### 5.2.1.4. Testing Suite Evidence for Sprint Review
+   En este punto del trabajo aun no se empieza el desarrollo de la Web Application por lo que no se esta usando ningun servicio de Testing. 
+   
+- #### 5.2.1.5. Execution Evidence for Sprint Review
+
+  Sección LogIn:
+  
+<div align="center">
+
+  <img src="image-report/landing_Login.png">
+
+</div>
+  
+  Sección Register:
+  
+<div align="center">
+
+  <img src="image-report/Landing_register.png">
+
+</div>
+
+  Sección Recuperar contraseña:
+  
+<div align="center">
+
+  <img src="image-report/Landing_Recuperar-Contraseña.png">
+
+</div>
+
+  Sección Buscar rutas:
+  
+<div align="center">
+
+  <img src="image-report/Dashboard-BuscarRutas.png">
+
+</div>
+
+  Sección Pagar pasaje:
+  
+<div align="center">
+
+  <img src="image-report/Dashboard-PagarPasaje.png">
+
+</div>
+
+  Sección Historial de viajes:
+  
+<div align="center">
+
+  <img src="image-report/Dashboard-HistorialdeViajes.png">
+
+</div>
+
+  Sección Promos:
+  
+<div align="center">
+
+  <img src="image-report/Dashboard-Promos.png">
+
+</div>
+
+  Sección Soporte:
+  
+<div align="center">
+
+  <img src="image-report/Dashboard-SoporteyAyuda.png">
+
+</div>
+
+  Sección Configuración:
+  
+<div align="center">
+
+  <img src="image-report/Dashboard-Configuracion.png">
+
+</div>
+  
+- #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+   En este punto del trabajo aun no se empieza el desarrollo de la Web Application por lo que no hemos hecho la implementación de Web Services.
+  
+- #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+   Para realizar el despliegue de la Landing Page hemos utilizado Github Pages ya que permite alojar paginas desde el mismo repositorio, es fácil y práctica de usar, además de gratuita.
+
+   Link de Landing Page desplegada: https://g2-aplicacionesweb-si91.github.io/Landing/
+
+	<img src='image-report/landing1.png'/>
+  <img src='image-report/LANDING-SS2.JPG'/>
+	<img src='image-report/LANDING-SS3.JPG'/>
+	<img src='image-report/LANDING-SS4.JPG'/>
+	<img src='image-report/LANDING-SS5.JPG'/>
+	<img src='image-report/LANDING-SS6.JPG'/>
+
+- #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+<div align="center">
+  <img src="image-report/informe_insight1.png">
+</div>
+
+<div align="center">
+  <img src="image-report/informe_insight2.png">
+</div>
+
+### 5.2.2. Sprint 2
+- #### 5.2.2.1 Sprint Planning 2
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td>Sprint 2</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Date</td>
+            <td>20/04/2024</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>16:50 pm</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Google Meet</td>
+        </tr>
+        <tr>
+            <td>Prepared By</td>
+            <td>TrackMyRoute</td>
+        </tr>
+        <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td>Rivas Sarango, David Alejandro / Ramirez Mendoza, Carlos Arian / Valenzuela Vallejos, Alessandro Stefano  / Casimiro Fernandez, Carlos Oswaldo / Landeo Simeón, Favio Sebastián</td>
+        </tr>
+        <tr>
+            <td>Sprint n – 1 Review Summary</td>
+            <td>Mejorar los call to action de la Landing Page y tener un buen despliegue del landing page.</td>
+        </tr>
+        <tr>
+            <td>Sprint n – 1 Retrospective Summary</td>
+            <td>La colaboración entre los miembros del equipo fue efectiva, lo que permitió resolver los problemas de manera oportuna. </td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Goal</td>
+            <td>Diseñar e implementar más del 80% del frontend de la aplicación web.</td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Velocity</td>
+            <td>28</td>
+        </tr>
+        <tr>
+            <td>Sum of Story Points</td>
+            <td>32</td>
+        </tr>
+    </tbody>
+</table>
+
+- #### 5.2.2.2 Sprint Backlog 2
+
+<table>
+  <thead>
+    <tr>
+    <td>Sprint #:</td>
+    <td colspan="7">Sprint 2</td>
+    </tr>
+    <tr>
+        <td colspan="2">User Story</td>
+        <td colspan="6">Work-Item / Task</td>
+    </tr>
+    <tr>
+        <td>ID</td>
+        <td>Title</td>
+        <td>ID</td>
+        <td>Title</td>
+        <td>Description</td>
+        <td>Estimation (Hours)</td>
+        <td>Assigned to</td>
+        <td>Status (To-Do/In-Process/To-Review/Done)</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>HU34</td>
+      <td>Recuperación de contraseña</td>
+      <td>T001</td>
+      <td>Desarrollo de pagina de recuperación de contraseña</td>
+      <td>Desarrollo e implementacion de la pagina de recuperación de contraseña</td>
+      <td>4 hrs</td>
+      <td>Favio Landeo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>HU01</td>
+      <td>Registrar al usuario</td>
+      <td>T002</td>
+      <td>Desarrollo de pantalla de registro</td>
+      <td>Desarrollo e implementación del la vista de registro de usuario</td>
+      <td>4 hrs</td>
+      <td>Alessandro Valenzuela</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>HU02</td>
+      <td>Inicio de sesión en la aplicación</td>
+      <td>T003</td>
+      <td>Desarrollo de sistema de inicio de sesion</td>
+      <td>Desarrollo e implementación de la vista de inicio de sesión y autenticacion</td>
+      <td>4 hrs</td>
+      <td>Alessandro Valenzuela</td>
+      <td>In Process</td>
+    </tr>
+    <tr>
+      <td>HU16</td>
+      <td>Notificaciones personalizadas</td>
+      <td>T003</td>
+      <td>Desarrollo de pagina de notificaciones</td>
+      <td>Desarrollo e implementación de la vista de notificaciones</td>
+      <td>4 hrs</td>
+      <td>Favio Landeo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>HU08</td>
+      <td>Visualización del menú de opciones</td>
+      <td>T004</td>
+      <td>Desarrollo de menu de opciones	</td>
+      <td>Desarrollo e implementación del side nav con opciones para el usuario</td>
+      <td>4 hrs</td>
+      <td>Arian Ramirez</td>
+      <td>In Process</td>
+    </tr>
+    <tr>
+      <td>HU10</td>
+      <td>Visualización del mapa</td>
+      <td>T005</td>
+      <td>Desarrollo de vista del mapa</td>
+      <td>Desarrollo e implementación de la vista del mapa con los campos de ingreso de origen y destino</td>
+      <td>5 hrs</td>
+      <td>Arian Ramirez</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>HU15</td>
+      <td>Compra de boletos</td>
+      <td>T006</td>
+      <td>Desarrollo de vista pay-ticket</td>
+      <td>Desarrollo e implementación de la vista de la sección para pagar pasaje de algun bus seleccionado</td>
+      <td>7 hrs</td>
+      <td>Arian Ramirez</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>HU30</td>
+      <td>Promociones</td>
+      <td>T007</td>
+      <td>Desarrollo de pagina de promociones</td>
+      <td>Desarrollo e implementación de la vista de promociones que se le ofreceran al usuario premiun</td>
+      <td>4hrs</td>
+      <td>David Rivas</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>HU31</td>
+      <td>Soporte y Ayuda</td>
+      <td>T008</td>
+      <td>Desarrollo de pagina de ayuda</td>
+      <td>Desarrollo e implementación de la vista de soporte y ayuda</td>
+      <td>4hr</td>
+      <td>Carlos Casimiro</td>
+      <td>In Process</td>
+    </tr>
+    <tr>
+      <td>HU32	</td>
+      <td>Configuración	</td>
+      <td>T008</td>
+      <td>Desarrollo de pagina de configuración</td>
+      <td>Desarrollo e implementación de la pagina de configuración</td>
+      <td>4 hr</td>
+      <td>Carlos Casimiro</td>
+      <td>In Process</td>
+    </tr>
+    <tr>
+      <td>HU33</td>
+      <td>Historial de Viajes</td>
+      <td>T008</td>
+      <td>Desarrollo de pagina de historial de viajes</td>
+      <td>Desarrollo e implementación de la pagina de historial de viajes</td>
+      <td>4 hrs</td>
+      <td>David Rivas</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
+
+- #### 5.2.2.3 Development Evidence for Sprint Review
+
+<table>
+  <thead>
+    <tr>
+        <td><strong>Repository</strong></td>
+        <td><strong>Branch</strong></td>
+        <td><strong>Commit ID</strong></td>
+        <td><strong>Commit Message</strong></td>
+        <td><strong>Commited on (Date)</strong></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>https://github.com/G2-AplicacionesWeb-SI91/frontend</td>
+      <td>feature/search-routes</td>
+      <td>d7b5c312db3ba249542b9b2b434d95d8ade15766</td>
+      <td>feat: search routes page</td>
+      <td>04/05/2024</td>
+    </tr>
+    <tr>
+      <td>https://github.com/G2-AplicacionesWeb-SI91/frontend</td>
+      <td>feature/pay-ticket</td>
+      <td>4119f514426ebcb93fd17bca8deae143e49b8bd4</td>
+      <td>feat: pay tickets view</td>
+      <td>04/05/2024</td>
+    </tr>
+    <tr>
+      <td>https://github.com/G2-AplicacionesWeb-SI91/frontend</td>
+      <td>feature/promos</td>
+      <td>2fc2e16784405f25b9289084d5300fa5ab077dac</td>
+      <td>fixed: promo.entity, promo.component, index.js, app.vue</td>
+      <td>03/05/2024</td>
+    </tr>
+    <tr>
+      <td>https://github.com/G2-AplicacionesWeb-SI91/frontend</td>
+      <td>featur/trips-history</td>
+      <td>78d7a6165d458718ff533ce621c8b0603502a756</td>
+      <td>feat: history component and configuration</td>
+      <td>03/05/2024</td>
+    </tr>
+    <tr>
+      <td>https://github.com/G2-AplicacionesWeb-SI91/frontend</td>
+      <td>feature/notifications</td>
+      <td>94e67283e2f100ec0a8752140e6ddb7578f34321</td>
+      <td>feat(side-bar.component): added routes and margin left to side bar.</td>
+      <td>03/05/2024</td>
+    </tr>
+    <tr>
+      <td>https://github.com/G2-AplicacionesWeb-SI91/frontend</td>
+      <td>feature/recovery-pass</td>
+      <td>383cb4dc4ff7873858e1bae32fdb53b97f308d19</td>
+      <td>feat: added header to recovery-pass component</td>
+      <td>03/05/2024</td>
+    </tr>
+  </tbody>
+</table>
+
+- #### 5.2.2.4 Testing Suite Evidence for Sprint Review
+
+En esta entrega no se hace uso de sistemas de Testing ya que solo nos enfocamos en la parte visual de la Web Application
+
+- #### 5.2.2.5 Execution Evidence for Sprint Review
+
+<div align="center">
+
+  <img src="image-report/sprint2-exec1.png">
+
+</div>
+
+<div align="center">
+
+  <img src="image-report/sprint2-exec2.png">
+
+</div>
+
+- #### 5.2.2.6 Services Documentation Evidence for Sprint Review
+
+En esta entrega no se hace uso de Web Services por lo que no hay documentación de ello.
+
+- #### 5.2.2.7 Software Deployment Evidence for Sprint Review
+
+
+
+- #### 5.2.2.8 Team Collaboration Insights during Sprint
+
+<div align="center">
+
+  <img src="image-report/sprint2-insight1.png">
+
+</div>
+
+<div align="center">
+
+  <img src="image-report/sprint2-insight2.png">
+
+</div>
+
+### 5.2.3. Sprint 3
+- #### 5.2.3.1 Sprint Planning 3
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td>Sprint 3</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Date</td>
+            <td>26/05/2024</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>16:50 pm</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Google Meet</td>
+        </tr>
+        <tr>
+            <td>Prepared By</td>
+            <td>TrackMyRoute</td>
+        </tr>
+        <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td>Rivas Sarango, David Alejandro / Ramirez Mendoza, Carlos Arian / Valenzuela Vallejos, Alessandro Stefano  / Casimiro Fernandez, Carlos Oswaldo / Landeo Simeón, Favio Sebastián</td>
+        </tr>
+        <tr>
+            <td>Sprint n – 2 Review Summary</td>
+            <td>Se logró desarrollar los respectivos bounded context en el frontend de TrackMyRoute con las herramientas de Vue.js y mejora en el frontend. </td>
+        </tr>
+        <tr>
+            <td>Sprint n – 2 Retrospective Summary</td>
+            <td>El equipo mantendrá la comunicación como viene haciendo desde el primer sprint y se establecerán mejores parámetros de desarrollo para realizar el desarrollo del backend.</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Goal</td>
+            <td>Se utilazarán las herramientas de C#, .NET, Swagger y MySQL. Diseñar e implementar más del 40% del backend de la aplicación web.</td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Velocity</td>
+            <td>26</td>
+        </tr>
+        <tr>
+            <td>Sum of Story Points</td>
+            <td>32</td>
+        </tr>
+    </tbody>
+</table>
+
+- #### 5.2.3.2 Sprint Backlog 3
+
+En esta entrega nos enfocamos en el backlog del negocio, el funcionamiento interno para que la API funcione correctamente.
+
+<img src="image-report/ssBuenoPB3.JPG" />
+
+<table>
+  <thead>
+    <tr>
+    <td>Sprint #:</td>
+    <td colspan="7">Sprint 3</td>
+    </tr>
+    <tr>
+        <td colspan="2">User Story</td>
+        <td colspan="6">Work-Item / Task</td>
+    </tr>
+    <tr>
+        <td>ID</td>
+        <td>Title</td>
+        <td>ID</td>
+        <td>Title</td>
+        <td>Description</td>
+        <td>Estimation (Hours)</td>
+        <td>Assigned to</td>
+        <td>Status (To-Do/In-Process/To-Review/Done)</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>HU13</td>
+      <td>Planificación de viajes</td>
+      <td>1</td>
+      <td>Planificación de viajes</td>
+      <td>Como cliente quiero planificar mis viajes en función a mi ubicación actual y al destino (se muestran los horarios de salida y de llegada de los buses, su ubicación, etc.) para organizar mejor mis tiempos.</td>
+      <td>5</td>
+      <td>Arian Ramirez</td>
+      <td>Done</td>
+    </tr>
+	  <tr>
+      <td>HU16</td>
+      <td>Notificaciones personalizadas</td>
+      <td>1</td>
+       <td>Notificaciones personalizadas</td>
+      <td>Como cliente quiero recibir notificaciones personalizadas acerca de eventos pertinentes a mi viaje en bus (retrasos, horarios, etc.) para estar al tanto de las situaciones que pueden afectar mi futuro viaje</td>
+      <td>2</td>
+      <td>Favio Landeo</td>
+      <td>Done</td>
+    </tr>
+	  <tr>
+      <td>HU30</td>
+      <td>Promociones</td>
+      <td>1</td>
+     <td>Promociones</td>
+      <td>Como cliente, quiero ver las promociones disponibles en la aplicación para que pueda aprovechar descuentos al utilizar el servicio de transporte público.</td>
+      <td>2</td>
+      <td>David Rivas</td>
+      <td>Done</td>
+    </tr>
+	  <tr>
+      <td>HU02</td>
+      <td>Inicio de sesión en la aplicación</td>
+      <td>1</td>
+     <td>Inicio de sesión en la aplicación</td>
+      <td>Como cliente quiero iniciar sesión en la aplicación con mis credenciales (correo y contraseña) para poder entrar a la aplicación con mi cuenta existente</td>
+      <td>2</td>
+      <td>Alessandro Valenzuela</td>
+      <td>Done</td>
+    </tr>
+	<tr>
+      <td>HU01</td>
+      <td>Registrar al usuario</td>
+      <td>1</td>
+     <td>Registrar al usuario</td>
+      <td>Como cliente quiero registrarme con todos mis datos pertinentes (nombre, correo, edad, etc.) en la aplicación para poder hacer uso de sus funcionalidades.</td>
+      <td>2</td>
+      <td>Alessandro Valenzuela</td>
+      <td>In process</td>
+    </tr>
+<tr>
+      <td>HU20</td>
+      <td>Retroalimentación de los usuarios</td>
+      <td>1</td>
+     <td>Retroalimentación de los usuarios</td>
+      <td>Como cliente quiero dar una retroalimentación sobre mi experiencia de viaje o al utilizar la aplicación para dar a conocer mi agrado o mi malestar con respecto al funcionamiento de esta.</td>
+      <td>3</td>
+      <td>Casimiro</td>
+      <td>In process</td>
+    </tr>
+	  <tr>
+      <td>HU33</td>
+      <td>Historial de Viajes</td>
+      <td>1</td>
+         <td>Historial de Viajes</td>
+      <td>Como cliente, quiero poder acceder a un historial detallado de mis viajes anteriores en la aplicación para que pueda realizar un seguimiento de mis desplazamientos y gastos.</td>
+      <td>5</td>
+      <td>Arian Ramirez</td>
+      <td>Done</td>
+    </tr>
+	  <tr>
+      <td>HU31</td>
+      <td>Soporte y Ayuda</td>
+      <td>1</td>
+      <td>Soporte y Ayuda</td>
+      <td>Como cliente, quiero tener acceso a opciones de soporte y ayuda dentro de la aplicación para que pueda resolver cualquier problema o duda que pueda surgir durante su uso.</td>
+      <td>2</td>
+      <td>Casimiro</td>
+      <td>In process</td>
+    </tr>
+	  <tr>
+      <td>HU06</td>
+      <td>Registro de las empresas operadoras de rutas</td>
+      <td>1</td>
+      <td>Registro de las empresas operadoras de rutas</td>
+      <td>Como desarrollador quiero registrar a las empresas que operan en cada una de las rutas de transporte urbano en buses para así tener un registro de todas estas empresas en la base de datos de la aplicación</td>
+      <td>3</td>
+      <td>David Rivas</td>
+      <td>In process</td>
+    </tr>  
+  </tbody>
+</table>
+
+- #### 5.2.3.3 Development Evidence for Sprint Review
+
+<table>
+  <thead>
+    <tr>
+        <td><strong>Repository</strong></td>
+        <td><strong>Branch</strong></td>
+        <td><strong>Commit ID</strong></td>
+        <td><strong>Commit Message</strong></td>
+        <td><strong>Commited on (Date)</strong></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>https://github.com/G2-AplicacionesWeb-SI91/backend</td>
+      <td>main</td>
+      <td>7aad70f</td>
+      <td>Project Files</td>
+      <td>07/06/2024</td>
+    </tr>
+    <tr>
+      <td>https://github.com/G2-AplicacionesWeb-SI91/backend</td>
+      <td>bc-users</td>
+      <td>f84130b</td>
+      <td>Update Back-Auth 1.1</td>
+      <td>07/06/2024</td>
+    </tr>
+    <tr>
+      <td>https://github.com/G2-AplicacionesWeb-SI91/backend</td>
+      <td>bc-notifications</td>
+      <td>6420fd4</td>
+      <td>fix: updated endpoint name.</td>
+      <td>08/06/2024</td>
+    </tr>
+    <tr>
+      <td>https://github.com/G2-AplicacionesWeb-SI91/backend</td>
+      <td>bc-promo</td>
+      <td>879395c</td>
+      <td>feat: promos interface layer</td>
+      <td>09/06/2024</td>
+    </tr>
+    <tr>
+      <td>https://github.com/G2-AplicacionesWeb-SI91/backend</td>
+      <td>feature/tracking</td>
+      <td>ce1da0e</td>
+      <td>feat(tracking): re do tracking bc</td>
+      <td>09/06/2024</td>
+    </tr>
+  </tbody>
+</table>
+
+- #### 5.2.3.4 Testing Suite Evidence for Sprint Review
+
+En esta entrega no se hace uso de sistemas de Testing ya que solo nos enfocamos en la parte del Backend
+
+- #### 5.2.3.5 Execution Evidence for Sprint Review
+
+<div align="center">
+
+  <img src="image-report/NotifSSjpeg.jpeg">
+
+</div>
+<div align="center">
+
+  <img src="image-report/PaymentsSS.jpeg">
+
+</div>
+
+<div align="center">
+
+  <img src="image-report/PromoSS.JPG">
+
+</div>
+
+- #### 5.2.3.6 Services Documentation Evidence for Sprint Review
+
+Backend Service:
+<table>
+    <thead>
+        <tr>
+            <th>Endpoint</th>
+            <th>Operaciones</th>
+            <th>Parametros</th>
+            <th>URL</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="4">Notifications</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/notifications</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/notifications</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{id}</td>
+            <td>api/v1/notifications/{id}</td>
+        </tr>
+	<tr>
+		<td rowspan="5">Payments</td>
+	</tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/payments</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{answerId}</td>
+            <td>api/v1/payments/{id}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{busCompany}</td>
+            <td>api/v1/payments/bus-company/{busCompany}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/payments</td>
+        </tr>
+	    <tr>
+	    <td rowspan="3">Promos</td>
+	    </tr>
+        <tr>
+            <td>GET</td>
+            <td>{promoId}</td>
+            <td>api/v1/promo/{promoId}</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/promo</td>
+        </tr>
+    </tbody>
+</table>
+
+
+- #### 5.2.3.7 Software Deployment Evidence for Sprint Review
+
+* Langing Page
+  <table>
+    <tbody>
+        <tr>
+            <td> https://g2-aplicacionesweb-si91.github.io/Landing/</td>
+        </tr>
+    </tbody>
+</table>
+* Frontend-application
+<table>
+    <tbody>
+        <tr>
+            <td>https://trackmyroute-appsweb123.web.app/login</td>
+        </tr>
+    </tbody>
+</table>
+* Backend Service
+Nos enfocamos en la evidencia del backend para este sprint, se trabajo con SwaggerAPI para el testeo de conexión y correcto funcionamiento del backend.
+
+<div align="center">
+
+  <img src="image-report/NotifSSjpeg.jpeg">
+
+</div>
+<div align="center">
+
+  <img src="image-report/PaymentsSS.jpeg">
+
+</div>
+
+<div align="center">
+
+  <img src="image-report/PromoSS.JPG">
+
+</div>
+
+- #### 5.2.3.8 Team Collaboration Insights during Sprint
+
+<div align="center">
+
+  <img src="image-report/SSPULSE TB2.JPG">
+
+</div>
+
+<div align="center">
+
+  <img src="image-report/ssGitFlowTB2.JPG">
+
+</div>
+
+### 5.2.4. Sprint 4
+- #### 5.2.4.1 Sprint Planning 4
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td>Sprint 4</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Date</td>
+            <td>28/06/2024</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>7:00 am</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Google Meet</td>
+        </tr>
+        <tr>
+            <td>Prepared By</td>
+            <td>TrackMyRoute</td>
+        </tr>
+        <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td>Rivas Sarango, David Alejandro / Ramirez Mendoza, Carlos Arian / Valenzuela Vallejos, Alessandro Stefano  / Casimiro Fernandez, Carlos Oswaldo / Landeo Simeón, Favio Sebastián</td>
+        </tr>
+        <tr>
+            <td>Sprint n – 2 Review Summary</td>
+            <td>Se logró desarrollar los respectivos bounded context en el frontend de TrackMyRoute con las herramientas de Vue.js y mejora en el frontend. </td>
+        </tr>
+        <tr>
+            <td>Sprint n – 2 Retrospective Summary</td>
+            <td>El equipo mantendrá la comunicación como viene haciendo desde el primer sprint y se establecerán mejores parámetros de desarrollo para realizar el desarrollo del backend.</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Goal</td>
+            <td>Se logro implementar en su totalidad todas las funcionalidades del backend para el funcionamiento de la pagina web.</td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Velocity</td>
+            <td>26</td>
+        </tr>
+        <tr>
+            <td>Sum of Story Points</td>
+            <td>32</td>
+        </tr>
+    </tbody>
+</table>
+
+- #### 5.2.4.2 Sprint Backlog 4
+
+En esta entrega nos enfocamos en el backlog del negocio, el funcionamiento interno para que la API funcione correctamente.
+
+<img src="image-report/ss01TF.JPG" />
+
+Link: [https://trello.com/b/8cUWzeGy/si730-2401-si91-grupo2]
+
+<table>
+  <thead>
+    <tr>
+    <td>Sprint #:</td>
+    <td colspan="7">Sprint 4</td>
+    </tr>
+    <tr>
+        <td colspan="2">User Story</td>
+        <td colspan="6">Work-Item / Task</td>
+    </tr>
+    <tr>
+        <td>ID</td>
+        <td>Title</td>
+        <td>ID</td>
+        <td>Title</td>
+        <td>Description</td>
+        <td>Estimation (Hours)</td>
+        <td>Assigned to</td>
+        <td>Status (To-Do/In-Process/To-Review/Done)</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>HU13</td>
+      <td>Planificación de viajes conexion Backend con Frontend</td>
+      <td>1</td>
+      <td>Planificación de viajes</td>
+      <td>Como cliente quiero planificar mis viajes en función a mi ubicación actual y al destino (se muestran los horarios de salida y de llegada de los buses, su ubicación, etc.) para organizar mejor mis tiempos.</td>
+      <td>5</td>
+      <td>Arian Ramirez</td>
+      <td>Done</td>
+    </tr>
+	  <tr>
+      <td>HU16</td>
+      <td>Notificaciones personalizadas conexion Backend con Frontend</td>
+      <td>1</td>
+       <td>Notificaciones personalizadas</td>
+      <td>Como cliente quiero recibir notificaciones personalizadas acerca de eventos pertinentes a mi viaje en bus (retrasos, horarios, etc.) para estar al tanto de las situaciones que pueden afectar mi futuro viaje</td>
+      <td>2</td>
+      <td>Favio Landeo</td>
+      <td>Done</td>
+    </tr>
+	  <tr>
+      <td>HU30</td>
+      <td>Promociones conexion Backend con Frontend</td>
+      <td>1</td>
+     <td>Promociones </td>
+      <td>Como cliente, quiero ver las promociones disponibles en la aplicación para que pueda aprovechar descuentos al utilizar el servicio de transporte público.</td>
+      <td>2</td>
+      <td>David Rivas</td>
+      <td>Done</td>
+    </tr>
+	  <tr>
+      <td>HU02</td>
+      <td>Inicio de sesión en la aplicación conexion Backend con Frontend</td>
+      <td>1</td>
+     <td>Inicio de sesión en la aplicación</td>
+      <td>Como cliente quiero iniciar sesión en la aplicación con mis credenciales (correo y contraseña) para poder entrar a la aplicación con mi cuenta existente</td>
+      <td>2</td>
+      <td>Alessandro Valenzuela</td>
+      <td>Done</td>
+    </tr>
+	<tr>
+      <td>HU01</td>
+      <td>Registrar al usuario conexion Backend con Frontend</td>
+      <td>1</td>
+     <td>Registrar al usuario</td>
+      <td>Como cliente quiero registrarme con todos mis datos pertinentes (nombre, correo, edad, etc.) en la aplicación para poder hacer uso de sus funcionalidades.</td>
+      <td>2</td>
+      <td>Alessandro Valenzuela</td>
+      <td>In process</td>
+    </tr>
+<tr>
+      <td>HU20</td>
+      <td>Retroalimentación de los usuarios conexion Backend con Frontend</td>
+      <td>1</td>
+     <td>Retroalimentación de los usuarios</td>
+      <td>Como cliente quiero dar una retroalimentación sobre mi experiencia de viaje o al utilizar la aplicación para dar a conocer mi agrado o mi malestar con respecto al funcionamiento de esta.</td>
+      <td>3</td>
+      <td>Casimiro</td>
+      <td>In process</td>
+    </tr>
+	  <tr>
+      <td>HU33</td>
+      <td>Historial de Viajes conexion Backend con Frontend</td>
+      <td>1</td>
+         <td>Historial de Viajes conexion Backend con Frontend</td>
+      <td>Como cliente, quiero poder acceder a un historial detallado de mis viajes anteriores en la aplicación para que pueda realizar un seguimiento de mis desplazamientos y gastos.</td>
+      <td>5</td>
+      <td>Arian Ramirez</td>
+      <td>Done</td>
+    </tr>
+	  <tr>
+      <td>HU31</td>
+      <td>Soporte y Ayuda conexion Backend con Frontend</td>
+      <td>1</td>
+      <td>Soporte y Ayuda</td>
+      <td>Como cliente, quiero tener acceso a opciones de soporte y ayuda dentro de la aplicación para que pueda resolver cualquier problema o duda que pueda surgir durante su uso.</td>
+      <td>2</td>
+      <td>Casimiro</td>
+      <td>In process</td>
+    </tr>
+	  <tr>
+      <td>HU06</td>
+      <td>Registro de las empresas operadoras de rutas conexion Backend con Frontend</td>
+      <td>1</td>
+      <td>Registro de las empresas operadoras de rutas</td>
+      <td>Como desarrollador quiero registrar a las empresas que operan en cada una de las rutas de transporte urbano en buses para así tener un registro de todas estas empresas en la base de datos de la aplicación</td>
+      <td>3</td>
+      <td>David Rivas</td>
+      <td>In process</td>
+    </tr>  
+  </tbody>
+</table>
+
+- #### 5.2.4.3 Development Evidence for Sprint Review
+
+<table>
+  <thead>
+    <tr>
+        <td><strong>Repository</strong></td>
+        <td><strong>Branch</strong></td>
+        <td><strong>Commit ID</strong></td>
+        <td><strong>Commit Message</strong></td>
+        <td><strong>Commited on (Date)</strong></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>https://github.com/G2-AplicacionesWeb-SI91/backend</td>
+      <td>feature/payment</td>
+      <td>ddb8626</td>
+      <td>feat(feature/payment): get and post methods</td>
+      <td>07/06/2024</td>
+    </tr>
+    <tr>
+      <td>https://github.com/G2-AplicacionesWeb-SI91/backend</td>
+      <td>bc-users</td>
+      <td>f84130b</td>
+      <td>Update Back-Auth 1.1</td>
+      <td>07/06/2024</td>
+    </tr>
+    <tr>
+      <td>https://github.com/G2-AplicacionesWeb-SI91/backend</td>
+      <td>bc-notifications</td>
+      <td>87926ea</td>
+      <td>fix: fixed api controller route.</td>
+      <td>08/06/2024</td>
+    </tr>
+    <tr>
+      <td>https://github.com/G2-AplicacionesWeb-SI91/backend</td>
+      <td>bc-promo</td>
+      <td>5776b69</td>
+      <td>feat: promoaudit</td>
+      <td>09/06/2024</td>
+    </tr>
+    <tr>
+      <td>https://github.com/G2-AplicacionesWeb-SI91/backend</td>
+      <td>feature/tracking</td>
+      <td>3d9c109</td>
+      <td>fix(feature/tracking): new query</td>
+      <td>09/06/2024</td>
+    </tr>
+  </tbody>
+</table>
+
+- #### 5.2.4.4 Testing Suite Evidence for Sprint Review
+
+<div align="center">
+
+  <img src="./image-report/back-test-1.png">
+
+</div>
+
+<div align="center">
+
+  <img src="./image-report/back-test-2.png">
+
+</div>
+
+<div align="center">
+
+  <img src="./image-report/back-test-3.png">
+
+</div>
+
+<div align="center">
+
+  <img src="./image-report/back-test-4.png">
+
+</div>
+
+- #### 5.2.4.5 Execution Evidence for Sprint Review
+
+<div align="center">
+
+  <img src="./image-report/back-sprint4.jpg">
+
+</div>
+
+
+- #### 5.2.4.6 Services Documentation Evidence for Sprint Review
+
+Backend Service:
+<table>
+    <thead>
+        <tr>
+            <th>Endpoint</th>
+            <th>Operaciones</th>
+            <th>Parametros</th>
+            <th>URL</th>
+        </tr>
+    </thead>
+    <tbody>
+    <tr>
+            <td rowspan="3">Authentication</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/authentication/sign-in</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/authentication/sign-up</td>
+        </tr>
+        <tr>
+            <td rowspan="4">Profiles</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/profiles</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/profiles</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{id}</td>
+            <td>api/v1/profiles/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="4">Notifications</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/notifications</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/notifications</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{id}</td>
+            <td>api/v1/notifications/{id}</td>
+        </tr>
+	<tr>
+		<td rowspan="5">Payments</td>
+	</tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/payments</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{answerId}</td>
+            <td>api/v1/payments/{id}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{busCompany}</td>
+            <td>api/v1/payments/bus-company/{busCompany}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/payments</td>
+        </tr>
+	    <tr>
+	    <td rowspan="4">Promos</td>
+	    </tr>
+        <tr>
+            <td>GET</td>
+            <td>{promoId}</td>
+            <td>api/v1/promo/{promoId}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/promo/</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/promo</td>
+        </tr>
+    </tbody>
+</table>
+
+
+- #### 5.2.4.7 Software Deployment Evidence for Sprint Review
+
+* Langing Page
+  <table>
+    <tbody>
+        <tr>
+            <td> https://g2-aplicacionesweb-si91.github.io/Landing/</td>
+        </tr>
+    </tbody>
+</table>
+* Frontend-application
+<table>
+    <tbody>
+        <tr>
+            <td>https://trackmyroute-appsweb123.web.app/login</td>
+        </tr>
+    </tbody>
+</table>
+* Backend Service
+Nos enfocamos en la evidencia del backend para este sprint, se trabajo con SwaggerAPI para el testeo de conexión y correcto funcionamiento del backend.
+
+<div align="center">
+
+  <img src="image-report/NotifSSjpeg.jpeg">
+
+</div>
+<div align="center">
+
+  <img src="image-report/PaymentsSS.jpeg">
+
+</div>
+
+<div align="center">
+
+  <img src="image-report/PromoSS.JPG">
+
+</div>
+
+- #### 5.2.4.8 Team Collaboration Insights during Sprint
+
+<div align="center">
+
+  <img src="image-report/SSPULSE TB2.JPG">
+
+</div>
+
+<div align="center">
+
+  <img src="./image-report/insight-1-sprint-4.png">
+
+</div>
+
+
+## 5.3. Validation Interviews
+
+En esta sección, el equipo registra y explica las actividades de entrevistas de validación durante el proyecto.
+
+### 5.3.1. Diseño de Entrevistas 
+
+**Segmento 1: Usuarios de servicios de transporte**
+
+1. ¿La información en la página principal te ayuda a comprender claramente el objetivo de TrackMyRoute?
+2. ¿Qué tan sencillo fue navegar por la página principal y encontrar la información que necesitabas?
+3. ¿El diseño de la página principal es atractivo y profesional?
+4. ¿Está bien comunicada la propuesta de valor de TrackMyRoute y te resulta convincente?
+5. ¿Qué elementos o información adicional te gustaría ver en la página principal para sentirte más seguro al usar nuestro servicio?
+6. ¿Qué tan intuitivo es el proceso de registro e inicio de sesión en la aplicación?
+7. ¿Están claramente explicadas y son fáciles de usar las funcionalidades principales de TrackMyRoute?
+8. ¿Te parecen agradables y prácticos el diseño y la disposición de los elementos en la aplicación web?
+9. ¿Te sientes cómodo navegando por las diferentes secciones de la aplicación web?
+10. ¿Crees que falta alguna funcionalidad o característica en la aplicación web?
+
+**Segmento 2: Empresas y conductores de transporte público**
+
+1. ¿La página principal comunica claramente los beneficios de TrackMyRoute para tu negocio?
+2. ¿Encuentras fácilmente la información sobre planes y precios en la página principal?
+3. ¿Qué tan profesional y confiable te parece la presentación de la página principal?
+4. ¿La sección de testimonios o casos de éxito te ayuda a confiar en TrackMyRoute?
+5. ¿Qué información adicional te gustaría ver en la página principal para considerar implementar TrackMyRoute en tu empresa?
+6. ¿Es claro y fácil de seguir el proceso de configuración inicial de la aplicación web?
+7. ¿Son adecuadas las funcionalidades de administración y gestión de rutas en la aplicación web para las necesidades de tu negocio?
+8. ¿El diseño de la aplicación web es profesional y se alinea con las expectativas de tu empresa?
+9. ¿Te resulta fácil acceder a informes y análisis dentro de la aplicación web?
+10. ¿Hay alguna funcionalidad específica que crees que debería añadirse para mejorar la experiencia de uso en un entorno empresarial?
+
+### 5.3.2. Registro de Entrevistas
+
+
+- Entrevista 1
+
+<div align="center">
+  <img src="./image-report/validation-interview-1.png"/>
+</div>
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202115412_upc_edu_pe/EQYMFUKssqhJmauBsFlZWVMBSaemDE5YDtg0jCwE_pByFw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=e3bNzV
+
+- Entrevista 2
+
+<div align="center">
+  <img src="./image-report/validation-interview-2.png"/>
+</div>
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202115412_upc_edu_pe/EelZzGkqHWFJiHPGFeqyOo0BcaIKXQZPmBSSTJ6FMZC7Vg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=O1TB3v
+
+
+
+# Conclusiones
+
+- TB1:
+	Para esta entrega concluimos que es muy importante tener en cuenta la opinion de nuestros futuros usuarios, así como la ventaja competitiva que podemos brindar sobre nuestros competidores. Tambien concluimos que es necesaria una previa investigación y diseño de producto para tener claro los puntos principales de la aplicación.
+
+- TP:
+  Concluimos que es importante tener un buen orden en el control de versiones o Git Flow, para que no haya conflictos a la hora de hacer las integraciones correpondientes.
+
+- TB2: 
+  En esta entrega comprendimos que cuando usamos metodologías ágiles en un proyecto trabajamos de manera más armoniona y beneficiosa en cuanto a eficacia.
+
+- TF: Para la entrega final de Trackmyroute, concluimos que la combinación de Vue.js para el frontend y .NET para el backend, junto con la implementación de Domain-Driven Design (DDD), ha sido una elección técnica robusta que nos permitió abordar la complejidad del dominio de nuestro proyecto de manera eficaz. A lo largo del desarrollo, aprendimos la importancia de mantener una arquitectura bien estructurada y cohesiva, lo cual facilitó la gestión y evolución del código. Aunque no hemos completado la aplicación en su totalidad, el proceso nos brindó valiosas lecciones sobre la integración de tecnologías modernas y metodologías de diseño avanzadas. La utilización de DDD nos permitió enfocar nuestro esfuerzo en el comportamiento del negocio, asegurando que las funcionalidades clave estuvieran alineadas con las necesidades del usuario final. Además, trabajar con Git Flow fue crucial para mantener un control de versiones ordenado y minimizar conflictos durante las integraciones. Finalmente, la adopción de metodologías ágiles nos ayudó a mejorar la colaboración del equipo y la eficacia en la entrega de resultados incrementales, lo que nos permitirá continuar el desarrollo de Trackmyroute con una base sólida y bien fundamentada.
+
+
+# Anexos
+
+Link Landing Page mockup: https://www.figma.com/proto/aJREmuLbY7nLlgmOTtjcW5/TrackMyRoute-Web?type=design&node-id=1-2&t=vpM8mg1HtrwmaE8b-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2&mode=design 
+
+Link de prototipo: https://www.figma.com/proto/aJREmuLbY7nLlgmOTtjcW5/TrackMyRoute-Web?type=design&node-id=3-6&t=PO71zMM1GnVJDk1r-1&scaling=scale-down-width&page-id=1%3A3&starting-point-node-id=3%3A6&mode=design
+
+Link Repositorio Landing Page: https://github.com/G2-AplicacionesWeb-SI91/Landing
+
+Link Repositorio Frontend: https://github.com/G2-AplicacionesWeb-SI91/frontend
+
+Link Repositorio Backend: https://github.com/G2-AplicacionesWeb-SI91/backend
+
+Link Landing Page Desplegada: https://g2-aplicacionesweb-si91.github.io/Landing/
+
+Link Web App Desplegada: https://trackmyroute-appsweb123.web.app/login
+
+Link Web Service Desplegado: 
+
+Link video expo TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202020108_upc_edu_pe/EWG5NyVGtpVArTHxzr9npgMBf_cZyZDDOk5VOPT0KqlPWg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=djw7bV
+Link video expo TB2: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202020108_upc_edu_pe/EdrPQyFP1i5OrawuOG0juK0B6KVfb2Ak78IviFQ6IFKIkw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=huH7c0
+Link video expo TP: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202020108_upc_edu_pe/EVVqKmJMqIVHq8E1U6yoXwUBChC-lofGLCrTjTPqA8uxpw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xm0QJ7
+Link video expo TF: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202020108_upc_edu_pe/EVwWZyV6o1pLrrRyGqz7tH8BFs1HYOCp9Dq9LUTg6KaBIQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MormXS
+
+Video About-The-Team-Sprint-3: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e831
