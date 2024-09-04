@@ -9,12 +9,13 @@
 - **Carrera**: Ingeniería de Software
 - **Curso**: Diseño de Experimentos de Ingenierpia de Software
 - **Sección**: SW72
-- **Profesor**: Juan Carlos Tinoco Lucas
+- **Profesor**: Juan Carlos Tinoco Licas
 - **Ciclo**: 2024-2
 - **Nombre del Startup**: RouteLogic
 - **Nombre del Producto**: TrackMyRoute
 - **Relación de Integrantes**:
-| Nombre                                      | Código        |
+
+| **Nombre**                                | **Código**  |
 | --------------------------------------------| ------------- |
 | Luza Carhuamaca, Jose Adrian                | u202213404    |
 | Elsner De La Torre Ugarte, Julio Esteban    | u202111654    |
