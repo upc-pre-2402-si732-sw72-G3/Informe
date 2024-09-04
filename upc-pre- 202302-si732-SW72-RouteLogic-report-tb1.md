@@ -548,7 +548,6 @@ Ubicación: Lima
 
 Evidencia de la reunión:
 
-![Uploading image.png…]()
 
 
 Inicio: 00:04
@@ -572,7 +571,6 @@ Evidencia de la reunión:
 
 <div align="center">
 
-![Uploading image.png…]()
 
 
 </div>
@@ -667,27 +665,27 @@ En esta seccion, se describen las tareas típicas que realizan los dos segmentos
 
 ### 2.3.4. Empathy Mapping
 
-<div align="center">
-  <img src="images\empathy.jpg">
-</div>
+![image](https://github.com/user-attachments/assets/dbe0223a-aa11-49c3-a3c7-91324b39f061)
+
+
 
 ### 2.3.5. As-is Scenario Mapping
 
 As-is Map del Usuario
 <div align="center">
-  <img src="images\asismap.jpg">
+![image](https://github.com/user-attachments/assets/c2fffe3d-7b20-4b18-b2c6-25f1dd7dd216)
+
+
 </div>
 
 <br>
 
 As-is Map de la Empresa
 <div align="center">
-  <img src="images\asismap2.jpg">
+ ![image](https://github.com/user-attachments/assets/8079f556-683c-4951-8e00-6cb5c4fc2a1e)
+
+
 </div>
-
-
-
-
 
 # Capítulo III: Requeriments Specifications
 
