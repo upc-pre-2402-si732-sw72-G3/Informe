@@ -232,7 +232,7 @@ URL del repositorio del proyecto: [https://github.com/upc-pre-2402-si732-sw72-G3
         <td align="left">
             <b>Nombre y Apellido: </b>
             <br>
-            (Nombre aqui)
+            Gustavo Arturo Poma Espinoza
         </td>
     </tr>
     <tr>
@@ -246,7 +246,7 @@ URL del repositorio del proyecto: [https://github.com/upc-pre-2402-si732-sw72-G3
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        (Texto Aqui).
+        Mi nombre es Gustavo, actualmente estoy cursando el sexto ciclo de la carrera de Ingeniería de Software. Disfruto escuchando música, ya que siento que esta actividad me inspira creatividad. Tengo una sólida comprensión de algoritmos y estructuras de datos, y experiencia en desarrollo web y móvil. Me considero una persona con alta capacidad de trabajo en equipo, siempre dispuesto a ayudar a mis compañeros, lo que me permite generar buenas relaciones sociales con diferentes tipos de personas.
         </td>
     </tr>
     <tr align="center">
@@ -398,8 +398,6 @@ Segmento objetivo 2: Empresas de transporte que operan en Lima.
 
 
 
-
-
 # Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores
@@ -531,7 +529,8 @@ libremente. A continuación, se presentan algunos ejemplos de preguntas:
 
 Entrevista #1:
 
-<a href="https://ibb.co/HF7f6x9"><img src="https://i.ibb.co/M2nxrGJ/image.png" alt="image" border="0"></a>
+
+  <img src="https://i.ibb.co/M2nxrGJ/image.png" alt="image" border="0">
 
 Nombre: Albre Cañamero, Jose
 **Enlace de entrevista:**
@@ -550,6 +549,10 @@ Edad: 24 años
 Ubicación: Lima
 
 Evidencia de la reunión:
+
+
+
+![image](https://github.com/user-attachments/assets/bf61c095-9273-493b-9171-819c855545cf)
 
 
 
@@ -572,11 +575,9 @@ Ubicación: Lima
 
 Evidencia de la reunión:
 
-<div align="center">
 
+![image](https://github.com/user-attachments/assets/bbcc24f5-1f03-41dc-a7fe-1d2d3ec1e580)
 
-
-</div>
 
 **Enlace de entrevista:** https://upcedupe-my.sharepoint.com/personal/u202018894_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202018894%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2FEntrevista02%20Segmento2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
 
@@ -675,20 +676,17 @@ En esta seccion, se describen las tareas típicas que realizan los dos segmentos
 ### 2.3.5. As-is Scenario Mapping
 
 As-is Map del Usuario
-<div align="center">
-![image](https://github.com/user-attachments/assets/c2fffe3d-7b20-4b18-b2c6-25f1dd7dd216)
+<br>
+![image](https://github.com/user-attachments/assets/47136618-9df6-4f2c-a48f-6f07ec81790b)
 
-
-</div>
-
+<br>
 <br>
 
 As-is Map de la Empresa
-<div align="center">
- ![image](https://github.com/user-attachments/assets/8079f556-683c-4951-8e00-6cb5c4fc2a1e)
+<br>
+![image](https://github.com/user-attachments/assets/76657445-21b9-436d-9ba9-bc1a9f200131)
 
 
-</div>
 
 # Capítulo III: Requeriments Specifications
 
