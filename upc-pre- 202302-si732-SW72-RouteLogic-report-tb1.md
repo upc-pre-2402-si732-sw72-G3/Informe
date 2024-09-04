@@ -252,7 +252,7 @@ URL del repositorio del proyecto: [https://github.com/upc-pre-2402-si732-sw72-G3
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <a href=""><img src="" alt="image" border="0"></a>
+            <img src="image-report/PieroMiranda.JPG" alt="" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
