@@ -7,14 +7,13 @@
 ### <center>Informe de Trabajo Final</center>
 
 - **Carrera**: Ingeniería de Software
-- **Curso**: Diseño de Experimentos de Ingenieria de Software
+- **Curso**: Diseño de Experimentos de Ingenierpia de Software
 - **Sección**: SW72
-- **Profesor**: Juan Carlos Tinoco Licas
+- **Profesor**: Juan Carlos Tinoco Lucas
 - **Ciclo**: 2024-2
 - **Nombre del Startup**: RouteLogic
 - **Nombre del Producto**: TrackMyRoute
 - **Relación de Integrantes**:
-   - **Relación de Integrantes**:
         | Nombre                                      | Código        |
         | --------------------------------------------| ------------- |
         | Luza Carhuamaca, Jose Adrian                | u202213404    |
