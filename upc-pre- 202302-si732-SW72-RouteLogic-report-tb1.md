@@ -1512,7 +1512,9 @@ Además de control de versiones, Github posee GithubPages, que sirve para lanzar
 
 1. Seleccionamos al branch "main", luego el directorio "/root" y finalmente guardamos la configuración.
 
-2. Esperamos a que se lanze el proyecto, sabremos que esta listo cuando veamos el URL.
+2. Esperamos a que se lanze el proyecto, sabremos que esta listo cuando veamos el URL:
+
+https://g2-aplicacionesweb-si91.github.io/Landing/
 
 ### Frontend-Application Deployment
 Con el fin de desplegar el frontend usaremos Firebase, que se usa continuamente para el despliegue de aplicaciones web.
