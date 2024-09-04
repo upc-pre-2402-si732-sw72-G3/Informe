@@ -275,6 +275,30 @@ URL del repositorio del proyecto: [https://github.com/upc-pre-2402-si732-sw72-G3
          manera, siento que los conocimientos que he ido adquiriendo en ciclos anteriores serán de gran ayuda para llevar a cabo el presente trabajo.
         </td>
     </tr>
+	<tr align="center">
+        <td rowspan="3">
+            <img src="" alt="" style="margin-bottom: 5px;" width="800"/> 
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>
+            Miguel Angel Ramirez Alfaro
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ingeniería de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        (resumen)
+        </td>
+    </tr>
 </table>
 
 ## 1.2. Solution Profile
