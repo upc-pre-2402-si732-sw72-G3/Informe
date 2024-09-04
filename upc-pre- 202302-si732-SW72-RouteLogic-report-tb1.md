@@ -34,7 +34,8 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 
 | **Versión** | **Fecha** | **Autor** | **Descripción de Modificación** |
 |-------------|-----------|-----------|---------------------------------|
-|    TB1      |           |           |                                 |
+|    TB1      |     4/09/2024      |    Julio Elsner        |      Creación de los wireframes en sector movil. El proceso abarca desde el prototipado de aplicaciones móviles para Android e iOS, que incluye wireframes, prototipos interactivos y pruebas de usuario, hasta el diseño UX/UI de aplicaciones web, con la creación de wireframes, mock-ups, y diagramas de flujo. Además, se desarrolla un prototipo interactivo de la aplicación web para evaluar la usabilidad antes del desarrollo completo. Finalmente, la arquitectura de software se basa en el Diseño Orientado al Dominio (DDD), enfocándose en modelar entidades clave, definir contextos delimitados, y utilizar una arquitectura basada en eventos para reflejar fielmente las necesidades del negocio.
+ |
 |             |           |           |                                 |
 |             |           |           |                                 |
 ---
@@ -199,12 +200,12 @@ URL del repositorio del proyecto: [https://github.com/upc-pre-2402-si732-sw72-G3
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="" alt="" style="margin-bottom: 5px;" width="800"/>
+            <img src="image-report/JulioElsner.png" alt="" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>
-            (Nombre aqui)
+            Julio Esteban Elsner De La Torre Ugarte
         </td>
     </tr>
     <tr>
@@ -218,7 +219,7 @@ URL del repositorio del proyecto: [https://github.com/upc-pre-2402-si732-sw72-G3
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        (Texto Aqui)
+        Mi nombre es Julio Elsner De La Torre Ugarte, tengo 21 años y soy estudiante de la carrera de ingeniería de software. Con anterioridad ya he tenido experiencia con el tipo de trabajos que conllevan trabajo grupal y que busca una solución a alguna problemática. En mi opinión, soy bastante hábil extrayendo información de algún problema lo cual mejora el trabajo conjunto en grupo y la organización en general.
         </td>
     </tr>
     <tr align="center">
