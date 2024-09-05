@@ -276,28 +276,15 @@ URL del repositorio del proyecto: [https://github.com/upc-pre-2402-si732-sw72-G3
     </tr>
 	<tr align="center">
         <td rowspan="3">
-            <img src="" alt="Miguel Ramirez Alfaro" style="margin-bottom: 5px;" width="800"/> 
+            <img src="image-report/miguelRamirez.png" alt="Miguel Ramirez Alfaro" style="margin-bottom: 5px;" width="800"/> 
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>
-            Miguel Angel Ramirez Alfaro
+            Miguel Angel Ramirez Alfaro<br>Soy estudiante de 8vo ciclo de la carrera profesional de Ingeniería de Software. Me apasiona la tecnología y sus infinitas aplicaciones. Me considero un joven innovador, soñador , responsable y comprometido. Además, me gusta trabajar en equipo solucionar problemas y mejorar los procesos que nos faciliten el trabajo, pero sobre todo, mejoremos la experiencia del usuario (cliente).
+            </td>
         </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Carrera:</b>
-        <br>
-        Ingeniería de Software
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Acerca de:</b>
-        <br>
-        (resumen)
-        </td>
-    </tr>
+  </tr>  
 </table>
 
 ## 1.2. Solution Profile
