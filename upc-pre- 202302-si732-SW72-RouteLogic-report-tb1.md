@@ -3052,6 +3052,31 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202115412_upc_edu_pe/Ee
 # Capítulo VI: Product Verification & Validation
 ## 6.1. Testing Suites & Validation
 ### 6.1.1. Core Entities Unit Tests
+
+**Entidad Notification**
+
+<div align="center">
+  <img src="./image-report/notification.png"/>
+</div>
+
+**Entidad Payment**
+
+<div align="center">
+  <img src="./image-report/Payment1.png"/>
+</div>
+
+**Entidad Profile**
+
+<div align="center">
+  <img src="./image-report/Profile1.png"/>
+</div>
+
+**Entidad Promo**
+
+<div align="center">
+  <img src="./image-report/Promo.png"/>
+</div>
+
 ### 6.1.2. Core Integration Tests
 ### 6.1.3. Core Behavior-Driven Development
 ### 6.1.4. Core System Tests
