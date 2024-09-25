@@ -3079,7 +3079,24 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202115412_upc_edu_pe/Ee
 
 ### 6.1.2. Core Integration Tests
 ### 6.1.3. Core Behavior-Driven Development
+
+<div align="center">
+  <img src="./image-report/registro_usuario_feature.png"/>
+</div>
+
+<div align="center">
+  <img src="./image-report/planificacion_viajes_feature.png"/>
+</div>
+
 ### 6.1.4. Core System Tests
+
+<div align="center">
+  <img src="./image-report/planificacion_rutas_feature.png"/>
+</div>
+
+<div align="center">
+  <img src="./image-report/integracion_google_maps_feature.png"/>
+</div>
 
 ---
 

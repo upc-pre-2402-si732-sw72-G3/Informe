@@ -8,3 +8,5 @@ Feature: Registro de Usuario
     And presiona el botón "Crear cuenta"
     Then el sistema debería mostrar un mensaje "Registro exitoso" 
     And redirigir al usuario a la pantalla principal de la aplicación
+
+

@@ -9,3 +9,6 @@ Feature: Planificación de rutas de viaje
     And cada ruta debe mostrar el costo estimado del pasaje
     And el número de buses que se deben abordar para completar el viaje
     And el tiempo estimado para cada ruta
+
+
+
