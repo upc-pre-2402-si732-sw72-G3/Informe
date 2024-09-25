@@ -3047,7 +3047,27 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202115412_upc_edu_pe/EQ
 
 Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202115412_upc_edu_pe/EelZzGkqHWFJiHPGFeqyOo0BcaIKXQZPmBSSTJ6FMZC7Vg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=O1TB3v
 
+---
 
+# Capítulo VI: Product Verification & Validation
+## 6.1. Testing Suites & Validation
+### 6.1.1. Core Entities Unit Tests
+### 6.1.2. Core Integration Tests
+### 6.1.3. Core Behavior-Driven Development
+### 6.1.4. Core System Tests
+
+---
+
+# Capítulo VII: DevOps Practices
+## 7.1. Continuous Integration
+### 7.1.1. Tools and Practices
+### 7.1.2. Build & Test Suite Pipeline Components
+## 7.2. Continuous Delivery
+### 7.2.1. Tools and Practices
+### 7.2.2. Stages Deployment Pipeline Components
+## 7.3. Continuous Deployment
+### 7.3.1. Tools and Practices
+### 7.3.2. Production Deployment Pipeline Components
 
 # Conclusiones
 
