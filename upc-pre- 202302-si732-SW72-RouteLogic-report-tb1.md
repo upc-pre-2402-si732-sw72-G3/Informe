@@ -35,6 +35,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 | **Versión** | **Fecha** | **Autor** | **Descripción de Modificación** |
 |-------------|-----------|-----------|---------------------------------|
 |    TB1      |     4/09/2024      |    Todos        |      Añadimos los capítulos 1, 2, 3, 4 y 5. Además se tomó en cuenta la creación de los prototipos en dispositivos móviles. |
+|    TP1      |     24/09/2024      |    Todos        |      Hicimos los cambios que el profesor nos brindó en la retroalimentación de la versión anterior junto a la adición de los capítulos 6 y 7. |
 
 ---
 
@@ -75,7 +76,7 @@ URL del repositorio del proyecto: [https://github.com/upc-pre-2402-si732-sw72-G3
       - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
       - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
   - [1.3. Segmentos Objetivo](#13-segmentos-objetivo)
-- [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
+- [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
   - [2.1. Competidores](#21-competidores)
     - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
     - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
@@ -129,6 +130,22 @@ URL del repositorio del proyecto: [https://github.com/upc-pre-2402-si732-sw72-G3
     - [5.2.2. Sprint 2](#522-sprint-2)
     - [5.2.3. Sprint 3](#523-sprint-3)
     - [5.2.4. Sprint 4](#524-sprint-4)
+- [Capítulo VI: Product Verification & Validation](#capítulo-vi-product-verification--validation)
+  - [6.1 Testing Suites & Validation](#61-testing-suites--validation)
+    - [6.1.1 Core Entities Unit Tests](#611-core-entities-unit-tests)
+    - [6.1.2 Core Integration Tests](#612-core-integration-tests)
+    - [6.1.3 Core Behavior-Driven Development](#613-core-behavior-driven-development)
+    - [6.1.4 Core System Tests](#614-core-system-tests)
+- [Capítulo VII: DevOps Practices](#capítulo-vii-devops-practices)
+  - [7.1 Continuous Integration](#71-continuous-integration)
+    - [7.1.1 Tools and Practices](#711-tools-and-practices)
+    - [7.1.2 Build & Test Suite Pipeline Components](#712-build--test-suite-pipeline-components)
+  - [7.2 Continuous Delivery](#72-continuous-delivery)
+    - [7.2.1 Tools and Practices](#721-tools-and-practices)
+    - [7.2.2 Stages Deployment Pipeline Components](#722-stages-deployment-pipeline-components)
+  - [7.3 Continuous Deployment](#73-continuous-deployment)
+    - [7.3.1 Tools and Practices](#731-tools-and-practices)
+    - [7.3.2 Production Deployment Pipeline Components](#732-production-deployment-pipeline-components)
 - [Conclusiones](#conclusiones)
 - [Anexos](#anexos)
 
