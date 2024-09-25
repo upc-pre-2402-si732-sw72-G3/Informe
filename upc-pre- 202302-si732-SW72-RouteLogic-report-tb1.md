@@ -3081,11 +3081,23 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202115412_upc_edu_pe/Ee
 ### 6.1.3. Core Behavior-Driven Development
 
 <div align="center">
-  <img src="./image-report/registro_usuario_feature.png"/>
+  <img src="./image-report/Epic1_feature.png"/>
 </div>
 
 <div align="center">
-  <img src="./image-report/planificacion_viajes_feature.png"/>
+  <img src="./image-report/Epic2_feature.png"/>
+</div>
+
+<div align="center">
+  <img src="./image-report/Epic3_feature.png"/>
+</div>
+
+<div align="center">
+  <img src="./image-report/Epic4_feature.png"/>
+</div>
+
+<div align="center">
+  <img src="./image-report/Epic5_feature.png"/>
 </div>
 
 ### 6.1.4. Core System Tests
