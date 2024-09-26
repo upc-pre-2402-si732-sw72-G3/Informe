@@ -3133,9 +3133,28 @@ Administrador de proyectos de software para automatizar tareas.
 Cada una de estas herramientas permitirá al grupo realizar pruebas y garantizar el cumplimiento de los requerimientos.
 
 ### 7.1.2. Build & Test Suite Pipeline Components
+
+![image](https://github.com/user-attachments/assets/6929ee0d-e4a2-459c-9681-3cedebc6b46e)
+
+![image](https://github.com/user-attachments/assets/ca176743-ca02-4821-a4ff-23e67d68c983)
+
+
 ## 7.2. Continuous Delivery
 ### 7.2.1. Tools and Practices
+
+En el marco del proceso de despliegue continuo (CD), se emplea Jenkins Pipeline como una herramienta central para automatizar la entrega de software. Jenkins Pipeline permite definir los pasos del proceso de construcción, prueba y despliegue como código, lo que facilita la creación y gestión de flujos de trabajo complejos de forma eficiente y flexible.
+
+Además, se hace uso de NPM (Node Package Manager) como gestor de paquetes para aplicaciones JavaScript, incluyendo aquellas desarrolladas con Node.js. NPM proporciona funcionalidades para la gestión de dependencias, la ejecución de scripts y la automatización de tareas relacionadas con la construcción y despliegue de aplicaciones.
+
+En el contexto de Jenkins Pipeline, se integra NPM como parte del proceso de construcción y despliegue de la aplicación. Esto incluye la instalación de dependencias utilizando el comando npm install, la ejecución de scripts de construcción y prueba definidos en el archivo package.json, y el despliegue de la aplicación utilizando los comandos específicos proporcionados por NPM, como npm run deploy.
+
+
 ### 7.2.2. Stages Deployment Pipeline Components
+
+![image](https://github.com/user-attachments/assets/e70b69ea-ec28-4246-99ca-a8dc889abef8)
+
+![image](https://github.com/user-attachments/assets/8e0db0f2-84fb-4131-91a1-33aab73ce6ca)
+
 ## 7.3. Continuous Deployment
 ### 7.3.1. Tools and Practices
 ### 7.3.2. Production Deployment Pipeline Components
