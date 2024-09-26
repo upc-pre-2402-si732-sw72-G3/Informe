@@ -3115,6 +3115,15 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202115412_upc_edu_pe/Ee
 # Capítulo VII: DevOps Practices
 ## 7.1. Continuous Integration
 ### 7.1.1. Tools and Practices
+
+Para poder garantizar que el software desarrollado cumple con las especificaciones, y se puedan realizar pruebas fácilmante dentro de la aplicación, se van a utilizar las siguientes herramientas:
+•	Jenkins: Servidor de código abierto que sirve para compilar y probar aplicaciones de software de forma contínua.
+•	Junit: Conjunto de bibliotecas para realizar pruebas unitarias en proyectos desarrollados en Java.
+•	Mockito: Framework de código abierto para hacer pruebas unitarias automatizadas.
+•	Maven: Administrador de proyectos de software para automatizar tareas.
+Cada una de estas herramientas van a permitir al grupo a realizar pruebas y garantizar el cumplimiento de requerimientos.
+
+
 ### 7.1.2. Build & Test Suite Pipeline Components
 ## 7.2. Continuous Delivery
 ### 7.2.1. Tools and Practices
