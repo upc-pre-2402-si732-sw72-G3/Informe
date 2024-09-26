@@ -3157,7 +3157,22 @@ En el contexto de Jenkins Pipeline, se integra NPM como parte del proceso de con
 
 ## 7.3. Continuous Deployment
 ### 7.3.1. Tools and Practices
+
+En el proceso de Continuous Deployment (CD), el objetivo principal es automatizar el despliegue de la aplicación en los entornos de producción de manera continua y sin intervención manual, siempre y cuando todas las pruebas hayan sido exitosas. Las herramientas y prácticas utilizadas en este proceso son clave para garantizar una entrega rápida, confiable y sin errores. A continuación, se detallan las herramientas utilizadas para el Continuous Deployment:
+
+Jenkins Pipeline: Se utiliza como la herramienta principal para automatizar el flujo de trabajo de despliegue. Permite definir todas las etapas del proceso de construcción, prueba y despliegue de manera automatizada y controlada, garantizando que el código que pasa todas las pruebas se despliegue de manera inmediata en producción.
+
 ### 7.3.2. Production Deployment Pipeline Components
+
+![PT1](/image-report/pt.1.png)
+
+![PT2](/image-report/pt.2.png)
+
+- Pipeline de Jenkins para la produccion de la aplicacion web frontend
+
+![PT3](/image-report/pt.3.png)
+
+![PT4](/image-report/pt.4.png)
 
 # Conclusiones
 
