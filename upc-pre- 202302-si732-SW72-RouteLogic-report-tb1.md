@@ -3103,11 +3103,11 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202115412_upc_edu_pe/Ee
 ### 6.1.4. Core System Tests
 
 <div align="center">
-  <img src="./image-report/planificacion_rutas_feature.png"/>
+  <img src="./image-report/Promo.png"/>
 </div>
 
 <div align="center">
-  <img src="./image-report/integracion_google_maps_feature.png"/>
+  <img src=" "/>
 </div>
 
 ---
