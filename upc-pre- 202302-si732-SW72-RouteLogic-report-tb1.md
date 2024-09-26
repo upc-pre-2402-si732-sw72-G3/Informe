@@ -3118,16 +3118,16 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202115412_upc_edu_pe/Ee
 
 Para poder garantizar que el software desarrollado cumple con las especificaciones y se puedan realizar pruebas fácilmente dentro de la aplicación, se van a utilizar las siguientes herramientas:
 
-## Jenkins
+ **Jenkins**
 Servidor de código abierto que sirve para compilar y probar aplicaciones de software de forma continua.
 
-## JUnit
+**JUnit**
 Conjunto de bibliotecas para realizar pruebas unitarias en proyectos desarrollados en Java.
 
-## Mockito
+**Mockito**
 Framework de código abierto para hacer pruebas unitarias automatizadas.
 
-## Maven
+**Maven**
 Administrador de proyectos de software para automatizar tareas.
 
 Cada una de estas herramientas permitirá al grupo realizar pruebas y garantizar el cumplimiento de los requerimientos.
