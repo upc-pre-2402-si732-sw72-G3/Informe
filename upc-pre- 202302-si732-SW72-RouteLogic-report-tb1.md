@@ -3078,6 +3078,20 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202115412_upc_edu_pe/Ee
 </div>
 
 ### 6.1.2. Core Integration Tests
+
+<div align="center">
+  <img src="./image-report/IntegrationTest1.png"/>
+</div>
+
+<div align="center">
+  <img src="./image-report/IntegrationTest2.png"/>
+</div>
+
+<div align="center">
+  <img src="./image-report/IntegrationTest3.png"/>
+</div>
+
+
 ### 6.1.3. Core Behavior-Driven Development
 
 <div align="center">
