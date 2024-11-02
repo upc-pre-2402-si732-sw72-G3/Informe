@@ -3124,6 +3124,103 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202115412_upc_edu_pe/Ee
   <img src=" "/>
 </div>
 
+# 6.2  Static testing & Verification
+## 6.2.1. Static Code Analysis
+### 6.2.1.1. Coding standard & Code conventions.
+### 6.2.1.2. Code Quality & Code Security.
+## 6.2.2. Reviews
+
+# 6.3 Validation Interviews
+
+## 6.3.1 Diseño de Entrevistas
+
+El objetivo de estas entrevistas es comprender las expectativas y experiencias de los usuarios al interactuar con nuestra página web. Buscamos conocer qué esperaban encontrar, qué observaron y qué esperan ver en futuras interacciones para mejorar su experiencia.
+
+Las preguntas están diseñadas para explorar cómo la página web cumple con las expectativas de los usuarios y qué aspectos consideran relevantes o mejorables.
+
+### Segmento 1: Usuarios Diarios de la Página Web
+
+1. ¿Cuál fue tu primera impresión al ingresar a nuestra página web?
+2. ¿Qué información esperabas encontrar en la página principal y qué encontraste realmente?
+3. ¿Fue fácil para ti encontrar la información que buscabas? ¿Por qué o por qué no?
+4. ¿Hay algo que esperabas ver en la página web que no estaba presente?
+5. ¿Qué características de la página web encuentras más útiles en tu interacción diaria?
+6. ¿Cómo calificas la organización y el diseño visual de la información en la página web?
+7. ¿Te resultó intuitiva la navegación entre secciones? ¿Hubo algo que te causó confusión?
+8. ¿Esperas algún tipo de funcionalidad o contenido adicional en la página web en futuras versiones?
+9. ¿Qué aspectos de la página crees que podrían mejorar para satisfacer mejor tus expectativas?
+10. ¿Cómo compararías la experiencia de nuestra página web con otras páginas similares que utilizas?
+11. ¿Qué recomendarías para mejorar la usabilidad y la satisfacción general con la página web?
+
+### Segmento 2: Empresas que Utilizan la Página Web
+
+1. ¿Cuál fue la primera impresión que tuvo su equipo al visitar nuestra página web?
+2. ¿Qué funcionalidades esperaba encontrar para su empresa y qué observó realmente?
+3. ¿Fue fácil para su equipo encontrar la información o las herramientas necesarias?
+4. ¿Hay alguna funcionalidad que esperaba ver en la página web que no estaba presente?
+5. ¿Qué tan satisfecho está con las herramientas o servicios ofrecidos en la página web?
+6. ¿Considera que la página web facilita la gestión de sus operaciones o procesos de negocio? ¿De qué manera?
+7. ¿Hubo algo en el diseño o la estructura de la página que generara dudas o confusión?
+8. ¿Qué aspectos le gustaría que mejoráramos en futuras versiones de la página web?
+9. ¿Qué tan intuitiva le resulta la navegación para sus empleados o clientes?
+10. ¿Cómo evalúa la calidad de la experiencia que la página ofrece en comparación con otros sitios que usa su empresa?
+11. ¿Qué recomendaría para optimizar la funcionalidad y la experiencia en nuestra página web?
+
+## 6.3.2 Registro de Entrevistas
+
+Se documentará cada entrevista capturando tanto las respuestas como las observaciones sobre el comportamiento y las emociones de los participantes al interactuar con la página web. Esto permitirá una visión completa de sus expectativas y experiencias.
+
+### Segmento 1
+| Nombre           | Edad | Domicilio | Enlace al Video           |
+|------------------|------|-----------|----------------------------|
+| Alejandra Neyra  | 19   | Ate       | [Entrevista #1](URL_del_video) |
+| Martin Rioja     | 19   | Ate       | [Entrevista #2](URL_del_video) |
+
+**Resumen de la Entrevista - Alejandra Neyra**:  
+Aquí va el resumen de la entrevista con Alejandra Neyra, destacando sus respuestas, observaciones y cualquier otro punto relevante.
+
+**Resumen de la Entrevista - Martin Rioja**:  
+Aquí va el resumen de la entrevista con Martin Rioja, señalando sus principales comentarios, expectativas y sugerencias.
+
+### Segmento 2
+| Nombre           | Edad | Domicilio           | Enlace al Video           |
+|------------------|------|---------------------|----------------------------|
+| Juan Gamarra     | 19   | San Martin de Porres | [Entrevista #3](URL_del_video) |
+| Ernie Cossio     | 19   | Ate                 | [Entrevista #4](URL_del_video) |
+
+
+**Resumen de la Entrevista - Juan Gamarra**:  
+Aquí va el resumen de la entrevista con Juan Gamarra, incluyendo sus puntos de vista, experiencias y recomendaciones.
+
+**Resumen de la Entrevista - Ernie Fabian**:  
+Aquí va el resumen de la entrevista con Ernie Fabian, resaltando sus observaciones y cualquier comentario relevante.
+
+
+
+## 6.3.3 Evaluación Según Heurísticas
+
+### Segmento 1
+| Entrevistado     | Heurística                   | Evaluación                                                                 |
+|------------------|------------------------------|---------------------------------------------------------------------------|
+| Alejandra Neyra  | Claridad de la Información   | Aquí puedes evaluar si la información presentada en la página fue clara para ella o si hubo confusiones. |
+|                  | Facilidad de Navegación      | Describe la experiencia de navegación que tuvo Alejandra en la página web. |
+|                  | Satisfacción General         | Comenta su nivel de satisfacción con el sitio y las funcionalidades observadas. |
+| Martin Rioja     | Claridad de la Información   | Indica si encontró la información clara y suficiente para sus necesidades. |
+|                  | Facilidad de Navegación      | Describe cómo fue su experiencia al moverse entre secciones de la página. |
+|                  | Satisfacción General         | Evalúa la satisfacción general de Martin con la página web y sus características. |
+
+### Segmento 2
+| Entrevistado     | Heurística                   | Evaluación                                                                 |
+|------------------|------------------------------|---------------------------------------------------------------------------|
+| Juan Gamarra     | Claridad de la Información   | Describe si la información en la página fue clara y fácil de entender para Juan. |
+|                  | Facilidad de Navegación      | Explica su experiencia al navegar entre secciones y su facilidad de uso.  |
+|                  | Satisfacción General         | Indica su nivel de satisfacción con las características de la página web. |
+| Ernie Cossio     | Claridad de la Información   | Evalúa la claridad de la información presentada para él.                  |
+|                  | Facilidad de Navegación      | Describe la experiencia de navegación que tuvo Ernie en el sitio web.     |
+|                  | Satisfacción General         | Comenta sobre su satisfacción general con el sitio y las funcionalidades. |
+
+
+
 ---
 
 # Capítulo VII: DevOps Practices
