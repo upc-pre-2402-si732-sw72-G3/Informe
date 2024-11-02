@@ -3219,22 +3219,23 @@ Sebastian Silva opina que es una pagina sencilla con la cual se realiza todo de 
 ### Segmento 1
 | Entrevistado     | Heurística                   | Evaluación                                                                 |
 |------------------|------------------------------|---------------------------------------------------------------------------|
-| Alejandra Neyra  | Claridad de la Información   | Aquí puedes evaluar si la información presentada en la página fue clara para ella o si hubo confusiones. |
-|                  | Facilidad de Navegación      | Describe la experiencia de navegación que tuvo Alejandra en la página web. |
-|                  | Satisfacción General         | Comenta su nivel de satisfacción con el sitio y las funcionalidades observadas. |
-| Martin Rioja     | Claridad de la Información   | Indica si encontró la información clara y suficiente para sus necesidades. |
-|                  | Facilidad de Navegación      | Describe cómo fue su experiencia al moverse entre secciones de la página. |
-|                  | Satisfacción General         | Evalúa la satisfacción general de Martin con la página web y sus características. |
+| Alejandra Neyra  | Claridad de la Información   | La información sobre promociones y pagos es clara y fácil de entender. Sin embargo, sugiere que algunas secciones podrían ser más descriptivas para mejorar la comprensión. |
+|                  | Facilidad de Navegación      | Encuentra la navegación fácil e intuitiva, aunque en ocasiones le gustaría ver más indicaciones visuales para ubicar funciones específicas. |
+|                  | Satisfacción General         | Generalmente satisfecha, valora las promociones y la facilidad de pago, pero menciona que podría mejorar la orientación en ciertas secciones. |
+| Martin Rioja     | Claridad de la Información   | Aunque la información general es clara, considera que la descripción de las rutas es insuficiente, lo que limita la comprensión para los usuarios. |
+|                  | Facilidad de Navegación      | Encuentra la navegación fácil y el diseño intuitivo. Sin embargo, sugiere que algunas secciones podrían ser menos densas en contenido visual para no saturar la vista. |
+|                  | Satisfacción General         | Satisfecho en general, pero menciona que la falta de detalles en las rutas reduce la utilidad de la página para nuevos usuarios. |
 
 ### Segmento 2
 | Entrevistado     | Heurística                   | Evaluación                                                                 |
 |------------------|------------------------------|---------------------------------------------------------------------------|
-| Juan Gamarra     | Claridad de la Información   | Describe si la información en la página fue clara y fácil de entender para Juan. |
-|                  | Facilidad de Navegación      | Explica su experiencia al navegar entre secciones y su facilidad de uso.  |
-|                  | Satisfacción General         | Indica su nivel de satisfacción con las características de la página web. |
-| Sebastian Silva     | Claridad de la Información   | Evalúa la claridad de la información presentada para él.                  |
-|                  | Facilidad de Navegación      | Describe la experiencia de navegación que tuvo Ernie en el sitio web.     |
-|                  | Satisfacción General         | Comenta sobre su satisfacción general con el sitio y las funcionalidades. |
+| Juan Gamarra     | Claridad de la Información   | La información es clara, pero siente que está un poco acumulada en algunas secciones, lo que puede dificultar la lectura rápida. |
+|                  | Facilidad de Navegación      | Le resulta fácil moverse entre las pestañas, aunque menciona que en dispositivos móviles algunas opciones son menos accesibles. |
+|                  | Satisfacción General         | Moderadamente satisfecho; sugiere que incluir más rutas de buses y mejorar la disposición visual podría incrementar la usabilidad. |
+| Sebastian Silva  | Claridad de la Información   | Considera que la información es clara y completa para sus necesidades, aunque le gustaría ver más opciones de personalización en la interfaz. |
+|                  | Facilidad de Navegación      | La navegación le parece rápida y sin complicaciones, pero opina que podría beneficiarse de un botón de “volver” en algunas secciones. |
+|                  | Satisfacción General         | Muy satisfecho con la funcionalidad y la accesibilidad de la información, aunque cree que la personalización aumentaría su satisfacción. |
+
 
 
 
