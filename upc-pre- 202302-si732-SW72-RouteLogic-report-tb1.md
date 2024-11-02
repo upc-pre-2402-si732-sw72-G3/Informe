@@ -3146,8 +3146,43 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202115412_upc_edu_pe/Ee
 # 6.2  Static testing & Verification
 ## 6.2.1. Static Code Analysis
 ### 6.2.1.1. Coding standard & Code conventions.
+En esta sección se destacarán los estándares que se aplicarán para la codificación de las aplicaciones, ya sea en el desarrollo del frontend, backend o la página de aterrizaje.
+
+### Naming Conventions
+- **Nombres de proyectos, clases y variables:** se utilizarán nombres cortos.
+- **Proyectos:** comenzarán en mayúscula; para clases y variables, en minúscula.
+- **Formato:** CamelCase se empleará para nombrar proyectos, clases y variables, mientras que snake_case se usará para las tablas en el backend.
+
+### Indentación y Espaciado
+Para mejorar la legibilidad del código, se utilizará tabulación para separar visualmente las secciones de código.
+
+### Comentarios
+Se añadirán comentarios breves en inglés para facilitar la comprensión de partes específicas del código, explicando el propósito de algunas líneas o funciones.
+
+### Organización de Archivos
+- **Backend:** organizado en carpetas de `model`, `dto`, `controller` y `services`.
+- **Frontend:** se usará una carpeta por funcionalidad, como `sign-in` o `crear-grupo-de-cinéfilos`.
+- **Landing Page:** no se ha dividido en carpetas separadas por secciones.
+
 ### 6.2.1.2. Code Quality & Code Security.
+
+En este caso, se utilizarán Jenkins, pruebas en IntelliJ para el Backend, y Lighthouse para el Frontend. Estas herramientas contribuirán al análisis de la seguridad y calidad del código, ayudando a prevenir vulnerabilidades y posibles errores cuando los usuarios interactúen con las aplicaciones.
+
 ## 6.2.2. Reviews
+
+El proceso de revisión del código busca garantizar calidad, consistencia y seguridad antes de su implementación. Las revisiones se realizarán en equipo y de manera automatizada, siguiendo estas etapas:
+
+1. **Revisión de Pares (Peer Review):** Un desarrollador revisa el código de otro para detectar errores y mantener la consistencia de las convenciones de codificación.
+
+2. **Revisión Automática de Código:** Herramientas como Jenkins e IntelliJ detectarán problemas de calidad y seguridad en el código, asegurando el cumplimiento de los estándares.
+
+3. **Revisión Final de Calidad:** Antes de la implementación, se verificará que el código esté limpio, documentado y sin errores críticos.
+
+4. **Revisión de Seguridad:** Se identificarán vulnerabilidades en áreas sensibles del código usando Jenkins y Lighthouse para proteger el entorno de producción.
+
+### Documentación de Revisiones
+Cada revisión será documentada, registrando problemas y correcciones para fomentar una mejora continua en el desarrollo.
+
 
 # 6.3 Validation Interviews
 
