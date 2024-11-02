@@ -146,6 +146,25 @@ URL del repositorio del proyecto: [https://github.com/upc-pre-2402-si732-sw72-G3
   - [7.3 Continuous Deployment](#73-continuous-deployment)
     - [7.3.1 Tools and Practices](#731-tools-and-practices)
     - [7.3.2 Production Deployment Pipeline Components](#732-production-deployment-pipeline-components)
+  - [7.4 Continuous Monitoring](#74-continuous-monitoring)
+- [Capítulo VIII: Experiment-Driven Development](#capítulo-viii-experiment-driven-development)
+  - [8.1 Experiment Planning](#81-experiment-planning)
+    - [8.1.1 As-Is Summary](#811-as-is-summary)
+    - [8.1.2 Raw Material Assumptions, Knowledge Gaps, Ideas, Claims](#812-raw-material-assumptions-knowledge-gaps-ideas-claims)
+    - [8.1.3 Experiment Ready Questions](#813-experiment-ready-questions)
+    - [8.1.4 Question Backlog](#814-question-backlog)
+    - [8.1.5 Experiment Cards](#815-experiment-cards)
+  - [8.2 Experiment Design](#82-experiment-design)
+    - [8.2.1 Hypotheses](#821-hypotheses)
+    - [8.2.2 Measures](#822-measures)
+    - [8.2.3 Conditions](#823-conditions)
+    - [8.2.4 Scale Calculations and Decisions](#824-scale-calculations-and-decisions)
+    - [8.2.5 Methods Selection](#825-methods-selection)
+    - [8.2.6 Data Analytics: Goals, KPIs and Metrics Selection](#826-data-analytics-goals-kpis-and-metrics-selection)
+    - [8.2.7 Web and Mobile Tracking Plan](#827-web-and-mobile-tracking-plan)
+  - [8.3 Experimentation](#83-experimentation)
+    - [8.3.1 To-Be User Stories](#831-to-be-user-stories)
+    - [8.3.2 To-Be-Product-Backlog](#832-to-be-product-backlog)
 - [Conclusiones](#conclusiones)
 - [Anexos](#anexos)
 
@@ -3284,6 +3303,28 @@ Jenkins Pipeline: Se utiliza como la herramienta principal para automatizar el f
 ![PT3](/image-report/pt.3.png)
 
 ![PT4](/image-report/pt.4.png)
+
+## 7.4. Continuous Monitoring
+
+# Capítulo VIII: Experiment-Driven Development
+## 8.1. Experiment Planning
+### 8.1.1. 
+### 8.1.2. 
+### 8.1.3. 
+### 8.1.4. 
+### 8.1.5. 
+## 8.2. Experiment Design
+### 8.2.1. 
+### 8.2.2. 
+### 8.2.3. 
+### 8.2.4. 
+### 8.2.5. 
+### 8.2.6. 
+### 8.2.7. 
+## 8.3. Experimentation
+### 8.3.1. 
+### 8.3.2. 
+
 
 # Conclusiones
 
