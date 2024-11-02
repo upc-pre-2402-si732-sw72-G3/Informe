@@ -3192,7 +3192,7 @@ Se documentará cada entrevista capturando tanto las respuestas como las observa
 ### Segmento 1
 | Nombre           | Edad | Domicilio | Enlace al Video           |
 |------------------|------|-----------|----------------------------|
-| Alejandra Neyra  | 19   | Ate       | [Entrevista #1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213404_upc_edu_pe/EXU3cY_kNMhKhZHV1A5LhZcBQXHW2y91FhKBMOtxEZ5eBg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Foaq7S) |
+| Alejandra Neyra  | 19   | Surco       | [Entrevista #1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213404_upc_edu_pe/EXU3cY_kNMhKhZHV1A5LhZcBQXHW2y91FhKBMOtxEZ5eBg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Foaq7S) |
 | Martin Rioja     | 19   | Ate       | [Entrevista #2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213404_upc_edu_pe/EdRbRJz9451Fp022enlwyPgB8a18Qmjm0-Y9kTGKlhDsYw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5qNXx4) |
 
 **Resumen de la Entrevista - Alejandra Neyra**:  
