@@ -3378,7 +3378,21 @@ Route-Logic esta desarrollado con el framework de Vue.js y .NET
 - La aplicacion ayuda a planificar un viaje preciso y con informacion a tiempo real.
 
 
-### 8.1.3. 
+### 8.1.3. Experiment-Ready Question
+- ¿Cuál es la cantidad de usuarios registrados que usan la aplicación para obtener rutas en un dia cotidiano?
+- ¿Cuál es el nivel de satisfacción de los usuarios que interactúan con nuestra aplicación en comparación a su interacción con otras aplicaciones similares?
+- ¿Qué nivel de conocimiento tecnológico tienen las personas que usan transporte público de manera regular para que puedan hacer uso del aplicativo?
+- ¿Qué cantidad de personas han sido beneficiadas en cuanto a la eficacia en llegar a sus destinos desde que comenzaron a usar nuestra aplicación?
+
+
+| Pregunta | Confianza | Riesgo | Impacto | Interés | Total Score |
+|-----------|-----------|-----------|-----------|-----------|-----------|
+| ¿Cuál es la cantidad de usuarios registrados que usan la aplicación para obtener rutas en un día cotidiano?    | 8    | 6    | 8    | 9    | 31   |
+| ¿Cuál es el nivel de satisfacción de los usuarios que interactúan con nuestra aplicación en comparación a su interacción con otras aplicaciones similares?    | 8    | 5    | 8    | 8    | 29    |
+| ¿Qué nivel de conocimiento tecnológico tienen las personas que usan transporte público de manera regular para que puedan hacer uso del aplicativo?   | 7    | 7    | 8    | 8    | 30    |
+| ¿Qué cantidad de personas han sido beneficiadas en cuanto a la eficacia en llegar a sus destinos desde que comenzaron a usar nuestra aplicación?    | 8    | 5    | 8  | 9    | 30    |
+
+
 ### 8.1.4. 
 ### 8.1.5. 
 ## 8.2. Experiment Design
