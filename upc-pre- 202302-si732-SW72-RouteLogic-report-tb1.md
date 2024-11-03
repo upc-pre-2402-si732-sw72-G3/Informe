@@ -3441,9 +3441,29 @@ Route-Logic esta desarrollado con el framework de Vue.js y .NET
 ### 8.2.6. 
 ### 8.2.7. 
 ## 8.3. Experimentation
-### 8.3.1. 
-### 8.3.2. 
+### 8.3.1. To-Be User Stories
 
+## 8.3. Experimentation
+
+### 8.3.1. To-Be User Stories
+
+| ID  | User Story                                                                                                                             | Criterios de Aceptación                                                                                                                                                                                                                                                                                   |
+|-----|----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| US01   | Como usuario frecuente de transporte público, quiero ver una lista de las rutas más eficientes en tiempo real, para optimizar mi viaje diario. | - La aplicación debe mostrar las rutas actualizadas en tiempo real.<br> - El sistema debe sugerir rutas alternativas en caso de alta congestión o problemas de transporte.                                                                                        |
+| US02   | Como administrador de una empresa de transporte, quiero poder promocionar nuestras rutas y servicios a través de la plataforma, para atraer más usuarios. | - El administrador debe tener acceso a una interfaz donde pueda publicar rutas, horarios y tarifas.<br> - El administrador debe poder ver estadísticas sobre el alcance de sus anuncios.                                                                           |
+| US03   | Como usuario de la aplicación, quiero poder proporcionar retroalimentación sobre mi experiencia usando la aplicación, para que los desarrolladores puedan hacer mejoras. | - La aplicación debe tener una sección donde el usuario pueda escribir comentarios y asignar una calificación.<br> - La aplicación debe recolectar y analizar los comentarios de manera periódica para su análisis.                                              |
+| US04   | Como usuario, quiero recibir sugerencias de rutas y mejoras en la planificación de mis viajes según mis preferencias de transporte, para optimizar mi tiempo de llegada. | - El usuario debe poder establecer preferencias de transporte (por ejemplo, evitar rutas largas o congestionadas).<br> - La aplicación debe recordar y ajustar las rutas sugeridas de acuerdo con las preferencias almacenadas.                                  |
+| US05   | Como equipo de desarrollo, queremos implementar encuestas automáticas que midan la satisfacción de los usuarios después de usar la aplicación, para evaluar nuestro rendimiento frente a la competencia. | - La encuesta debe activarse después de un número determinado de usos de la aplicación.<br> - Los datos de la encuesta deben almacenarse y analizarse regularmente para realizar mejoras en la experiencia del usuario.                                           |
+
+### 8.3.2. To-Be Product Backlog
+
+| Prioridad | Historia de Usuario | Descripción | Tareas |
+|-----------|----------------------|-------------|--------|
+| Alta | Implementación de rutas en tiempo real | Desarrollar la funcionalidad para mostrar las rutas más eficientes y en tiempo real a los usuarios. | 1. Desarrollar la lógica para el cálculo de rutas en tiempo real. <br> 2. Integrar con APIs de transporte público para obtener datos de tráfico. <br> 3. Probar y validar la precisión de las rutas. |
+| Alta | Interfaz de administración para empresas de transporte | Crear una interfaz para que los administradores puedan promocionar sus servicios y ver estadísticas. | 1. Desarrollar la interfaz de administración. <br> 2. Implementar un sistema de publicación de rutas y horarios. <br> 3. Añadir sección de estadísticas de alcance. |
+| Media | Sección de retroalimentación de usuarios | Crear una funcionalidad donde los usuarios puedan dejar comentarios y calificaciones sobre la aplicación. | 1. Desarrollar la sección de retroalimentación. <br> 2. Almacenar los comentarios en la base de datos. <br> 3. Crear un panel para revisar y analizar los comentarios. |
+| Alta | Personalización de rutas según preferencias del usuario | Permitir que el usuario establezca preferencias y adaptar las sugerencias de rutas de acuerdo a estas. | 1. Añadir opciones de preferencias de transporte en la interfaz de usuario. <br> 2. Modificar el algoritmo de rutas para considerar preferencias. <br> 3. Implementar almacenamiento y carga de preferencias del usuario. |
+| Media | Encuestas automáticas de satisfacción | Implementar encuestas automáticas que aparezcan después de un número específico de usos de la aplicación para medir satisfacción. | 1. Desarrollar la lógica para mostrar la encuesta después de X usos. <br> 2. Almacenar los resultados de la encuesta en la base de datos. <br> 3. Analizar y realizar reportes de las encuestas para planificar mejoras. |
 
 # Conclusiones
 
