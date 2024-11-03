@@ -3342,7 +3342,15 @@ Jenkins Pipeline: Se utiliza como la herramienta principal para automatizar el f
 
 # Capítulo VIII: Experiment-Driven Development
 ## 8.1. Experiment Planning
-### 8.1.1. 
+### 8.1.1. As-Is Summary
+Route-Logic es una plataforma la cual está dirigida a que los pasajeros que buscan un transporte
+público puedan encontrar la ruta mas eficiente para llegar a  sus destinos, por medio de dichos transportes. 
+Esta plataforma permite que  los usuarios puedan planificar sus viajes de forma eficaz, al igual que tener
+información acerca de las rutas actuales de sus medios de transporte y disponibilidad de estos mismos. 
+De igual manera, esta plataforma ayuda a que las empresas de transporte puedan promover sus servicios
+de forma precisa.
+Route-Logic esta desarrollado con el framework de Vue.js y .NET 
+
 ### 8.1.2. 
 ### 8.1.3. 
 ### 8.1.4. 
