@@ -3351,7 +3351,33 @@ De igual manera, esta plataforma ayuda a que las empresas de transporte puedan p
 de forma precisa.
 Route-Logic esta desarrollado con el framework de Vue.js y .NET 
 
-### 8.1.2. 
+### 8.1.2.  Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims.
+**Assumptions:**
+
+- Se asume que los usuarios buscan encontrar la mejor ruta para un medio de transporte al momento como dentro de un rango de tiempo específico. 
+- Se asume que la aplicación es la mejor opción para que los pasajeros tengan información sobre medios de transporte y sus rutas en la ciudad. 
+- Se asume que la aplicación generará una cantidad considerable de usuarios los cuales usan el aplicativo con frecuencia.
+- Se asume que las empresas de transporte encuentran un valor significativo para promover su negocio dentro de nuestra aplicación. 
+
+**Knowledge Gaps:**
+
+- No se tiene conocimiento sobre aplicaciones que proporcionen los mismos beneficios en Peru.
+- No se tiene conocimiento acerca de un grupo fijo de usuarios debido a falta de entrevistas.
+
+
+**Ideas:**
+
+- Realizar entrevistas a segmento objetivo Pasajeros
+- Realizar entrevistas a segmento objetivo Empresas de Transporte
+- Brindar constantes actualizaciones las cuales esten orientadas a feedback propuesto por los mismos usuarios
+
+**Claims:**
+
+- El proposito de la aplicacion es brindar la ruta mas eficiente a un usuario para que puede llegar a su destino. 
+- La aplicación permite que las empresas de transporte puedan ampliar el alcance de sus negocios.
+- La aplicacion ayuda a planificar un viaje preciso y con informacion a tiempo real.
+
+
 ### 8.1.3. 
 ### 8.1.4. 
 ### 8.1.5. 
