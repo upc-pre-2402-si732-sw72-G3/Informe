@@ -3393,7 +3393,15 @@ Route-Logic esta desarrollado con el framework de Vue.js y .NET
 | ¿Qué cantidad de personas han sido beneficiadas en cuanto a la eficacia en llegar a sus destinos desde que comenzaron a usar nuestra aplicación?    | 8    | 5    | 8  | 9    | 30    |
 
 
-### 8.1.4. 
+### 8.1.4. Questions Backlog
+| Prioridad | Preguntas |
+|-----------|-----------|
+| 8    | ¿Qué cantidad de personas han sido beneficiadas en cuanto a la eficacia en llegar a sus destinos desde que comenzaron a usar nuestra aplicación?    |
+| 8    | ¿Cuál es la cantidad de usuarios registrados que usan la aplicación para obtener rutas en un día cotidiano?    |
+| 8    | ¿Cuál es el nivel de satisfacción de los usuarios que interactúan con nuestra aplicación en comparación a su interacción con otras aplicaciones similares?    |
+| 5    | ¿Qué nivel de conocimiento tecnológico tienen las personas que usan transporte público de manera regular para que puedan hacer uso del aplicativo?    |
+
+
 ### 8.1.5. 
 ## 8.2. Experiment Design
 ### 8.2.1. 
