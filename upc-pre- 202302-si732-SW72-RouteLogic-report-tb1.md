@@ -3402,7 +3402,36 @@ Route-Logic esta desarrollado con el framework de Vue.js y .NET
 | 5    | ¿Qué nivel de conocimiento tecnológico tienen las personas que usan transporte público de manera regular para que puedan hacer uso del aplicativo?    |
 
 
-### 8.1.5. 
+### 8.1.5. Experiment Cards
+| QUESTION | ¿Cuál es la cantidad de usuarios registrados que usan la aplicación para obtener rutas en un día cotidiano? |
+|-----------|-----------|
+| WHY    | Si tenemos en cuenta la cantidad de usuarios registrados que usan la aplicación en su dia a dia podremos corroborar la eficacia de las estrategias para atraer usuarios.    |
+| WHAT    | Implementar una funcion interna para obtener estadisticas acerca de  la cantidad de usuarios activos en relacion a los registrados    |
+| HYPOTHESIS    | Creemos que al tener datos estadisticos acerca de nuestros usuarios activos podremos implementar estrategias para motivar a que los usuarios registrados vuelvan a la aplicación en un 10% inicialmente.    |
+
+
+| QUESTION | ¿Cuál es el nivel de satisfacción de los usuarios que interactúan con nuestra aplicación en comparación a su interacción con otras aplicaciones similares? |
+|-----------|-----------|
+| WHY    | Para tener conocimiento de que logramos llamar la atención de los usuarios y que logramos sobreponernos ante la competencia    |
+| WHAT    | Implementar encuestas en las cuales los usuarios nos den valoraciones acerca de su experiencia con la aplicación.    |
+| HYPOTHESIS    | Creemos que al identificar los niveles de satisfacción e insatisfacción de los usuarios con nuestra aplicación podremos implementar mejoras las cuales las cuales cambiarán la percepción de los usuarios en un 15% .   |
+
+
+| QUESTION | ¿Qué nivel de conocimiento tecnológico tienen las personas que usan transporte público de manera regular para que puedan hacer uso del aplicativo? |
+|-----------|-----------|
+| WHY    | Para saber a qué público está orientado principalmente la aplicación y qué se puede hacer para ayudar a que el resto de personas puedan hacer uso de la aplicación.    |
+| WHAT    | Entrevistar a usuarios aleatorios en las calles para conocer su nivel tecnológico y que tanto usan dispositivos electrónicos para planificar sus viajes.    |
+| HYPOTHESIS    | Creemos que al conocer que tanto usuarios pasajeros usan dispositivos electrónicos al planificar sus viajes podremos desarrollar estrategias para que más personas hagan uso de estos dispositivos y mejorar la eficacia de viaje de los usuarios en un 20%.    |
+
+
+| QUESTION | ¿Qué cantidad de personas han sido beneficiadas en cuanto a la eficacia en llegar a sus destinos desde que comenzaron a usar nuestra aplicación? |
+|-----------|-----------|
+| WHY    | Para saber si nuestros algoritmos dentro de la aplicación funcionan de manera correcta y poder ofrecer un producto de calidad a los usuarios.    |
+| WHAT    | Implementar una sección para que los usuarios publiquen comentarios acerca de la aplicación y tomar en cuenta el feedback brindado.    |
+| HYPOTHESIS    | Creemos que al obtener comentarios por parte de los usuarios y conocer la eficacia de nuestra aplicación podremos seguir ofreciendo una aplicación de calidad y así aumentar nuestros usuarios en un 10% en los próximos 3 meses.    |
+
+
+
 ## 8.2. Experiment Design
 ### 8.2.1. 
 ### 8.2.2. 
