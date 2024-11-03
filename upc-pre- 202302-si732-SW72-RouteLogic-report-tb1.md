@@ -3432,16 +3432,43 @@ Route-Logic esta desarrollado con el framework de Vue.js y .NET
 
 
 
-## 8.2. Experiment Design
-### 8.2.1. 
-### 8.2.2. 
-### 8.2.3. 
-### 8.2.4. 
-### 8.2.5. 
-### 8.2.6. 
-### 8.2.7. 
-## 8.3. Experimentation
-### 8.3.1. To-Be User Stories
+# 8.2 Experiment Design
+
+## 8.2.1 Hypotheses
+Se espera que los usuarios de la aplicación TrackMyRoute puedan mejorar su eficiencia en el seguimiento de rutas en un %, reduciendo el tiempo de planificación y aumentando la precisión en la estimación de tiempos de llegada.
+
+## 8.2.2 Measures
+Para evaluar el éxito del experimento, se medirán los siguientes aspectos clave:
+- **Tiempo promedio para completar una tarea de planificación de ruta.**
+- **Porcentaje de errores o desviaciones en la ruta seleccionada.**
+- **Nivel de satisfacción del usuario** medido a través de encuestas posteriores a la tarea.
+
+## 8.2.3 Conditions
+El experimento se llevará a cabo bajo dos condiciones principales:
+1. **Entorno controlado**: Pruebas en un entorno de laboratorio donde se simulan rutas específicas.
+2. **Escenario real**: Pruebas en un entorno real donde los usuarios realizan la planificación de rutas en situaciones cotidianas.
+
+## 8.2.4 Scale Calculations and Decisions
+Para obtener resultados significativos, se planea realizar pruebas con al menos 50 usuarios en cada grupo de condiciones. Este tamaño de muestra permitirá realizar comparaciones estadísticas entre los dos entornos.
+
+## 8.2.5 Methods Selection
+Se utilizarán los siguientes métodos de recolección de datos:
+- **Encuestas de satisfacción** al finalizar cada tarea.
+- **Análisis de logs de comportamiento** para monitorear el tiempo y los eventos de la aplicación.
+- **Entrevistas** a una selección de usuarios para obtener retroalimentación cualitativa.
+
+## 8.2.6 Data Analytics: Goals, KPIs, and Metrics Selection
+Los objetivos de análisis de datos incluyen evaluar la precisión y satisfacción del usuario. Se medirán los siguientes KPIs:
+- **Tasa de adopción de la funcionalidad de planificación de rutas.**
+- **Tiempo promedio de uso por sesión.**
+- **Índice de precisión en la estimación de tiempos de llegada.**
+
+## 8.2.7 Web and Mobile Tracking Plan
+Se implementará un plan de seguimiento tanto para la versión web como móvil de la aplicación. Se rastrearán los siguientes eventos:
+- Inicio de sesión y frecuencia de uso de la aplicación.
+- Acceso a funcionalidades clave, como la planificación de rutas y visualización de mapas.
+- Duración de la sesión y eventos de interacción específicos, utilizando herramientas como Google Analytics y Firebase.
+
 
 ## 8.3. Experimentation
 
