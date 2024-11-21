@@ -3559,6 +3559,41 @@ Se implementará un plan de seguimiento tanto para la versión web como móvil d
 | Media     | Planificación anticipada de viajes        | Diseñar funcionalidad para planificar viajes en fechas y horarios específicos.                               | 1. Añadir calendario y selector de horario.<br>2. Integrar predicciones de congestión.<br>3. Probar y validar funcionalidad.                                 |
 | Alta      | Análisis de patrones de uso               | Implementar análisis de datos para identificar comportamientos y preferencias de usuarios.                   | 1. Crear lógica para recolectar datos de uso.<br>2. Diseñar panel para visualización de estadísticas.<br>3. Generar informes periódicos para el equipo.       |
 
+### 8.3.3 Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle
+#### 8.3.3.1 To-Be Sprint Backlogs
+#### 8.3.3.2 Implemented To-Be Landing Page Evidence
+#### 8.3.3.3 Implemented To-Be Frontend-Web Application Evidence
+#### 8.3.3.4 Implemented To-Be Native-Mobile Application Evidence
+#### 8.3.3.5 Implemented To-Be RESTful API and/or Serverless Backend Evidence
+#### 8.3.3.6 Team Collaboration Insights
+
+### 8.3.4 To-Be Validation Interviews 
+#### 8.3.4.1 Diseño de Entrevistas.
+
+Llevaremos a cabo una serie de entrevistas de validacion que nos permitira evaluar nuestra aplicacion.
+
+- ¿Que impresion te causa la pagina al verla por primera vez?
+
+- ¿Puedes identificar facilmente el proposito de la aplicacion al ver la Landing Page?
+
+- ¿La navegacion de la pagina es intuitiva y facil de usar?
+
+- ¿El tiempo de cara de la pagina es satisfactorio para una buena experiencias del usuario?
+
+- ¿Qué aspectos mejorarias o cambiarias en la pagina para hacerla mas efectiva?
+
+
+#### 8.3.4.2 Registro de Entrevistas.
+
+
+
+
+## 8.4 Experiment Aftermath & Analysis
+## 8.4.1 Analysis and Interpretation of Results
+## 8.4.2 Re-scored and Re-prioritized Question Backlog
+
+
+
 
 ## 8.5. Continuous Learning 
 
