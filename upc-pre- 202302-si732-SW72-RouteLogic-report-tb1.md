@@ -3562,7 +3562,69 @@ Se implementará un plan de seguimiento tanto para la versión web como móvil d
 ### 8.3.3 Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle
 #### 8.3.3.1 To-Be Sprint Backlogs
 #### 8.3.3.2 Implemented To-Be Landing Page Evidence
+
 #### 8.3.3.3 Implemented To-Be Frontend-Web Application Evidence
+
+#### **Secciones implementadas del Aplicativo Web**
+
+- Inicio de sesion :
+  
+<div align="center">
+
+  <img src="image-report/landing_Login.png">
+
+</div>
+  
+  - Registro de Usuario:
+  
+<div align="center">
+
+  <img src="image-report/Landing_register.png">
+
+</div>
+
+
+  - Busqueda de ruta:
+  
+<div align="center">
+
+  <img src="image-report/Dashboard-BuscarRutas.png">
+
+</div>
+
+  - Pagos de viajes:
+  
+<div align="center">
+
+  <img src="image-report/Dashboard-PagarPasaje.png">
+
+</div>
+
+  - Historial de viajes:
+  
+<div align="center">
+
+  <img src="image-report/Dashboard-HistorialdeViajes.png">
+
+</div>
+
+   - Promos:
+  
+<div align="center">
+
+  <img src="image-report/Dashboard-Promos.png">
+
+</div>
+
+   - Soporte:
+  
+<div align="center">
+
+  <img src="image-report/Dashboard-SoporteyAyuda.png">
+
+</div>
+
+
 #### 8.3.3.4 Implemented To-Be RESTful API and/or Serverless Backend Evidence
 #### 8.3.3.5 Team Collaboration Insights
 
