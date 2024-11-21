@@ -3626,6 +3626,21 @@ Se implementará un plan de seguimiento tanto para la versión web como móvil d
 
 
 #### 8.3.3.4 Implemented To-Be RESTful API and/or Serverless Backend Evidence
+
+- **API probado en Swagger UI**
+<div align="center">
+
+  <img src="image-report/NotifSSjpeg.jpeg">
+
+</div>
+
+- **Endpoints para cada bounded context**
+<div align="center">
+
+  <img src="./image-report/back-sprint4.jpg">
+
+</div>
+
 #### 8.3.3.5 Team Collaboration Insights
 
 ![insights](image-report/insights-track-my-route-final.JPG)
