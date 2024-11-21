@@ -3585,8 +3585,55 @@ Llevaremos a cabo una serie de entrevistas de validacion que nos permitira evalu
 
 #### 8.3.4.2 Registro de Entrevistas.
 
+### Entrevista 1
+- **Nombre y Apellido:** Juan David Gamarra Beltran
+- **Edad:** 20
+- **Distrito:** San Martin de Porres
+- **Enlace:** [Entrevista Juan Gamarra ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213404_upc_edu_pe/Ef7FdABP_3lMih5miP4-kOwBoEmn5k1KX1gbiEVj0Ms_Lw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=izjFSg)
+- **Duración:** 6:26
+- **Resumen:**  
+  Juan es un joven estudiante que opina que es una pagina funcional que ofrece la busqueda de rutas de manera rapida y que ayudaria bastante, recomienda hacer el cambio de tema para incluir el modo oscuro.
+<img src="image-report/Entrevista_Juan_TF.png" alt="Preview de la entrevista" style="width: 100%; max-width: 400px; height: auto;">
 
 
+---
+
+###  Entrevista 2
+- **Nombre y Apellido:** Estrella del Pilar Ticona Panduro
+- **Edad:** 19
+- **Distrito:** Rimac
+- **Enlace:** [Entrevista Estrella Ticona ]( https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213404_upc_edu_pe/EWaQYLnigVxGsWD-TMeGbh8BBqimWllTnUzCeKFzHVhBaA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=B71gWg)
+- **Duración:** 7:08
+- **Resumen:**  
+  Estrella es una chica que usa tranportes publicos para irse de punto a punto y le parece muy util ya que puede tener el seguimiento de los paraderos y un mejor control de a donde quiere ir porque puede ver los paraderos y la ruta completa, opina que la carga de datos ha sido rapida y que se mejoraria a la hora de hacer las busquedas.
+<img src="image-report/Entrevista_Estrella_TF.png" alt="Preview de la entrevista" style="width: 100%; max-width: 400px; height: auto;">
+
+---
+
+## Entrevista 3
+- **Nombre y Apellido:** Elisa Mariafe Yataco Perez
+- **Edad:** 21
+- **Distrito:** Surco
+- **Enlace:** [Entrevista Mariafe](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213404_upc_edu_pe/EaRXxerXrJZAmiS-xq2I5UcBX5xahOxr_LV2xk7tV7hbHw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=rrUvDu)
+- **Duración:** 8:37
+- **Resumen:**  
+  Mariafe es una persona que usa el transporte public muy seguido sin embargo, siempre tiene inconvenientes a la hora de ver donde subir o bajar, opina que para los turistas es una aplicacion muy util, le parece muy importante ver cuanto le costo y la duracion del viaje, para asi poder guiarse a la hora de tomar la ruta.
+
+ <img src="image-report/Entrevista_Mariafe_TF.png" alt="Preview de la entrevista" style="width: 100%; max-width: 400px; height: auto;">
+
+---
+
+###  Entrevista 4
+- **Nombre y Apellido:** Sebastian Valentino Silva Tirado
+- **Edad:** 22
+- **Distrito:** San Borja
+- **Enlace:** [Entrevista Sebastian](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213404_upc_edu_pe/EaHvLizkwzNNhVtLR_pCl78B0bXaRX9HDHFdT9nF6KV7cQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=1TNIbL)
+- **Duración:** 7:53
+- **Resumen:**  
+  Sebastian es una persona que le interesa saber la informacion de la ruta que va a tomar, le parece un diseño claro y un mapa completo para poder ver la ruta como el quiere, opina que deberia haber estadisticas de los gastos y que bus se toma mas para poder asi estudiarlo y tomar las medidas adecuadas.
+ <img src="image-report/Entrevista_Sebastian_TF.png" alt="Preview de la entrevista" style="width: 100%; max-width: 400px; height: auto;">
+
+---
 
 ## 8.4 Experiment Aftermath & Analysis
 ## 8.4.1 Analysis and Interpretation of Results
