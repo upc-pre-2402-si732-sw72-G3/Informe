@@ -15,31 +15,31 @@
 - **Nombre del Producto**: TrackMyRoute
 - **Relación de Integrantes**:
 
-| **Nombre**                                | **Código**  |
-| --------------------------------------------| ------------- |
-| Luza Carhuamaca, Jose Adrian                | u202213404    |
-| Elsner De La Torre Ugarte, Julio Esteban    | u202111654    |
-| Miranda Sinarahua, Piero Stephano           | u20181g752    |
-| Landeo Simeón, Favio Sebastian              | u202119588    |
-| Poma Espinoza, Gustavo Arturo               | u20221c138    |
-| Ramirez Alfaro, Miguel Angel                | u202117152    |
+| **Nombre**                               | **Código** |
+| ---------------------------------------- | ---------- |
+| Luza Carhuamaca, Jose Adrian             | u202213404 |
+| Elsner De La Torre Ugarte, Julio Esteban | u202111654 |
+| Miranda Sinarahua, Piero Stephano        | u20181g752 |
+| Landeo Simeón, Favio Sebastian           | u202119588 |
+| Poma Espinoza, Gustavo Arturo            | u20221c138 |
+| Ramirez Alfaro, Miguel Angel             | u202117152 |
 
 - **Mes y Año**: Septiembre del 2024
-
 
 ---
 
 # Registro de Versiones del Informe
+
 El objetivo de esta sección es resumir las modificaciones relevantes que se realizan al informe durante el ciclo de vida del proyecto. Esta sección inicia en una página nueva y se incluye un cuadro con la siguiente estructura:
 
-| **Versión** | **Fecha** | **Autor** | **Descripción de Modificación** |
-|-------------|-----------|-----------|---------------------------------|
-|    TB1      |     4/09/2024      |    Todos        |      Añadimos los capítulos 1, 2, 3, 4 y 5. Además se tomó en cuenta la creación de los prototipos en dispositivos móviles. |
-|    TP1      |     24/09/2024      |    Todos        |      Hicimos los cambios que el profesor nos brindó en la retroalimentación de la versión anterior junto a la adición de los capítulos 6 y 7. |
+| **Versión** | **Fecha**  | **Autor** | **Descripción de Modificación**                                                                                                          |
+| ----------- | ---------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| TB1         | 4/09/2024  | Todos     | Añadimos los capítulos 1, 2, 3, 4 y 5. Además se tomó en cuenta la creación de los prototipos en dispositivos móviles.                   |
+| TP1         | 24/09/2024 | Todos     | Hicimos los cambios que el profesor nos brindó en la retroalimentación de la versión anterior junto a la adición de los capítulos 6 y 7. |
 
 ---
 
-# Project Report Collaboration Insights 
+# Project Report Collaboration Insights
 
 URL del repositorio del proyecto: [https://github.com/upc-pre-2402-si732-sw72-G3/Informe]
 
@@ -58,8 +58,9 @@ URL del repositorio del proyecto: [https://github.com/upc-pre-2402-si732-sw72-G3
 ---
 
 # Tabla de contenidos
+
 - [Universidad Peruana de Ciencias Aplicadas](#universidad-peruana-de-ciencias-aplicadas)
-    - [Informe de Trabajo Final](#informe-de-trabajo-final)
+  - [Informe de Trabajo Final](#informe-de-trabajo-final)
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
 - [Tabla de contenidos](#tabla-de-contenidos)
@@ -130,10 +131,10 @@ URL del repositorio del proyecto: [https://github.com/upc-pre-2402-si732-sw72-G3
     - [4.8.1. Software Architecture Context Diagram.](#481-software-architecture-context-diagram)
     - [4.8.2. Software Architecture Container Diagrams.](#482-software-architecture-container-diagrams)
     - [4.8.3. Software Architecture Components Diagrams.](#483-software-architecture-components-diagrams)
-        - [Diagrama de componentes #1:](#diagrama-de-componentes-1)
-        - [Diagrama de componentes #2:](#diagrama-de-componentes-2)
-        - [Diagrama de componentes #3:](#diagrama-de-componentes-3)
-        - [Diagrama de componentes #4:](#diagrama-de-componentes-4)
+      - [Diagrama de componentes #1:](#diagrama-de-componentes-1)
+      - [Diagrama de componentes #2:](#diagrama-de-componentes-2)
+      - [Diagrama de componentes #3:](#diagrama-de-componentes-3)
+      - [Diagrama de componentes #4:](#diagrama-de-componentes-4)
   - [4.9. Software Object-Oriented Design.](#49-software-object-oriented-design)
     - [4.9.1. Class Diagrams.](#491-class-diagrams)
     - [4.9.2. Class Dictionary.](#492-class-dictionary)
@@ -164,7 +165,7 @@ URL del repositorio del proyecto: [https://github.com/upc-pre-2402-si732-sw72-G3
     - [6.1.2. Core Integration Tests](#612-core-integration-tests)
     - [6.1.3. Core Behavior-Driven Development](#613-core-behavior-driven-development)
     - [6.1.4. Core System Tests](#614-core-system-tests)
-- [6.2  Static testing \& Verification](#62--static-testing--verification)
+- [6.2 Static testing \& Verification](#62--static-testing--verification)
   - [6.2.1. Static Code Analysis](#621-static-code-analysis)
     - [6.2.1.1. Coding standard \& Code conventions.](#6211-coding-standard--code-conventions)
     - [Naming Conventions](#naming-conventions)
@@ -198,7 +199,7 @@ URL del repositorio del proyecto: [https://github.com/upc-pre-2402-si732-sw72-G3
 - [Capítulo VIII: Experiment-Driven Development](#capítulo-viii-experiment-driven-development)
   - [8.1. Experiment Planning](#81-experiment-planning)
     - [8.1.1. As-Is Summary](#811-as-is-summary)
-    - [8.1.2.  Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims.](#812--raw-material-assumptions-knowledge-gaps-ideas-claims)
+    - [8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims.](#812--raw-material-assumptions-knowledge-gaps-ideas-claims)
     - [8.1.3. Experiment-Ready Question](#813-experiment-ready-question)
     - [8.1.4. Questions Backlog](#814-questions-backlog)
     - [8.1.5. Experiment Cards](#815-experiment-cards)
@@ -222,17 +223,20 @@ URL del repositorio del proyecto: [https://github.com/upc-pre-2402-si732-sw72-G3
 ---
 
 ## STUDENT OUTCOME
+
 <b>ABET – EAC - Student Outcome 4</b>
 
-| Criterio específico                                                                                                                                              | Acciones realizadas                                                                                                                                                      | Conclusiones                                                                                                                                   |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| Reconoce responsabilidad ética y profesional en situaciones de ingeniería de software.        | **Luza Carhuamaca, Jose Adrian** <br> **TB1:** <br> Durante la elaboración del Capítulo 1, me enfoqué en reconocer la responsabilidad ética y profesional. Para ello, detallé la descripción de la startup y los perfiles de los integrantes del equipo, asegurándome de que cada perfil refleje el compromiso ético de cada miembro. También desarrollé los apartados relacionados con los antecedentes, problemática y el proceso Lean UX, teniendo en cuenta prácticas éticas y transparentes en la recolección y presentación de la información. <br> <br> <br> **Elsner De La Torre Ugarte, Julio Esteban** <br> **TB1:** <br> Durante el desarrollo del proyecto, adquirí conocimientos en la implementación de arquitecturas de software basadas en el Diseño Orientado al Dominio (DDD), donde pude modelar entidades clave, definir contextos delimitados y aplicar una arquitectura basada en eventos. A lo largo de este proceso, me enfoqué en la responsabilidad ética y profesional, garantizando que las soluciones no solo se alinearan con las necesidades del negocio, sino que también fueran justas, equitativas y respetuosas con los derechos de los usuarios. Además, consideré la importancia de utilizar fuentes y tecnologías que cumplan con los estándares éticos y legales, asegurando un desarrollo de software prudente y confiable. <br> <br> <br> **Miranda Sinarahua, Piero Stephano** <br> **TB1:** <br> Mediante el desarrollo profesional y etico logre identificar las especificacioes y requerimientos necesarios para el desarrollo del trabajo. Contribuí añadiendo mapas e historias de usuarios los cuales se tomaron en cuenta para caracteristicas posteriores mencionadas en el informe. <br> <br> <br> **Landeo Simeón, Favio Sebastián** <br> **TB1:** <br> Realicé el capítulo 5 correspondiente a la implementación del producto, cómo se ejecuta y dónde. <br> <br> <br> **Poma Espinoza, Gustavo Arturo** <br> **TB1:** <br> Participé activamente en la identificación de problemas éticos y profesionales en el desarrollo del proyecto, asegurando que todas las decisiones técnicas cumplieran con los estándares de la industria y con las regulaciones aplicables. Colaboré en la implementación de prácticas de desarrollo sostenible y en la creación de documentación que refleje el compromiso del equipo con la responsabilidad ética.  <br> <br> <br> **Ramirez Alfaro, Miguel Angel** <br> **TB1:** <br> (TB1) | **Luza Carhuamaca, Jose Adrian** <br> **TB1:** <br> Estas acciones permitieron asegurar que la información presentada en el trabajo este enlazado con los principios éticos y profesionales requeridos, fortaleciendo la integridad del proyecto y destacando la importancia del comportamiento ético en todas las etapas del desarrollo. <br> <br> <br> **Elsner De La Torre Ugarte, Julio Esteban** <br> **TB1:** <br> Llevar a cabo esta parte del informe me hizo reconocer las responsabilidades éticas y profesionales como futuro desarrollador de software, así como comprender que la información y demás funciones son importantes para ser un buen profesional. <br> <br> <br> **Miranda Sinarahua, Piero Stephano** <br> **TB1:** <br> Se concluye que al realizar un trabajo profesional de manera etica se puede conseguir un producto que alcance un gran impacto al publico objetivo. De igual manera, la toma de decisiones previas al desarrollo es una necesidad fundamental para una correcta propuesta de solucion. <br> <br> <br> **Landeo Simeón, Favio Sebastián** <br> **TB1:** <br> En esta entrega aprendí que la responsabilidad de utilizar fuentes son importantes para el desarrollo de un software con un uso prudente y ético. <br> <br> <br> **Poma Espinoza, Gustavo Arturo** <br> **TB1:** <br>  El análisis detallado de las implicancias éticas y profesionales durante el desarrollo del proyecto permitió al equipo anticiparse a posibles riesgos y garantizar que todas las soluciones técnicas propuestas fueran responsables y sostenibles a largo plazo. <br> <br> <br> **Ramirez Alfaro, Miguel Angel** <br> **TB2:**  <br>  El diseño experimental evaluó la eficiencia de TrackMyRoute mediante hipótesis, métricas clave, condiciones controladas y reales, garantizando datos sólidos para optimizar precisión y satisfacción del usuario.
- |.                  Para                                                                                                                  |
-| Emite juicios informados considerando el impacto de las soluciones de ingeniería de software en contextos globales, económicos, ambientales y sociales.  | **Luza Carhuamaca, Jose Adrian** <br> **TB1:** <br> Al redactar el Capítulo 1, consideré el impacto de las soluciones planteadas en diversos contextos. Desarrollé el perfil de la solución y los segmentos objetivo teniendo en cuenta los efectos potenciales en el ámbito global, económico, ambiental y social. Además, abordé el proceso Lean UX de manera que promoviera una visión integral de las posibles consecuencias de nuestras decisiones en diferentes entornos. <br> <br> <br> **Elsner De La Torre Ugarte, Julio Esteban** <br> **TB1:** <br> En el proyecto, aprendí a diseñar y desarrollar prototipos tanto para aplicaciones móviles en Android e iOS como para aplicaciones web, aplicando principios de UX/UI. Esto incluye la creación de wireframes, diagramas wireflow, mock-ups y diagramas de flujo de usuario, lo que me permitió entender y optimizar la experiencia del usuario desde las primeras fases del proyecto. Al aplicar estos principios, consideré el impacto global de las soluciones, asegurando que fueran accesibles, intuitivas y alineadas con las necesidades del usuario final, mientras que las decisiones de diseño también reflejaron una consideración consciente de la sostenibilidad ambiental y la responsabilidad social. Además, el proyecto incorporó arquitecturas de software basadas en el Diseño Orientado al Dominio (DDD), asegurando que las soluciones fueran escalables y adaptables a diferentes contextos económicos y culturales, lo que favorece la globalización del software desarrollado. <br> <br> <br> **Miranda Sinarahua, Piero Stephano** <br> **TB1:** <br> Participe en la toma de datos y decision de funcionalidades y caracteristicas las cuales ayudaron a que nuestro proyecto tenga un impacto social y economico en la poblacion. Asi, la solucion tecnologica propuesta conllevara a mejorar los servicios de transporte de la ciudad correspondiente.  <br> <br> <br> **Landeo Simeón, Favio Sebastián** <br> **TB1:** <br> Realicé el capítulo 5 correspondiente a la implementación del producto, cómo se ejecuta y dónde. <br> <br> <br> **Poma Espinoza, Gustavo Arturo** <br> **TB1:** <br> Realicé un análisis exhaustivo de las posibles consecuencias globales y locales de nuestra solución de software, evaluando su impacto en el medio ambiente y en las comunidades que dependen de los servicios de transporte. Participé en la creación de estrategias que maximicen los beneficios sociales y minimicen los impactos negativos. <br> <br> <br> **Ramirez Alfaro, Miguel Angel** <br> **TB1:** <br> Para el trabajo mi parte fue realizar el Cap 5, donde Integré completamente el backend con el frontend, realizando pruebas exhaustivas y asegurando que todas las funcionalidades trabajaran de manera coherente, lo que permitió ofrecer una experiencia de usuario integral y fluida.   | **Luza Carhuamaca, Jose Adrian** <br> **TB1:** <br> Gracias a esta perspectiva global en la redacción del Capítulo 1, logré presentar una solución que no solo responde a necesidades específicas, sino que también es consciente de su impacto en diferentes contextos, promoviendo un enfoque equilibrado y sostenible en el desarrollo del proyecto. <br> <br> <br> **Elsner De La Torre Ugarte, Julio Esteban** <br> **TB1:** <br> Con la realización de mi parte en este proyecto entendí que los juicios e información que brindamos a los usuarios mediante nuestro software es importante desde el punto de vista ético y profesional. <br> <br> <br> **Miranda Sinarahua, Piero Stephano** <br> **TB1:** <br> Se conluye que el trabajo realizado favorece a la poblacion en un contexto global,economico ,ambiental y social, ya que ofrece un beneficio el cual es aprovechado en actividades cotidianas. <br> <br> <br> **Landeo Simeón, Favio Sebastián** <br> **TB1:** <br> Aprendí a manejar la información que brindo en un proyecto. Es muy importante porque los usuarios tienen que saber que la fuente es confiable y de buena ética. <br> <br> <br> **Poma Espinoza, Gustavo Arturo** <br> **TB1:** <br> La consideración de los contextos globales, económicos, ambientales y sociales en el diseño de la aplicación nos permitió desarrollar una solución más holística y efectiva, alineada con los objetivos de desarrollo sostenible. <br> <br> <br> **Ramirez Alfaro, Miguel Angel**<br> **TB1:** En conclusion con el apoño y esfuerzo de nuestro equipo logramos completar los requisitos de nuestra propuesta y realizamos las pruebas necesarias para comprobar nuestor trabajo. <br> **Ramirez Alfaro, Miguel Angel** <br> **TB2:** El proyecto TrackMyRoute optimiza la planificación de rutas mediante herramientas de seguimiento y análisis, mejorando la precisión, eficiencia y experiencia del usuario en escenarios reales y simulados.
-           |
+| Criterio específico                                                                                                                                     | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Reconoce responsabilidad ética y profesional en situaciones de ingeniería de software.                                                                  | **Luza Carhuamaca, Jose Adrian** <br> **TB1:** <br> Durante la elaboración del Capítulo 1, me enfoqué en reconocer la responsabilidad ética y profesional. Para ello, detallé la descripción de la startup y los perfiles de los integrantes del equipo, asegurándome de que cada perfil refleje el compromiso ético de cada miembro. También desarrollé los apartados relacionados con los antecedentes, problemática y el proceso Lean UX, teniendo en cuenta prácticas éticas y transparentes en la recolección y presentación de la información. <br> <br> <br> **Elsner De La Torre Ugarte, Julio Esteban** <br> **TB1:** <br> Durante el desarrollo del proyecto, adquirí conocimientos en la implementación de arquitecturas de software basadas en el Diseño Orientado al Dominio (DDD), donde pude modelar entidades clave, definir contextos delimitados y aplicar una arquitectura basada en eventos. A lo largo de este proceso, me enfoqué en la responsabilidad ética y profesional, garantizando que las soluciones no solo se alinearan con las necesidades del negocio, sino que también fueran justas, equitativas y respetuosas con los derechos de los usuarios. Además, consideré la importancia de utilizar fuentes y tecnologías que cumplan con los estándares éticos y legales, asegurando un desarrollo de software prudente y confiable. <br> <br> <br> **Miranda Sinarahua, Piero Stephano** <br> **TB1:** <br> Mediante el desarrollo profesional y etico logre identificar las especificacioes y requerimientos necesarios para el desarrollo del trabajo. Contribuí añadiendo mapas e historias de usuarios los cuales se tomaron en cuenta para caracteristicas posteriores mencionadas en el informe. <br> <br> <br> **Landeo Simeón, Favio Sebastián** <br> **TB1:** <br> Realicé el capítulo 5 correspondiente a la implementación del producto, cómo se ejecuta y dónde. <br> <br> <br> **Poma Espinoza, Gustavo Arturo** <br> **TB1:** <br> Participé activamente en la identificación de problemas éticos y profesionales en el desarrollo del proyecto, asegurando que todas las decisiones técnicas cumplieran con los estándares de la industria y con las regulaciones aplicables. Colaboré en la implementación de prácticas de desarrollo sostenible y en la creación de documentación que refleje el compromiso del equipo con la responsabilidad ética. <br> <br> <br> **Ramirez Alfaro, Miguel Angel** <br> **TB1:** <br> (TB1)                                                                                                                                                                                                                                                                                                                                                                                                                        | **Luza Carhuamaca, Jose Adrian** <br> **TB1:** <br> Estas acciones permitieron asegurar que la información presentada en el trabajo este enlazado con los principios éticos y profesionales requeridos, fortaleciendo la integridad del proyecto y destacando la importancia del comportamiento ético en todas las etapas del desarrollo. <br> <br> <br> **Elsner De La Torre Ugarte, Julio Esteban** <br> **TB1:** <br> Llevar a cabo esta parte del informe me hizo reconocer las responsabilidades éticas y profesionales como futuro desarrollador de software, así como comprender que la información y demás funciones son importantes para ser un buen profesional. <br> <br> <br> **Miranda Sinarahua, Piero Stephano** <br> **TB1:** <br> Se concluye que al realizar un trabajo profesional de manera etica se puede conseguir un producto que alcance un gran impacto al publico objetivo. De igual manera, la toma de decisiones previas al desarrollo es una necesidad fundamental para una correcta propuesta de solucion. <br> <br> <br> **Landeo Simeón, Favio Sebastián** <br> **TB1:** <br> En esta entrega aprendí que la responsabilidad de utilizar fuentes son importantes para el desarrollo de un software con un uso prudente y ético. <br> <br> <br> **Poma Espinoza, Gustavo Arturo** <br> **TB1:** <br> El análisis detallado de las implicancias éticas y profesionales durante el desarrollo del proyecto permitió al equipo anticiparse a posibles riesgos y garantizar que todas las soluciones técnicas propuestas fueran responsables y sostenibles a largo plazo. <br> <br> <br> **Ramirez Alfaro, Miguel Angel** <br> **TB2:** <br> El diseño experimental evaluó la eficiencia de TrackMyRoute mediante hipótesis, métricas clave, condiciones controladas y reales, garantizando datos sólidos para optimizar precisión y satisfacción del usuario.                                                                                       |
+| . Para                                                                                                                                                  |
+| Emite juicios informados considerando el impacto de las soluciones de ingeniería de software en contextos globales, económicos, ambientales y sociales. | **Luza Carhuamaca, Jose Adrian** <br> **TB1:** <br> Al redactar el Capítulo 1, consideré el impacto de las soluciones planteadas en diversos contextos. Desarrollé el perfil de la solución y los segmentos objetivo teniendo en cuenta los efectos potenciales en el ámbito global, económico, ambiental y social. Además, abordé el proceso Lean UX de manera que promoviera una visión integral de las posibles consecuencias de nuestras decisiones en diferentes entornos. <br> <br> <br> **Elsner De La Torre Ugarte, Julio Esteban** <br> **TB1:** <br> En el proyecto, aprendí a diseñar y desarrollar prototipos tanto para aplicaciones móviles en Android e iOS como para aplicaciones web, aplicando principios de UX/UI. Esto incluye la creación de wireframes, diagramas wireflow, mock-ups y diagramas de flujo de usuario, lo que me permitió entender y optimizar la experiencia del usuario desde las primeras fases del proyecto. Al aplicar estos principios, consideré el impacto global de las soluciones, asegurando que fueran accesibles, intuitivas y alineadas con las necesidades del usuario final, mientras que las decisiones de diseño también reflejaron una consideración consciente de la sostenibilidad ambiental y la responsabilidad social. Además, el proyecto incorporó arquitecturas de software basadas en el Diseño Orientado al Dominio (DDD), asegurando que las soluciones fueran escalables y adaptables a diferentes contextos económicos y culturales, lo que favorece la globalización del software desarrollado. <br> <br> <br> **Miranda Sinarahua, Piero Stephano** <br> **TB1:** <br> Participe en la toma de datos y decision de funcionalidades y caracteristicas las cuales ayudaron a que nuestro proyecto tenga un impacto social y economico en la poblacion. Asi, la solucion tecnologica propuesta conllevara a mejorar los servicios de transporte de la ciudad correspondiente. <br> <br> <br> **Landeo Simeón, Favio Sebastián** <br> **TB1:** <br> Realicé el capítulo 5 correspondiente a la implementación del producto, cómo se ejecuta y dónde. <br> <br> <br> **Poma Espinoza, Gustavo Arturo** <br> **TB1:** <br> Realicé un análisis exhaustivo de las posibles consecuencias globales y locales de nuestra solución de software, evaluando su impacto en el medio ambiente y en las comunidades que dependen de los servicios de transporte. Participé en la creación de estrategias que maximicen los beneficios sociales y minimicen los impactos negativos. <br> <br> <br> **Ramirez Alfaro, Miguel Angel** <br> **TB1:** <br> Para el trabajo mi parte fue realizar el Cap 5, donde Integré completamente el backend con el frontend, realizando pruebas exhaustivas y asegurando que todas las funcionalidades trabajaran de manera coherente, lo que permitió ofrecer una experiencia de usuario integral y fluida. | **Luza Carhuamaca, Jose Adrian** <br> **TB1:** <br> Gracias a esta perspectiva global en la redacción del Capítulo 1, logré presentar una solución que no solo responde a necesidades específicas, sino que también es consciente de su impacto en diferentes contextos, promoviendo un enfoque equilibrado y sostenible en el desarrollo del proyecto. <br> <br> <br> **Elsner De La Torre Ugarte, Julio Esteban** <br> **TB1:** <br> Con la realización de mi parte en este proyecto entendí que los juicios e información que brindamos a los usuarios mediante nuestro software es importante desde el punto de vista ético y profesional. <br> <br> <br> **Miranda Sinarahua, Piero Stephano** <br> **TB1:** <br> Se conluye que el trabajo realizado favorece a la poblacion en un contexto global,economico ,ambiental y social, ya que ofrece un beneficio el cual es aprovechado en actividades cotidianas. <br> <br> <br> **Landeo Simeón, Favio Sebastián** <br> **TB1:** <br> Aprendí a manejar la información que brindo en un proyecto. Es muy importante porque los usuarios tienen que saber que la fuente es confiable y de buena ética. <br> <br> <br> **Poma Espinoza, Gustavo Arturo** <br> **TB1:** <br> La consideración de los contextos globales, económicos, ambientales y sociales en el diseño de la aplicación nos permitió desarrollar una solución más holística y efectiva, alineada con los objetivos de desarrollo sostenible. <br> <br> <br> **Ramirez Alfaro, Miguel Angel**<br> **TB1:** En conclusion con el apoño y esfuerzo de nuestro equipo logramos completar los requisitos de nuestra propuesta y realizamos las pruebas necesarias para comprobar nuestor trabajo. <br> **Ramirez Alfaro, Miguel Angel** <br> **TB2:** El proyecto TrackMyRoute optimiza la planificación de rutas mediante herramientas de seguimiento y análisis, mejorando la precisión, eficiencia y experiencia del usuario en escenarios reales y simulados. |
+|  |
+
 ---
 
 # Capítulo I: Introducción
+
 ## 1.1 Startup Profile
 
 ### 1.1.1 Descripción de la Startup
@@ -406,7 +410,6 @@ Conclusiones de las 5W y 2H: En resumen, la movilización en transporte público
 
 El objetivo principal de TrackRoute es facilitar que las personas planifiquen y realicen viajes en transporte público de manera sencilla y eficiente. Además, buscamos disminuir los costos asociados al transporte y aliviar la congestión vehicular, lo que también contribuye a mejorar la calidad del aire, reduciendo así el impacto ambiental de los desplazamientos diarios en la ciudad.
 
-
 #### 1.2.2.2. Lean UX Assumptions
 
 User Assumptions
@@ -438,40 +441,39 @@ Nuestra plataforma debe ser visualmente atractiva e intuitiva, lo que permitirá
 Business Assumptions
 
 1. Demanda de Usuarios:
-Suponemos que existe una demanda significativa para una aplicación de planificación de rutas de transporte público en Lima, ya que muchas personas buscan optimizar sus viajes.
+   Suponemos que existe una demanda significativa para una aplicación de planificación de rutas de transporte público en Lima, ya que muchas personas buscan optimizar sus viajes.
 
 2. Colaboración con Empresas de Transporte:
-Suponemos que las empresas de transporte público en Lima estarán dispuestas a colaborar, proporcionando datos actualizados sobre sus rutas y vehículos para integrarlos en nuestra aplicación.
+   Suponemos que las empresas de transporte público en Lima estarán dispuestas a colaborar, proporcionando datos actualizados sobre sus rutas y vehículos para integrarlos en nuestra aplicación.
 
 3. Disponibilidad de Datos en Tiempo Real:
-Suponemos que podemos acceder a datos en tiempo real de los sistemas de transporte público, lo que nos permitirá proporcionar información precisa sobre la ubicación y el estado de los vehículos.
+   Suponemos que podemos acceder a datos en tiempo real de los sistemas de transporte público, lo que nos permitirá proporcionar información precisa sobre la ubicación y el estado de los vehículos.
 
 4. Aceptación de Tecnología:
-Suponemos que la población de Lima está dispuesta a adoptar y utilizar aplicaciones móviles para planificar sus viajes en transporte público, y que cuentan con los dispositivos y la conectividad necesarios.
+   Suponemos que la población de Lima está dispuesta a adoptar y utilizar aplicaciones móviles para planificar sus viajes en transporte público, y que cuentan con los dispositivos y la conectividad necesarios.
 
 5. Monetización:
-Suponemos que podemos generar ingresos a través de modelos de monetización como la publicidad en la aplicación, la venta de boletos de transporte o la suscripción premium para características adicionales.
+   Suponemos que podemos generar ingresos a través de modelos de monetización como la publicidad en la aplicación, la venta de boletos de transporte o la suscripción premium para características adicionales.
 
 6. Seguridad de Datos:
-Suponemos que podemos garantizar la seguridad y privacidad de los datos personales de los usuarios, lo que fomentará la confianza en nuestra aplicación.
+   Suponemos que podemos garantizar la seguridad y privacidad de los datos personales de los usuarios, lo que fomentará la confianza en nuestra aplicación.
 
 7. Competencia:
-Suponemos que habrá competidores en el mercado de aplicaciones de transporte público en Lima, y debemos encontrar formas de diferenciarnos y ofrecer un valor único a los usuarios.
+   Suponemos que habrá competidores en el mercado de aplicaciones de transporte público en Lima, y debemos encontrar formas de diferenciarnos y ofrecer un valor único a los usuarios.
 
 8. Retención de Usuarios:
-Suponemos que podemos mantener una base de usuarios activa y comprometida a largo plazo mediante actualizaciones regulares de la aplicación, características adicionales y un excelente servicio al cliente.
+   Suponemos que podemos mantener una base de usuarios activa y comprometida a largo plazo mediante actualizaciones regulares de la aplicación, características adicionales y un excelente servicio al cliente.
 
 9. Regulaciones y Cumplimiento Normativo:
-Suponemos que podemos cumplir con todas las regulaciones y requisitos legales relacionados con la operación de una aplicación de transporte público en Lima.
-
+   Suponemos que podemos cumplir con todas las regulaciones y requisitos legales relacionados con la operación de una aplicación de transporte público en Lima.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-Creemos que existe una demanda no satisfecha para una aplicación de planificación de rutas de transporte público en Lima. Por ello, realizaremos encuestas y estudios de mercado para evaluar el interés y la disposición de los usuarios a utilizar la aplicación. 
+Creemos que existe una demanda no satisfecha para una aplicación de planificación de rutas de transporte público en Lima. Por ello, realizaremos encuestas y estudios de mercado para evaluar el interés y la disposición de los usuarios a utilizar la aplicación.
 
-Suponemos que las empresas de transporte público estarán interesadas en colaborar, proporcionando datos esenciales para nuestra aplicación. Iniciaremos conversaciones con estas empresas para determinar su voluntad de cooperar. También creemos que la población de Lima está dispuesta a utilizar aplicaciones móviles para planificar sus viajes en transporte público. 
+Suponemos que las empresas de transporte público estarán interesadas en colaborar, proporcionando datos esenciales para nuestra aplicación. Iniciaremos conversaciones con estas empresas para determinar su voluntad de cooperar. También creemos que la población de Lima está dispuesta a utilizar aplicaciones móviles para planificar sus viajes en transporte público.
 
-Realizaremos encuestas sobre la aceptación de tecnología y evaluaremos la adopción inicial de la aplicación. Suponemos que habrá competencia en el mercado de aplicaciones de transporte público y que podemos diferenciarnos. Analizaremos la competencia y evaluaremos nuestra propuesta de valor única. Por último, suponemos que podemos generar ingresos a través de modelos de monetización como la publicidad en la aplicación y la venta de boletos. 
+Realizaremos encuestas sobre la aceptación de tecnología y evaluaremos la adopción inicial de la aplicación. Suponemos que habrá competencia en el mercado de aplicaciones de transporte público y que podemos diferenciarnos. Analizaremos la competencia y evaluaremos nuestra propuesta de valor única. Por último, suponemos que podemos generar ingresos a través de modelos de monetización como la publicidad en la aplicación y la venta de boletos.
 
 Implementaremos estos modelos y evaluaremos su efectividad en la generación de ingresos y la aceptación de los usuarios.
 
@@ -485,7 +487,7 @@ Implementaremos estos modelos y evaluaremos su efectividad en la generación de 
 
 Segmento objetivo 1: Pasajeros en búsqueda de un autobús. (Pasajeros)
 
-• Personas que se desplazan al trabajo o a la escuela utilizando el transporte público: Aquellos que realizan viajes       diarios en Lima y buscan una forma eficiente y confiable de llegar a sus destinos.
+• Personas que se desplazan al trabajo o a la escuela utilizando el transporte público: Aquellos que realizan viajes diarios en Lima y buscan una forma eficiente y confiable de llegar a sus destinos.
 
 • Turistas que visitan Lima y prefieren utilizar el transporte público: Viajeros que exploran la ciudad y optan por un medio de transporte accesible y económico.
 
@@ -496,8 +498,6 @@ Segmento objetivo 2: Empresas de transporte que operan en Lima.
 • Gerentes de operaciones y logística de estas empresas: Profesionales encargados de la planificación, organización y optimización de las rutas y servicios de transporte público.
 
 • Empresas de transporte formalizadas y en cumplimiento con la normativa: Entidades que operan legalmente en Lima y buscan mejorar la calidad y eficiencia de sus servicios a través de la colaboración con TrackRoute.
-
-
 
 # Capítulo II: Requirements Elicitation & Analysis
 
@@ -554,41 +554,42 @@ Luego de realizar una investigación en el mercado, hemos encontrado tres proyec
 <table>
 <tbody><tr><th colspan="7" valign="top"><b>Competitive Analysis Landscape</b></th></tr><tr><td colspan="2" rowspan="2">¿Por qué llevar a cabo este análisis?</td><td colspan="5">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</td></tr><tr><td colspan="5">Este análisis se concretó teniendo como finalidad el poder identificar a nuestros potenciales competidores e idear estrategias y tácticas para diferenciarnos de ellos.</td></tr><tr><td colspan="3">Nuestro Producto / Competidores</td><td colspan="1" valign="top" style="font-weight: bold;">TrackMyRoute<br></td><td colspan="1" valign="top" style="font-weight: bold;">Moovit<br><img src="https://moovit.com/wp-content/uploads/2020/03/opengraph-homepage-1.png" alt="Mootvit" width="60px"></td><td colspan="1" valign="top" style="font-weight: bold;">Citymapper<br><img src="https://logovectorseek.com/wp-content/uploads/2020/11/citymapper-logo-vector.png" alt="Citymapper" width="60px"></td><td colspan="1" valign="top" style="font-weight: bold;">Trafi<br><img src="https://logowik.com/content/uploads/images/trafi-20215422.logowik.com.webp" alt="Trafi" width="60px"></td></tr><tr><td colspan="1" rowspan="2">Perfil</td><td colspan="2">Overview</td><td colspan="1" valign="top">TrackMyRoute se destaca por su enfoque específico en mejorar la movilidad urbana en Lima, Perú. Ofrece una combinación de planificación de rutas, información en tiempo real sobre el estado del transporte público y la posibilidad de realizar pagos de pasajes dentro de la aplicación. Su colaboración con empresas de transporte público locales y la opción de una versión premium con funciones adicionales lo convierten en una opción atractiva para los residentes de Lima que buscan optimizar sus desplazamientos por la ciudad.</td><td colspan="1" valign="top">Moovit es una aplicación ampliamente reconocida a nivel mundial por su capacidad para proporcionar información detallada sobre rutas y horarios de transporte público en tiempo real. Con una amplia disponibilidad internacional, Moovit se destaca por su capacidad para ofrecer actualizaciones en tiempo real sobre el estado del servicio, alertas de servicio y una comunidad activa de usuarios que contribuyen con información valiosa sobre el transporte público en sus ciudades.</td><td colspan="1" valign="top">Citymapper es conocida por su enfoque integral en la planificación de viajes, ofreciendo opciones para una variedad de modos de transporte, incluidos el transporte público, bicicletas compartidas, scooters eléctricos y servicios de viaje compartido. Su diseño intuitivo y la capacidad de ofrecer opciones de rutas más rápidas o escénicas lo convierten en una opción popular entre los usuarios que buscan soluciones de movilidad flexibles y personalizadas en ciudades de todo el mundo.</td><td colspan="1" valign="top">Trafi ofrece una solución completa para la planificación de viajes en ciudades de todo el mundo, con información detallada sobre rutas y horarios de transporte público, así como opciones para otros modos de transporte como bicicletas compartidas y servicios de viaje compartido. Su enfoque en ofrecer soluciones de movilidad integrales y actualizaciones en tiempo real sobre el estado del servicio lo convierten en una herramienta valiosa para los usuarios que buscan optimizar sus desplazamientos urbanos.</td></tr><tr><td colspan="2">Ventaja competitiva</td><td colspan="1" valign="top">TrackMyRoute se destaca por su enfoque localizado en Lima, Perú, lo que permite una adaptación precisa a las necesidades del sistema de transporte público local. Además, su integración con las empresas de transporte público ofrece una experiencia más confiable y personalizada para los usuarios, brindando acceso a datos actualizados y recursos exclusivos.</td><td colspan="1" valign="top">Moovit sobresale por su amplia disponibilidad internacional, convirtiéndose en una opción confiable para usuarios que viajan entre diferentes ciudades y países. Además, sus actualizaciones en tiempo real sobre el estado del servicio y la participación activa de la comunidad de usuarios garantizan información precisa y confiable para optimizar los viajes en transporte público.</td><td colspan="1" valign="top">Citymapper ofrece una ventaja competitiva a través de su variedad de modos de transporte, que incluyen opciones como transporte público, bicicletas compartidas y servicios de viaje compartido. Su diseño intuitivo y las opciones de rutas personalizadas hacen que la planificación de viajes sea flexible y adaptada a las preferencias individuales de los usuarios.</td><td colspan="1" valign="top">Trafi destaca por ofrecer soluciones integrales de movilidad, proporcionando información detallada sobre una amplia variedad de modos de transporte. Sus actualizaciones en tiempo real sobre el estado del servicio permiten a los usuarios tomar decisiones informadas sobre sus desplazamientos, adaptándose a cualquier cambio en el transporte público de manera eficiente.</td></tr><tr><td colspan="1" rowspan="2">Perfil de Marketing</td><td colspan="2">Mercado objetivo</td><td colspan="1" valign="top">El mercado objetivo principal para TrackMyRoute son los residentes de Lima, Perú, que dependen del transporte público para sus desplazamientos diarios. Esto incluye a estudiantes, trabajadores y cualquier persona que utilice el transporte público en la ciudad. Además, la aplicación también puede ser útil para turistas y visitantes que desean explorar Lima utilizando el transporte público.</td><td colspan="1" valign="top">Moovit tiene un mercado objetivo amplio y diverso que abarca usuarios de transporte público en ciudades de todo el mundo. Esto incluye a personas de todas las edades y grupos demográficos que utilizan el transporte público como parte de su rutina diaria, así como viajeros y turistas que buscan orientación sobre el transporte público en nuevas ubicaciones.</td><td colspan="1" valign="top">Citymapper se dirige a usuarios urbanos en ciudades de todo el mundo que buscan una solución integral para planificar sus viajes utilizando una variedad de modos de transporte. Esto incluye a personas jóvenes y activas que prefieren opciones de movilidad flexibles y personalizadas, así como a profesionales y trabajadores que necesitan optimizar sus desplazamientos diarios.</td><td colspan="1" valign="top">Trafi está dirigido a usuarios urbanos en ciudades de todo el mundo que buscan una solución completa para planificar y optimizar sus viajes utilizando diferentes modos de transporte. Su mercado objetivo incluye a personas de todas las edades y grupos demográficos que dependen del transporte público y están interesadas en recibir información actualizada y precisa sobre sus opciones de movilidad.</td></tr><tr><td colspan="2">Estrategias de marketing</td><td colspan="1" valign="top">Publicidad dirigida en redes sociales, enfocada en residentes de Lima y colaboración con empresas de transporte público para promoción mutua.</td><td colspan="1" valign="top">Publicidad en plataformas online y apps de viajes. Tambien programas de referidos para usuarios existentes.</td><td colspan="1" valign="top">Creación de contenido educativo en video. Colaboraciones con influencers locales.</td><td colspan="1" valign="top">Optimización SEO para mejorar visibilidad en búsquedas. Participación en eventos de movilidad urbana.</td></tr><tr><td colspan="1" rowspan="3">Perfil de Producto</td><td colspan="2">Productos &amp; Servicios</td><td colspan="1" valign="top">TrackMyRoute ofrece una aplicación móvil para la planificación de rutas de transporte público en Lima, con una versión premium que incluye características como pagos integrados y actualizaciones en tiempo real. Además, se colabora con empresas de transporte público para mejorar la calidad de los servicios y la experiencia del usuario.</td><td colspan="1" valign="top">Moovit proporciona una aplicación móvil para la planificación de rutas y horarios de transporte público a nivel global. Ofrece actualizaciones en tiempo real sobre el estado del servicio y alertas de servicio, junto con una comunidad activa de usuarios que contribuyen con información sobre el transporte público.</td><td colspan="1" valign="top">Citymapper ofrece una aplicación móvil para la planificación de viajes integrales en ciudades de todo el mundo. La aplicación proporciona rutas para una variedad de modos de transporte y opciones de rutas personalizadas, con un diseño intuitivo para mejorar la experiencia del usuario.</td><td colspan="1" valign="top">Trafi es una aplicación móvil que permite la planificación de viajes en ciudades globales. Ofrece información detallada sobre rutas y horarios de transporte público, así como opciones para otros modos de transporte. Además, proporciona actualizaciones en tiempo real sobre el estado del servicio y soluciones integrales de movilidad para usuarios urbanos.</td></tr><tr><td colspan="2">Precios &amp; Costos</td><td colspan="1" valign="top">Ofrece una versión gratuita con opciones básicas y una versión premium con características adicionales que los usuarios pueden adquirir mediante una tarifa mensual o anual. Los ingresos provienen de la venta de la versión premium y los costos asociados incluyen desarrollo inicial, mantenimiento de servidores, actualizaciones de software y posibles costos de soporte técnico.</td><td colspan="1" valign="top">La aplicación es gratuita para los usuarios, generando ingresos principalmente a través de acuerdos de publicidad y posiblemente asociaciones con empresas de transporte público. Los costos incluyen el desarrollo continuo de la aplicación, mantenimiento de servidores y posibles costos de soporte técnico y marketing.</td><td colspan="1" valign="top">Es gratuita para los usuarios y probablemente genere ingresos a través de acuerdos de publicidad y posibles asociaciones con empresas de transporte. Los costos están asociados con el desarrollo y mantenimiento continuo de la aplicación, así como los gastos de servidores y posibles costos de marketing.</td><td colspan="1" valign="top">Igualmente gratuita para los usuarios, Trafi podría generar ingresos a través de acuerdos de publicidad y posiblemente asociaciones con empresas de transporte. Los costos incluyen el desarrollo y mantenimiento de la aplicación, así como los gastos de servidores y posibles costos de marketing y soporte técnico.</td></tr><tr><td colspan="2">Canales de distribución (Web y/o Móvil)</td><td colspan="1" valign="top">La aplicación puede distribuirse a través de su propio sitio web, donde los usuarios pueden acceder a información sobre la aplicación y descargarla desde enlaces directos a las tiendas de aplicaciones.</td><td colspan="1" valign="top">Moovit ofrece información sobre la aplicación y enlaces de descarga en su sitio web oficial, permitiendo a los usuarios acceder y descargar la aplicación desde sus navegadores web.</td><td colspan="1" valign="top">Citymapper proporciona información sobre la aplicación y enlaces de descarga en su sitio web oficial, permitiendo a los usuarios acceder y descargar la aplicación desde sus navegadores web.</td><td colspan="1" valign="top">Trafi ofrece información sobre la aplicación y enlaces de descarga en su sitio web oficial, permitiendo a los usuarios acceder y descargar la aplicación desde sus navegadores web.</td><tr></tr><td colspan="1" rowspan="5">Análisis SWOT</td></td></tr><tr><td colspan="2">Fortalezas</td><td colspan="1" valign="top">Enfoque localizado en Lima, integración con empresas de transporte público, versión premium con funciones adicionales.</td><td colspan="1" valign="top">Amplia disponibilidad internacional, actualizaciones en tiempo real, comunidad activa de usuarios.</td><td colspan="1" valign="top">Variedad de modos de transporte, diseño intuitivo, opciones de rutas personalizadas.</td><td colspan="1" valign="top">Soluciones integrales de movilidad, actualizaciones en tiempo real, enfoque en la experiencia del usuario.</td></tr><tr><td colspan="2">Debilidades</td><td colspan="1" valign="top">Dependencia del desarrollo del sistema de transporte público en Lima, competencia con aplicaciones establecidas.</td><td colspan="1" valign="top">Dependencia de la calidad de los datos de transporte público, competencia con otras aplicaciones similares.</td><td colspan="1" valign="top">Dependencia de la calidad de los datos de transporte, competencia con aplicaciones establecidas como Moovit.</td><td colspan="1" valign="top">Dependencia de la calidad de los datos de transporte público, competencia con aplicaciones más establecidas como Moovit y Citymapper.</td></tr><tr><td colspan="2">Oportunidades</td><td colspan="1" valign="top">Crecimiento del mercado de aplicaciones de movilidad urbana en Lima, colaboración con más empresas de transporte público, expansión a otras ciudades.</td><td colspan="1" valign="top">Expansión a nuevos mercados, desarrollo de nuevas características y funcionalidades, colaboraciones con más empresas de transporte.</td><td colspan="1" valign="top">Expansión a nuevas ciudades, desarrollo de nuevas características innovadoras, colaboraciones con empresas de transporte y urbanismo.</td><td colspan="1" valign="top">Expansión a nuevos mercados globales, desarrollo de nuevas funciones para mejorar la experiencia del usuario, colaboraciones con empresas de transporte y gobierno.</td></tr><tr><td colspan="2">Amenazas</td><td colspan="1" valign="top">Cambios en la infraestructura de transporte, entrada de competidores locales o globales.</td><td colspan="1" valign="top">Entrada de nuevos competidores, cambios en las políticas de datos de transporte público.</td><td colspan="1" valign="top">Cambios en la infraestructura de transporte, entrada de nuevos competidores con características similares.</td><td colspan="1" valign="top"> Cambios en las políticas de transporte, entrada de nuevos competidores con enfoques similares.</td></tr></tbody></table>
 
-
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
 1. **Diferenciación de Producto:**
 
 Estrategia: TrackMyRoute se enfocará en resaltar las características únicas de la aplicación, como la integración con empresas de transporte público locales y la oferta de una versión premium con funciones exclusivas.
-  <br>  <br>
+<br> <br>
 Tácticas: Para llevar a cabo esta estrategia, se implementarán campañas de marketing que destaquen estas características distintivas, utilizando mensajes claros y persuasivos para comunicar el valor añadido de la aplicación en comparación con los competidores.
 
 2. **Desarrollo Continuo:**
 
 Estrategia: La startup se comprometerá a mantenerse actualizada con las últimas tendencias y tecnologías en el mercado de movilidad urbana.
-  <br>  <br>
+<br> <br>
 Tácticas: Para lograr esto, se planificarán actualizaciones frecuentes de la aplicación para mejorar la experiencia del usuario, se agregarán nuevas características basadas en comentarios de usuarios y análisis de competidores, y se buscarán colaboraciones con empresas de transporte público para integrar nuevas funcionalidades.
 
 3. **Colaboraciones Estratégicas:**
 
 Estrategia: Se buscarán asociaciones con empresas de transporte público y otras organizaciones relacionadas con la movilidad urbana.
-  <br>  <br>
+<br> <br>
 Tácticas: Para implementar esta estrategia, la startup identificará oportunidades para colaborar con empresas de transporte público en la mejora de la infraestructura de datos, ofrecerá promociones y descuentos exclusivos para los usuarios de la aplicación en colaboración con estas empresas, y participará activamente en eventos y conferencias de la industria para establecer conexiones con otras organizaciones del sector.
 
 4. **Enfoque en la Experiencia del Usuario:**
 
 Estrategia: La prioridad será la satisfacción del usuario y la facilidad de uso de la aplicación.
-  <br>  <br>
+<br> <br>
 Tácticas: Para llevar a cabo esta estrategia, se realizarán pruebas de usuario para identificar áreas de mejora en la experiencia del usuario, se ofrecerá soporte técnico receptivo y eficiente, y se proporcionarán recursos educativos y tutoriales para ayudar a los usuarios a aprovechar al máximo la aplicación.
 
 5. **Análisis Competitivo Continuo:**
 
 Estrategia: La startup se comprometerá a monitorear de cerca las acciones y estrategias de los competidores.
-  <br>  <br>
+<br> <br>
 Tácticas: Para ejecutar esta estrategia, se realizarán análisis periódicos de la competencia para identificar nuevas oportunidades y amenazas, se seguirán de cerca las actualizaciones y lanzamientos de productos de los competidores, y se ajustará la estrategia de la startup en función de los cambios en el mercado competitivo.
 
 ## 2.2 Entrevistas
+
 ### 2.2.1 Diseño de entrevistas
+
 Nuestro objetivo es obtener información sobre las necesidades y los problemas de los usuarios de
 transporte público en Lima. Esta información se utilizará para mejorar el servicio de nuestra empresa.
 Nuestros participantes serán usuarios de transporte público en Lima. Se seleccionarán participantes
@@ -599,9 +600,9 @@ libremente. A continuación, se presentan algunos ejemplos de preguntas:
 
 **Segmento 1: Usuarios Diarios de Transporte Público en Lima:**
 
--  ¿Con qué frecuencia utilizas el transporte público en Lima?
+- ¿Con qué frecuencia utilizas el transporte público en Lima?
 - ¿Cuál es tu principal motivo para utilizar el transporte público en lugar de otros medios de transporte?
--  ¿Cuáles son los horarios en los que más utilizas el transporte público y por qué?
+- ¿Cuáles son los horarios en los que más utilizas el transporte público y por qué?
 - ¿Has experimentado problemas de puntualidad con el transporte público? Si es así, ¿puedes describir una situación en la que esto haya sido un problema para ti?
 - ¿Has tenido alguna experiencia negativa o insegura mientras usabas el transporte público en Lima? Si es así, ¿puedes contarnos más al respecto?
 - ¿Qué tan satisfecho estás con la accesibilidad del transporte público en términos de paradas, estaciones y rutas disponibles?
@@ -609,7 +610,7 @@ libremente. A continuación, se presentan algunos ejemplos de preguntas:
 - ¿Has utilizado aplicaciones o sitios web relacionados con el transporte público en Lima? Si es así, ¿cuál ha sido tu experiencia con ellos?
 - ¿Qué características de nuestra aplicación encuentras más útiles en tu rutina de viaje diario?
 - ¿Hay alguna característica específica que sientas que falta en la aplicación y que te gustaría ver implementada?
-- ¿Cómo crees que podríamos mejorar la experiencia general de los usuarios en nuestra aplicación de transporte público? 
+- ¿Cómo crees que podríamos mejorar la experiencia general de los usuarios en nuestra aplicación de transporte público?
 
 **Segmento 2: Empresas de transporte en Lima:**
 
@@ -629,7 +630,6 @@ libremente. A continuación, se presentan algunos ejemplos de preguntas:
 **Entrevista 01**
 
 Entrevista #1:
-
 
   <img src="https://i.ibb.co/M2nxrGJ/image.png" alt="image" border="0">
 
@@ -651,11 +651,7 @@ Ubicación: Lima
 
 Evidencia de la reunión:
 
-
-
 ![image](https://github.com/user-attachments/assets/bf61c095-9273-493b-9171-819c855545cf)
-
-
 
 Inicio: 00:04
 
@@ -676,9 +672,7 @@ Ubicación: Lima
 
 Evidencia de la reunión:
 
-
 ![image](https://github.com/user-attachments/assets/bbcc24f5-1f03-41dc-a7fe-1d2d3ec1e580)
-
 
 **Enlace de entrevista:** https://upcedupe-my.sharepoint.com/personal/u202018894_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202018894%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2FEntrevista02%20Segmento2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
 
@@ -697,6 +691,7 @@ El análisis de la entrevista revela que los usuarios de transporte público en 
 Las empresas de transporte público en Lima expresaron la necesidad de una aplicación que les permita optimizar la gestión de sus flotas, coordinar horarios y mejorar la eficiencia operativa. Esperan una aplicación fácil de usar que proporcione información precisa y actualizada sobre las rutas de transporte público, los horarios y las ubicaciones de las paradas. Además, valorarían características adicionales como la capacidad de gestionar flotas de manera eficiente, la generación de informes de rendimiento y la integración con sistemas de pago electrónico. La fiabilidad y la consistencia en el funcionamiento de la aplicación son aspectos clave para estas empresas, quienes necesitan contar con una herramienta confiable para gestionar sus operaciones diarias. Están abiertas a colaborar estrechamente con los desarrolladores de la aplicación para adaptarla a sus necesidades específicas y garantizar una implementación exitosa en sus operaciones
 
 ## 2.3 Needfinding
+
 ### 2.3.1. User Personas
 
 Los User Personas son necesarios para la formación de este proyecto, ya que brindan una perspectiva completa de los usuarios clave. Estos perfiles detallados permiten a la startup diseñar una plataforma y experiencia enfocada y personalizada, abordando de manera efectiva los desafíos específicos de cada segmento objetivo:
@@ -724,31 +719,31 @@ En esta seccion, se describen las tareas típicas que realizan los dos segmentos
 
 **Segmento Objetivo:** Usuarios Diarios de Transporte Público en Lima
 
-|                               Tarea                               |  Frecuencia  | Severidad |
-| :---------------------------------------------------------------: | :----------: | :-------: |
-|          Planificar viajes diarios        | Casi siempre |   Alta    |
-|               Obtener información sobre transporte público            | Casi siempre |   Alta     |
-|         Minimizar tiempo de viaje        |  Casi siempre    |   Alta    |
-|              Evitar retrasos en el transporte público             |   Casi siempre  |   Alta    |
-|  Acceder a noticias locales  | A veces |   Media   |
-|    Buscar eventos locales   |   A veces    |   Media   |
-|          Acceder a descuentos locales         |   A veces    |   Media   |
-| Utilizar transporte público en horarios no laborales  |   Rara vez    |   Baja    |
-| Interactuar con la aplicación |   Casi siempre    |   Alta   |
+|                        Tarea                         |  Frecuencia  | Severidad |
+| :--------------------------------------------------: | :----------: | :-------: |
+|              Planificar viajes diarios               | Casi siempre |   Alta    |
+|     Obtener información sobre transporte público     | Casi siempre |   Alta    |
+|              Minimizar tiempo de viaje               | Casi siempre |   Alta    |
+|       Evitar retrasos en el transporte público       | Casi siempre |   Alta    |
+|              Acceder a noticias locales              |   A veces    |   Media   |
+|                Buscar eventos locales                |   A veces    |   Media   |
+|             Acceder a descuentos locales             |   A veces    |   Media   |
+| Utilizar transporte público en horarios no laborales |   Rara vez   |   Baja    |
+|            Interactuar con la aplicación             | Casi siempre |   Alta    |
 
 **Segmento Objetivo:** Empresas de transporte en Lima
 
-| Tareas                                                               | Frecuencia   | Severidad |
-| -------------------------------------------------------------------- | ------------ | --------- |
-| Registrar la empresa en la aplicación            | Una vez | Alta      |
-| Configurar y personalizar la aplicación | Rara vez | Alta     |
-| Programar rutas y horarios de los vehículos                | Casi Siempre  | Alta      |
-| Supervisar el estado y la ubicación de los vehículos        | Casi siempre     | Alta      |
-| Comunicarse con los conductores en tiempo real           | Casi siempre     | Alta      |
-| Generar informes de rendimiento y eficiencia  | Rara vez | Alta    |
-| Integrar la aplicación con sistemas de pago     | Rara vez     | Alta    |
-| Proporcionar retroalimentación sobre la aplicación     | Rara vez      | Media    |
-| Monitorear la satisfacción del cliente y gestionar quejas | Casi siempre     | Media   |
+| Tareas                                                    | Frecuencia   | Severidad |
+| --------------------------------------------------------- | ------------ | --------- |
+| Registrar la empresa en la aplicación                     | Una vez      | Alta      |
+| Configurar y personalizar la aplicación                   | Rara vez     | Alta      |
+| Programar rutas y horarios de los vehículos               | Casi Siempre | Alta      |
+| Supervisar el estado y la ubicación de los vehículos      | Casi siempre | Alta      |
+| Comunicarse con los conductores en tiempo real            | Casi siempre | Alta      |
+| Generar informes de rendimiento y eficiencia              | Rara vez     | Alta      |
+| Integrar la aplicación con sistemas de pago               | Rara vez     | Alta      |
+| Proporcionar retroalimentación sobre la aplicación        | Rara vez     | Media     |
+| Monitorear la satisfacción del cliente y gestionar quejas | Casi siempre | Media     |
 
 ### 2.3.3. User Journey Mapping
 
@@ -772,8 +767,6 @@ En esta seccion, se describen las tareas típicas que realizan los dos segmentos
 
 ![image](https://github.com/user-attachments/assets/dbe0223a-aa11-49c3-a3c7-91324b39f061)
 
-
-
 ### 2.3.5. As-is Scenario Mapping
 
 As-is Map del Usuario
@@ -786,8 +779,6 @@ As-is Map del Usuario
 As-is Map de la Empresa
 <br>
 ![image](https://github.com/user-attachments/assets/76657445-21b9-436d-9ba9-bc1a9f200131)
-
-
 
 # Capítulo III: Requeriments Specifications
 
@@ -811,46 +802,46 @@ clientes. A través de estas historias de usuario, podremos comprender mejor có
 satisfará las necesidades de ambas partes y proporcionará una solución integral para la movilidad
 urbana.
 
-| **Epic / Story ID** | **Título**                                      | **Descripción**                                                                                                                                                                                                    | **Criterios de Aceptación**                                                                                                                                                                                                                                                                                                                                                                                                                                                          | **Relacionado con (Epic ID)** |
-|---------------------|-------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
-| HU01                | Registrar al usuario                            | Como cliente quiero registrarme con todos mis datos pertinentes (nombre, correo, edad, etc.) en la aplicación para poder hacer uso de sus funcionalidades.                                                         | Escenario: El cliente se registra en la aplicación. Dado que el cliente se encuentra en la pantalla de inicio de sesión,Y el cliente quiere registrarse para usar la aplicación,Cuando el cliente rellena un formulario de creación de una cuenta nueva con todos sus datos personales pertinentes,Entonces el sistema guardará todos sus datos y le permitirá acceder a las funcionalidades de la aplicación.                                                                       | EPIC001                          |
-| HU02                | Inicio de sesión en la aplicación               | Como cliente quiero iniciar sesión en la aplicación con mis credenciales (correo y contraseña) para poder entrar a la aplicación con mi cuenta existente                                                           | Escenario: El cliente quiere iniciar sesión en la aplicación Dado que el cliente se encuentra en la pantalla de inicio de sesión,Y el usuario ya tiene una cuenta existente,Cuando el cliente rellena los campos de la pantalla de inicio de sesión con sus credenciales (correo y contraseña) correctamente,Entonces el cliente podrá acceder a las funcionalidades de la aplicación con su cuenta existente.                                                                       | EPIC001                          |
-| HU03                | Eliminar cuenta o usuario                       | Como cliente quiero tener la posibilidad de borrar mi cuenta para que mis datos ya no permanezcan en la base de datos de la aplicación.                                                                            | Escenario: El cliente quiere eliminar una cuenta o usuario Dado que el cliente se encuentra en la pantalla de ajustes de la cuenta,Y el cliente tiene la intención de borrar su cuenta,Cuando el cliente selecciona la opción de borrar su cuenta en la aplicación,Entonces la aplicación eliminará su cuenta y los datos personales del cliente de la base de datos.                                                                                                                | EPIC001                     |
-| HU04                | Registro de rutas y buses                       | Como desarrollador quiero registrar a las rutas de transporte urbano y a los buses que transitan por estas para así tener un registro de todas las que se encuentren en Lima.                                      | Escenario: el desarrollador quiere registrar las rutas de los buses. Dado que el desarrollador se encuentra en la pantalla de ingreso de datos en la base de datos,Y el desarrollador tiene a la mano los datos de las rutas y los buses,Cuando el desarrollador quiera insertar los datos pertinentes,Entonces la aplicación guardará en la base de datos todos los datos relacionados con las rutas y los buses                                                                    | EPIC002                    |
-| HU05                | Registro de conductores                         | Como desarrollador quiero registrar a los conductores de los buses para así tener un registro de todos los conductores que transitan por las rutas por motivos de seguridad al usuario.                            | Escenario: El desarrollador quiere registrar a los conductores de los buses. Dado que el desarrollador se encuentra en la pantalla de ingreso de datos en la base de datos,Y el desarrollador tiene a la mano los datos de las rutas y los buses,Cuando el desarrollador quiera insertar los datos pertinentes,Entonces la aplicación guardará en la base de datos todos los datos relacionados con las rutas y los buses.                                                           | EPIC002                    |
-| HU06                | Registro de las empresas operadoras de rutas    | Como desarrollador quiero registrar a las empresas que operan en cada una de las rutas de transporte urbano en buses para así tener un registro de todas estas empresas en la base de datos de la aplicación       | Escenario: El desarrollador quiere registrar a las empresas operadoras de rutas. Dado que el desarrollador se encuentra en la pantalla de ingreso de datos en la base de datos,Y el desarrollador tiene a la mano los datos de las empresas operadoras de las rutas de transporte de buses,Cuando el desarrollador quiera insertar los datos pertinentes, Entonces la aplicación guardará en la base de datos todos los datos relacionados con las empresas operadoras de las rutas. | EPIC002                    |
-| HU07                | Implementación de servicios externos            | Como desarrollador quiero implementar servicios externos de otras empresas como Google Maps para así poder darle la funcionalidad deseada a la aplicación sin tener que desarrollar todo desde cero                | Escenario: El desarrollador quiere implementar servicios externos a la app.Dado que el desarrollador se encuentra en la pantalla de implementación de servicios externos,Y el desarrollador ha juntado el código y los requisitos necesarios para llamar al servicio externo,Cuando el desarrollador quiera crear una funcionalidad que llame a un servicio externo de otra empresa,Entonces la aplicación hará uso de este servicio cuando lo requiera.                             | EPIC002                          |
-| HU08                | Visualización del menú de opciones              | Como cliente quiero ver el menú de opciones de la aplicación para así tener una idea de las funcionalidades que están presentes en esta.                                                                           | Escenario: El cliente quiere ver las funciones de la aplicación.Dado que el cliente se encuentra en la pantalla de inicio de la aplicación,Y el cliente quiere ver qué puede ser la aplicación,Cuando el cliente selecciona el botón que abre el menú de opciones,Entonces la aplicación deberá mostrarle al usuario el menú de opciones con todas las funcionalidades presentes.                                                                                                    | EPIC003                          |
-| HU09                | Configuración de búsqueda de ruta personalizada | Como cliente quiero modificar ciertas opciones relacionadas a la búsqueda de rutas (tiempo de viaje, distancia al paradero, mostrar la ruta más rápida, etc.) para optimizar esta búsqueda según mis preferencias. | Escenario: El cliente quiere realizar una búsqueda personalizada.Dado que el cliente se encuentra en la pantalla de búsqueda de rutas,Y el cliente quiere especificar las condiciones de búsqueda según su parecer,Cuando el cliente modifique los criterios de búsqueda,Entonces la aplicación le mostrará las rutas disponibles según los filtros de búsqueda establecidos por el usuario.                                                                                         | EPIC003                          |
-| HU10 | Visualización del mapa                        | Como cliente quiero ver un mapa interactivo con las rutas presentes para tener una idea más clara del posible camino por el que quiera viajar.                                                                                                      | Escenario: El cliente quiere ver el mapa. Dado que el cliente se encuentra en la pantalla principal, Y el cliente desea visualizar el mapa  con las rutas disponibles, Cuando el cliente seleccione la opción  de buscar rutas e ingrese todos los filtros que desee, Entonces la aplicación deberá mostrar  un mapa interactivo de la zona con las posibles rutas.                                                                                                                                                   | EPIC003       |
-| HU11 | Visualización de costos del pasaje            | Como cliente quiero ver el costo del pasaje aproximado al elegir una ruta en la aplicación para saber con anticipación cuánto dinero debo tener para costear el viaje                                                                               | Escenario: El cliente quiere ver los costos de pasaje. Dado que el cliente se encuentra en la pantalla principal, Y el cliente desea ver cuánto le costaría realizar un viaje por cierta ruta, Cuando el cliente haya seleccionado  la opción de buscar rutas y haya  realizado la búsqueda de las rutas  disponibles, Entonces la aplicación deberá mostrar el costo aproximado de cada viaje por ruta.                                                                                                              | EPIC003       |
-| HU12 | Visualización del número de buses a abordar   | Como cliente quiero ver cuántos buses se tiene que abordar para llegar al destino para determinar qué ruta sería la mejor conforme a la situación en la que me encuentre.                                                                           | Escenario: El cliente quiere ver cuántos buses puede abordar Dado que el cliente se encuentra en la pantalla principal, Y el cliente desea saber cuántos buses debe abordar para llegar a cierto lugar, Cuando el cliente haya seleccionado la opción de buscar rutas y haya realizado la búsqueda de las rutas disponibles, Entonces la aplicación deberá mostrar la cantidad de buses que se deberá abordar para llegar al destino.                                                                                 | EPIC003       |
-| HU13 | Planificación de viajes                       | Como cliente quiero planificar mis viajes en función a mi ubicación actual y al destino (se muestran los horarios de salida y de llegada de los buses, su ubicación, etc.) para organizar mejor mis tiempos.                                        | Escenario: El cliente quiere planificar un viaje Dado que el cliente se encuentra en la pantalla principal, Y el cliente desea planificar un viaje, Cuando el cliente haya seleccionado la opción de buscar rutas y haya realizado la búsqueda de las rutas disponibles, Entonces la aplicación deberá permitirle al cliente el planificar su viaje dependiendo de los tiempos estimados del viaje hipotético.                                                                                                        | EPIC003       |
-| HU14 | Información en tiempo real                    | Como cliente quiero observar la información pertinente a mi viaje en tiempo real (ubicación actual de los autobuses, su hora estimada de llegada y cualquier retraso o cambio en la ruta) para tomar mejores decisiones en el acto.                 | Escenario: El cliente quiere ver información de los buses en tiempo real Dado que el cliente ya eligió la ruta en la que desea viajar, Y el cliente desea ver información pertinente a su viaje en tiempo real, Cuando el cliente seleccione la opción para ver la información en tiempo real, Entonces la aplicación le tendrá que mostrar al cliente toda la información relacionada a su viaje actualizada y en tiempo real.                                                                                       | EPIC003       |
-| HU15 | Compra de boletos                             | Como cliente quiero comprar boletos para el transporte público directamente desde la aplicación para agilizar y facilitar el proceso de pago por los boletos o pasajes.                                                                             | Escenario: El cliente quiere comprar un boleto anticipadamente Dado que el cliente ya eligió la ruta en la que desea viajar, Y los buses en los cuales el cliente va a viajar tienen el pago de pasajes por la aplicación disponible, Cuando el cliente le de a la opción para pagar por la aplicación, Entonces la aplicación le permitirá al cliente pagar por el boleto o pasaje desde esta.                                                                                                                       | EPIC003       |
-| HU16 | Notificaciones personalizadas                 | Como cliente quiero recibir notificaciones personalizadas acerca de eventos pertinentes a mi viaje en bus (retrasos, horarios, etc.) para estar al tanto de las situaciones que pueden afectar mi futuro viaje                                      | Escenario: El cliente quiere recibir notificaciones acerca de eventos de buses Dado que el cliente está al tanto de las notificaciones de su celular, Cuando ocurra un evento de importancia para el viaje del cliente, Entonces la aplicación emitirá una notificación, la cual el cliente puede ver o ignorar si es que lo considera necesario.                                                                                                                                                                     | EPIC003       |
-| HU17 | Mapas interactivos                            | Como cliente quiero visualizar mapas interactivos en los que pueda ver la ubicación de las paradas de autobús, la ruta y la ubicación de los autobuses en tiempo real, para así poder tomar mejores decisiones en el momento sobre qué ruta elegir. | Escenario: El cliente quiere visualizar mapas interactivos Dado que el cliente se encuentra en la pantalla principal, Y el cliente desea visualizar el mapa con las rutas disponibles, Cuando el cliente seleccione la opción de buscar rutas e ingrese todos los filtros que desee, Entonces la aplicación deberá mostrar un mapa interactivo de la zona donde se puede ver la ubicación de las paradas de autobús, la ruta y la ubicación de los autobuses en tiempo real.                                          | EPIC003 |
-| HU18 | Integración con otros servicios de transporte | Como desarrollador quiero integrar la aplicación con otros servicios de transporte público, como trenes o tranvías, para permitir a los usuarios planificar viajes intermodales.                                                                    | Escenario: El desarrollador quiere implementar otros servicios de transporte Dado que el desarrollador se encuentra en la pantalla de implementación de servicios externos, Y el desarrollador ha juntado el código y los requisitos necesarios para incluir a otro servicio de transporte público, Cuando el desarrollador quiera crear una funcionalidad que se integre con otro servicio, Entonces la aplicación hará uso de esta función para permitirles a los clientes la planificación de viajes intermodales. | EPIC002       |
-| HU19 | Accesibilidad                                 | Como desarrollador quiero hacer la aplicación más accesible para personas con discapacidades, ofreciendo opciones de accesibilidad como la navegación por voz y el alto contraste, para ampliar la cantidad de posibles usuarios.                   | Escenario: El desarrollador quiere hacer la aplicación más accesible para el usuario Dado que el desarrollador se encuentra en la pantalla de implementación de servicios de accesibilidad, Y el desarrollador ha juntado el código y los requisitos necesarios para hacer uso de herramientas de accesibilidad, Cuando el desarrollador quiera crear una funcionalidad que mejore la accesibilidad de la aplicación, Entonces la aplicación integrará esta funcionalidad.                                            | EPIC004       |
-| HU20 | Retroalimentación de los usuarios             | Como cliente quiero dar una retroalimentación sobre mi experiencia de viaje o al utilizar la aplicación para dar a conocer mi agrado o mi malestar con respecto al funcionamiento de esta.                                                          | Escenario: El cliente quiere dar una retroalimentación sobre la app. Dado que el cliente está en la pantalla principal de la aplicación, Y el cliente desee dar una retroalimentación sobre su experiencia, Cuando el cliente seleccione la opción para dar una retroalimentación, Entonces la aplicación le deberá dar la posibilidad al cliente de dar una retroalimentación tanto sobre su viaje en el bus, la ruta o la funcionalidad de la aplicación en general.                                                | EPIC004       |
-| HU21 | integración de api de transporte público         | como desarrollador, quiero integrar una api de transporte público para acceder a datos actualizados sobre rutas, horarios y paradas de transporte público en tiempo real.                               | dado que se ha establecido la conexión con la api de transporte público, cuando realizo una solicitud de búsqueda de rutas con una ubicación de origen y destino, entonces la aplicación devuelve datos precisos y actualizados sobre las rutas disponibles, horarios de salida y llegada, y paradas intermedias.                             | EPIC003 |
-| HU22 | implementación de sistema de autenticación oauth | como desarrollador, quiero implementar un sistema de autenticación oauth para permitir que los usuarios inicien sesión utilizando sus cuentas de redes sociales.                                        | dado que un usuario intenta iniciar sesión en la aplicación utilizando oauth, cuando selecciona la opción de inicio de sesión con una plataforma de redes sociales, entonces la aplicación redirige al usuario al sitio web de la plataforma de redes sociales para autorizar el acceso.                                                      | EPIC001 |
-| HU23 | desarrollo de algoritmo de ruta óptima           | como desarrollador, quiero diseñar un algoritmo eficiente para calcular la ruta óptima entre dos puntos dados, teniendo en cuenta factores como la distancia, el tiempo y las preferencias del usuario. | dado que un usuario solicita una búsqueda de ruta entre dos ubicaciones, cuando el algoritmo calcula la ruta óptima basada en las preferencias del usuario y los datos de transporte disponibles, entonces la aplicación devuelve la ruta más rápida y eficiente, considerando factores como la duración del viaje y el número de trasbordos. | EPIC003       |
-| HU24 | sección principal de landing page                | como visitante de la landing page, quiero ser recibido por una sección principal llamativa para captar mi atención y despertar mi interés en explorar más sobre la aplicación de seguimiento de rutas.  | dado que ingreso a la landing page, cuando miro la sección principal, entonces encuentro un diseño visualmente atractivo con un mensaje claro y conciso que destaque las características únicas de la aplicación.                                                                                                                             | EPIC005           |
-| HU25 | información de beneficios                        | como visitante de la landing page, quiero encontrar una sección dedicada a los beneficios de la aplicación de seguimiento de rutas para comprender cómo puede mejorar mi experiencia de viaje.          | dado que estoy interesado en la aplicación, cuando navego por la sección de beneficios, entonces encuentro información clara y convincente sobre cómo la aplicación puede ayudarme a planificar mejor mis viajes, ahorrar tiempo y optimizar mis desplazamientos diarios.                                                                     |  EPIC005          |
-| HU26 | conocer los aliados que respaldan la app         | como visitante de la landing page, quiero ver una lista de aliados que respaldan la aplicación de seguimiento de rutas para sentir confianza en su calidad y fiabilidad.                                | dado que estoy interesado en la aplicación, cuando reviso la sección de aliados, entonces encuentro logotipos o testimonios de empresas, organizaciones o autoridades que respaldan y confían en la aplicación.                                                                                                                               |  EPIC005          |
-| HU27 | reseñas de usuarios satisfechos                  | como visitante de la landing page, quiero encontrar reseñas y testimonios de usuarios satisfechos para obtener una idea de su experiencia y satisfacción con la aplicación.                             | dado que estoy interesado en la aplicación, cuando busco la sección de reseñas, entonces encuentro testimonios reales de usuarios que describen cómo la aplicación ha mejorado su experiencia de viaje y les ha ayudado en sus desplazamientos diarios.                                                                                       |  EPIC005          |
-| HU28 | conocer los planes de suscripción                | como visitante de la landing page, quiero encontrar información sobre los planes de suscripción disponibles para entender las opciones de pago y beneficios asociados con cada plan.                    | dado que estoy interesado en utilizar la aplicación de forma regular, cuando navego por la sección de planes de suscripción, entonces encuentro una descripción clara de los diferentes planes disponibles, sus precios y las características incluidas en cada uno.                                                                          | EPIC005           |
-| HU29 | obtener respuestas a preguntas frecuentes        | como visitante de la landing page, quiero acceder a una sección de preguntas frecuentes para encontrar respuestas a mis dudas más comunes sobre la aplicación de seguimiento de rutas.                  | dado que tengo preguntas sobre la aplicación, cuando accedo a la sección de preguntas frecuentes, entonces encuentro una lista completa de preguntas comunes y sus respuestas claras y concisas, lo que me ayuda a entender mejor cómo funciona la aplicación y cómo puedo utilizarla eficazmente.                                            |   EPIC005         |
-|HU30 | Promociones | Como cliente, quiero ver las promociones disponibles en la aplicación para que pueda aprovechar descuentos al utilizar el servicio de transporte público. | Dado que el cliente abre la aplicación, Cuando accede a la sección de promociones, Entonces se muestran claramente todas las promociones vigentes, incluyendo sus términos y condiciones. | EPIC005  |
+| **Epic / Story ID** | **Título**                                       | **Descripción**                                                                                                                                                                                                                                     | **Criterios de Aceptación**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | **Relacionado con (Epic ID)** |
+| ------------------- | ------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+| HU01                | Registrar al usuario                             | Como cliente quiero registrarme con todos mis datos pertinentes (nombre, correo, edad, etc.) en la aplicación para poder hacer uso de sus funcionalidades.                                                                                          | Escenario: El cliente se registra en la aplicación. Dado que el cliente se encuentra en la pantalla de inicio de sesión,Y el cliente quiere registrarse para usar la aplicación,Cuando el cliente rellena un formulario de creación de una cuenta nueva con todos sus datos personales pertinentes,Entonces el sistema guardará todos sus datos y le permitirá acceder a las funcionalidades de la aplicación.                                                                                                        | EPIC001                       |
+| HU02                | Inicio de sesión en la aplicación                | Como cliente quiero iniciar sesión en la aplicación con mis credenciales (correo y contraseña) para poder entrar a la aplicación con mi cuenta existente                                                                                            | Escenario: El cliente quiere iniciar sesión en la aplicación Dado que el cliente se encuentra en la pantalla de inicio de sesión,Y el usuario ya tiene una cuenta existente,Cuando el cliente rellena los campos de la pantalla de inicio de sesión con sus credenciales (correo y contraseña) correctamente,Entonces el cliente podrá acceder a las funcionalidades de la aplicación con su cuenta existente.                                                                                                        | EPIC001                       |
+| HU03                | Eliminar cuenta o usuario                        | Como cliente quiero tener la posibilidad de borrar mi cuenta para que mis datos ya no permanezcan en la base de datos de la aplicación.                                                                                                             | Escenario: El cliente quiere eliminar una cuenta o usuario Dado que el cliente se encuentra en la pantalla de ajustes de la cuenta,Y el cliente tiene la intención de borrar su cuenta,Cuando el cliente selecciona la opción de borrar su cuenta en la aplicación,Entonces la aplicación eliminará su cuenta y los datos personales del cliente de la base de datos.                                                                                                                                                 | EPIC001                       |
+| HU04                | Registro de rutas y buses                        | Como desarrollador quiero registrar a las rutas de transporte urbano y a los buses que transitan por estas para así tener un registro de todas las que se encuentren en Lima.                                                                       | Escenario: el desarrollador quiere registrar las rutas de los buses. Dado que el desarrollador se encuentra en la pantalla de ingreso de datos en la base de datos,Y el desarrollador tiene a la mano los datos de las rutas y los buses,Cuando el desarrollador quiera insertar los datos pertinentes,Entonces la aplicación guardará en la base de datos todos los datos relacionados con las rutas y los buses                                                                                                     | EPIC002                       |
+| HU05                | Registro de conductores                          | Como desarrollador quiero registrar a los conductores de los buses para así tener un registro de todos los conductores que transitan por las rutas por motivos de seguridad al usuario.                                                             | Escenario: El desarrollador quiere registrar a los conductores de los buses. Dado que el desarrollador se encuentra en la pantalla de ingreso de datos en la base de datos,Y el desarrollador tiene a la mano los datos de las rutas y los buses,Cuando el desarrollador quiera insertar los datos pertinentes,Entonces la aplicación guardará en la base de datos todos los datos relacionados con las rutas y los buses.                                                                                            | EPIC002                       |
+| HU06                | Registro de las empresas operadoras de rutas     | Como desarrollador quiero registrar a las empresas que operan en cada una de las rutas de transporte urbano en buses para así tener un registro de todas estas empresas en la base de datos de la aplicación                                        | Escenario: El desarrollador quiere registrar a las empresas operadoras de rutas. Dado que el desarrollador se encuentra en la pantalla de ingreso de datos en la base de datos,Y el desarrollador tiene a la mano los datos de las empresas operadoras de las rutas de transporte de buses,Cuando el desarrollador quiera insertar los datos pertinentes, Entonces la aplicación guardará en la base de datos todos los datos relacionados con las empresas operadoras de las rutas.                                  | EPIC002                       |
+| HU07                | Implementación de servicios externos             | Como desarrollador quiero implementar servicios externos de otras empresas como Google Maps para así poder darle la funcionalidad deseada a la aplicación sin tener que desarrollar todo desde cero                                                 | Escenario: El desarrollador quiere implementar servicios externos a la app.Dado que el desarrollador se encuentra en la pantalla de implementación de servicios externos,Y el desarrollador ha juntado el código y los requisitos necesarios para llamar al servicio externo,Cuando el desarrollador quiera crear una funcionalidad que llame a un servicio externo de otra empresa,Entonces la aplicación hará uso de este servicio cuando lo requiera.                                                              | EPIC002                       |
+| HU08                | Visualización del menú de opciones               | Como cliente quiero ver el menú de opciones de la aplicación para así tener una idea de las funcionalidades que están presentes en esta.                                                                                                            | Escenario: El cliente quiere ver las funciones de la aplicación.Dado que el cliente se encuentra en la pantalla de inicio de la aplicación,Y el cliente quiere ver qué puede ser la aplicación,Cuando el cliente selecciona el botón que abre el menú de opciones,Entonces la aplicación deberá mostrarle al usuario el menú de opciones con todas las funcionalidades presentes.                                                                                                                                     | EPIC003                       |
+| HU09                | Configuración de búsqueda de ruta personalizada  | Como cliente quiero modificar ciertas opciones relacionadas a la búsqueda de rutas (tiempo de viaje, distancia al paradero, mostrar la ruta más rápida, etc.) para optimizar esta búsqueda según mis preferencias.                                  | Escenario: El cliente quiere realizar una búsqueda personalizada.Dado que el cliente se encuentra en la pantalla de búsqueda de rutas,Y el cliente quiere especificar las condiciones de búsqueda según su parecer,Cuando el cliente modifique los criterios de búsqueda,Entonces la aplicación le mostrará las rutas disponibles según los filtros de búsqueda establecidos por el usuario.                                                                                                                          | EPIC003                       |
+| HU10                | Visualización del mapa                           | Como cliente quiero ver un mapa interactivo con las rutas presentes para tener una idea más clara del posible camino por el que quiera viajar.                                                                                                      | Escenario: El cliente quiere ver el mapa. Dado que el cliente se encuentra en la pantalla principal, Y el cliente desea visualizar el mapa con las rutas disponibles, Cuando el cliente seleccione la opción de buscar rutas e ingrese todos los filtros que desee, Entonces la aplicación deberá mostrar un mapa interactivo de la zona con las posibles rutas.                                                                                                                                                      | EPIC003                       |
+| HU11                | Visualización de costos del pasaje               | Como cliente quiero ver el costo del pasaje aproximado al elegir una ruta en la aplicación para saber con anticipación cuánto dinero debo tener para costear el viaje                                                                               | Escenario: El cliente quiere ver los costos de pasaje. Dado que el cliente se encuentra en la pantalla principal, Y el cliente desea ver cuánto le costaría realizar un viaje por cierta ruta, Cuando el cliente haya seleccionado la opción de buscar rutas y haya realizado la búsqueda de las rutas disponibles, Entonces la aplicación deberá mostrar el costo aproximado de cada viaje por ruta.                                                                                                                 | EPIC003                       |
+| HU12                | Visualización del número de buses a abordar      | Como cliente quiero ver cuántos buses se tiene que abordar para llegar al destino para determinar qué ruta sería la mejor conforme a la situación en la que me encuentre.                                                                           | Escenario: El cliente quiere ver cuántos buses puede abordar Dado que el cliente se encuentra en la pantalla principal, Y el cliente desea saber cuántos buses debe abordar para llegar a cierto lugar, Cuando el cliente haya seleccionado la opción de buscar rutas y haya realizado la búsqueda de las rutas disponibles, Entonces la aplicación deberá mostrar la cantidad de buses que se deberá abordar para llegar al destino.                                                                                 | EPIC003                       |
+| HU13                | Planificación de viajes                          | Como cliente quiero planificar mis viajes en función a mi ubicación actual y al destino (se muestran los horarios de salida y de llegada de los buses, su ubicación, etc.) para organizar mejor mis tiempos.                                        | Escenario: El cliente quiere planificar un viaje Dado que el cliente se encuentra en la pantalla principal, Y el cliente desea planificar un viaje, Cuando el cliente haya seleccionado la opción de buscar rutas y haya realizado la búsqueda de las rutas disponibles, Entonces la aplicación deberá permitirle al cliente el planificar su viaje dependiendo de los tiempos estimados del viaje hipotético.                                                                                                        | EPIC003                       |
+| HU14                | Información en tiempo real                       | Como cliente quiero observar la información pertinente a mi viaje en tiempo real (ubicación actual de los autobuses, su hora estimada de llegada y cualquier retraso o cambio en la ruta) para tomar mejores decisiones en el acto.                 | Escenario: El cliente quiere ver información de los buses en tiempo real Dado que el cliente ya eligió la ruta en la que desea viajar, Y el cliente desea ver información pertinente a su viaje en tiempo real, Cuando el cliente seleccione la opción para ver la información en tiempo real, Entonces la aplicación le tendrá que mostrar al cliente toda la información relacionada a su viaje actualizada y en tiempo real.                                                                                       | EPIC003                       |
+| HU15                | Compra de boletos                                | Como cliente quiero comprar boletos para el transporte público directamente desde la aplicación para agilizar y facilitar el proceso de pago por los boletos o pasajes.                                                                             | Escenario: El cliente quiere comprar un boleto anticipadamente Dado que el cliente ya eligió la ruta en la que desea viajar, Y los buses en los cuales el cliente va a viajar tienen el pago de pasajes por la aplicación disponible, Cuando el cliente le de a la opción para pagar por la aplicación, Entonces la aplicación le permitirá al cliente pagar por el boleto o pasaje desde esta.                                                                                                                       | EPIC003                       |
+| HU16                | Notificaciones personalizadas                    | Como cliente quiero recibir notificaciones personalizadas acerca de eventos pertinentes a mi viaje en bus (retrasos, horarios, etc.) para estar al tanto de las situaciones que pueden afectar mi futuro viaje                                      | Escenario: El cliente quiere recibir notificaciones acerca de eventos de buses Dado que el cliente está al tanto de las notificaciones de su celular, Cuando ocurra un evento de importancia para el viaje del cliente, Entonces la aplicación emitirá una notificación, la cual el cliente puede ver o ignorar si es que lo considera necesario.                                                                                                                                                                     | EPIC003                       |
+| HU17                | Mapas interactivos                               | Como cliente quiero visualizar mapas interactivos en los que pueda ver la ubicación de las paradas de autobús, la ruta y la ubicación de los autobuses en tiempo real, para así poder tomar mejores decisiones en el momento sobre qué ruta elegir. | Escenario: El cliente quiere visualizar mapas interactivos Dado que el cliente se encuentra en la pantalla principal, Y el cliente desea visualizar el mapa con las rutas disponibles, Cuando el cliente seleccione la opción de buscar rutas e ingrese todos los filtros que desee, Entonces la aplicación deberá mostrar un mapa interactivo de la zona donde se puede ver la ubicación de las paradas de autobús, la ruta y la ubicación de los autobuses en tiempo real.                                          | EPIC003                       |
+| HU18                | Integración con otros servicios de transporte    | Como desarrollador quiero integrar la aplicación con otros servicios de transporte público, como trenes o tranvías, para permitir a los usuarios planificar viajes intermodales.                                                                    | Escenario: El desarrollador quiere implementar otros servicios de transporte Dado que el desarrollador se encuentra en la pantalla de implementación de servicios externos, Y el desarrollador ha juntado el código y los requisitos necesarios para incluir a otro servicio de transporte público, Cuando el desarrollador quiera crear una funcionalidad que se integre con otro servicio, Entonces la aplicación hará uso de esta función para permitirles a los clientes la planificación de viajes intermodales. | EPIC002                       |
+| HU19                | Accesibilidad                                    | Como desarrollador quiero hacer la aplicación más accesible para personas con discapacidades, ofreciendo opciones de accesibilidad como la navegación por voz y el alto contraste, para ampliar la cantidad de posibles usuarios.                   | Escenario: El desarrollador quiere hacer la aplicación más accesible para el usuario Dado que el desarrollador se encuentra en la pantalla de implementación de servicios de accesibilidad, Y el desarrollador ha juntado el código y los requisitos necesarios para hacer uso de herramientas de accesibilidad, Cuando el desarrollador quiera crear una funcionalidad que mejore la accesibilidad de la aplicación, Entonces la aplicación integrará esta funcionalidad.                                            | EPIC004                       |
+| HU20                | Retroalimentación de los usuarios                | Como cliente quiero dar una retroalimentación sobre mi experiencia de viaje o al utilizar la aplicación para dar a conocer mi agrado o mi malestar con respecto al funcionamiento de esta.                                                          | Escenario: El cliente quiere dar una retroalimentación sobre la app. Dado que el cliente está en la pantalla principal de la aplicación, Y el cliente desee dar una retroalimentación sobre su experiencia, Cuando el cliente seleccione la opción para dar una retroalimentación, Entonces la aplicación le deberá dar la posibilidad al cliente de dar una retroalimentación tanto sobre su viaje en el bus, la ruta o la funcionalidad de la aplicación en general.                                                | EPIC004                       |
+| HU21                | integración de api de transporte público         | como desarrollador, quiero integrar una api de transporte público para acceder a datos actualizados sobre rutas, horarios y paradas de transporte público en tiempo real.                                                                           | dado que se ha establecido la conexión con la api de transporte público, cuando realizo una solicitud de búsqueda de rutas con una ubicación de origen y destino, entonces la aplicación devuelve datos precisos y actualizados sobre las rutas disponibles, horarios de salida y llegada, y paradas intermedias.                                                                                                                                                                                                     | EPIC003                       |
+| HU22                | implementación de sistema de autenticación oauth | como desarrollador, quiero implementar un sistema de autenticación oauth para permitir que los usuarios inicien sesión utilizando sus cuentas de redes sociales.                                                                                    | dado que un usuario intenta iniciar sesión en la aplicación utilizando oauth, cuando selecciona la opción de inicio de sesión con una plataforma de redes sociales, entonces la aplicación redirige al usuario al sitio web de la plataforma de redes sociales para autorizar el acceso.                                                                                                                                                                                                                              | EPIC001                       |
+| HU23                | desarrollo de algoritmo de ruta óptima           | como desarrollador, quiero diseñar un algoritmo eficiente para calcular la ruta óptima entre dos puntos dados, teniendo en cuenta factores como la distancia, el tiempo y las preferencias del usuario.                                             | dado que un usuario solicita una búsqueda de ruta entre dos ubicaciones, cuando el algoritmo calcula la ruta óptima basada en las preferencias del usuario y los datos de transporte disponibles, entonces la aplicación devuelve la ruta más rápida y eficiente, considerando factores como la duración del viaje y el número de trasbordos.                                                                                                                                                                         | EPIC003                       |
+| HU24                | sección principal de landing page                | como visitante de la landing page, quiero ser recibido por una sección principal llamativa para captar mi atención y despertar mi interés en explorar más sobre la aplicación de seguimiento de rutas.                                              | dado que ingreso a la landing page, cuando miro la sección principal, entonces encuentro un diseño visualmente atractivo con un mensaje claro y conciso que destaque las características únicas de la aplicación.                                                                                                                                                                                                                                                                                                     | EPIC005                       |
+| HU25                | información de beneficios                        | como visitante de la landing page, quiero encontrar una sección dedicada a los beneficios de la aplicación de seguimiento de rutas para comprender cómo puede mejorar mi experiencia de viaje.                                                      | dado que estoy interesado en la aplicación, cuando navego por la sección de beneficios, entonces encuentro información clara y convincente sobre cómo la aplicación puede ayudarme a planificar mejor mis viajes, ahorrar tiempo y optimizar mis desplazamientos diarios.                                                                                                                                                                                                                                             | EPIC005                       |
+| HU26                | conocer los aliados que respaldan la app         | como visitante de la landing page, quiero ver una lista de aliados que respaldan la aplicación de seguimiento de rutas para sentir confianza en su calidad y fiabilidad.                                                                            | dado que estoy interesado en la aplicación, cuando reviso la sección de aliados, entonces encuentro logotipos o testimonios de empresas, organizaciones o autoridades que respaldan y confían en la aplicación.                                                                                                                                                                                                                                                                                                       | EPIC005                       |
+| HU27                | reseñas de usuarios satisfechos                  | como visitante de la landing page, quiero encontrar reseñas y testimonios de usuarios satisfechos para obtener una idea de su experiencia y satisfacción con la aplicación.                                                                         | dado que estoy interesado en la aplicación, cuando busco la sección de reseñas, entonces encuentro testimonios reales de usuarios que describen cómo la aplicación ha mejorado su experiencia de viaje y les ha ayudado en sus desplazamientos diarios.                                                                                                                                                                                                                                                               | EPIC005                       |
+| HU28                | conocer los planes de suscripción                | como visitante de la landing page, quiero encontrar información sobre los planes de suscripción disponibles para entender las opciones de pago y beneficios asociados con cada plan.                                                                | dado que estoy interesado en utilizar la aplicación de forma regular, cuando navego por la sección de planes de suscripción, entonces encuentro una descripción clara de los diferentes planes disponibles, sus precios y las características incluidas en cada uno.                                                                                                                                                                                                                                                  | EPIC005                       |
+| HU29                | obtener respuestas a preguntas frecuentes        | como visitante de la landing page, quiero acceder a una sección de preguntas frecuentes para encontrar respuestas a mis dudas más comunes sobre la aplicación de seguimiento de rutas.                                                              | dado que tengo preguntas sobre la aplicación, cuando accedo a la sección de preguntas frecuentes, entonces encuentro una lista completa de preguntas comunes y sus respuestas claras y concisas, lo que me ayuda a entender mejor cómo funciona la aplicación y cómo puedo utilizarla eficazmente.                                                                                                                                                                                                                    | EPIC005                       |
+| HU30                | Promociones                                      | Como cliente, quiero ver las promociones disponibles en la aplicación para que pueda aprovechar descuentos al utilizar el servicio de transporte público.                                                                                           | Dado que el cliente abre la aplicación, Cuando accede a la sección de promociones, Entonces se muestran claramente todas las promociones vigentes, incluyendo sus términos y condiciones.                                                                                                                                                                                                                                                                                                                             | EPIC005                       |
 
-| Epic ID | Descripción |
-| ------- | ----------- |
-| EPIC001 | Como cliente quiero registrarme o iniciar sesión dentro de la app. |
-| EPIC002 | Como desarrollador quiero implementar las funcionalidades de la app. |
-| EPIC003 | Como usuario de la app quiero acceder a las funcionalidades de la misma. |
+| Epic ID | Descripción                                                                    |
+| ------- | ------------------------------------------------------------------------------ |
+| EPIC001 | Como cliente quiero registrarme o iniciar sesión dentro de la app.             |
+| EPIC002 | Como desarrollador quiero implementar las funcionalidades de la app.           |
+| EPIC003 | Como usuario de la app quiero acceder a las funcionalidades de la misma.       |
 | EPIC004 | Como desarrollador quiero generar datos estadísticos acerca del uso de mi app. |
-| EPIC005 | Como desarrollador quiero implementar la aplicación móvil. |
+| EPIC005 | Como desarrollador quiero implementar la aplicación móvil.                     |
 
 ## 3.3 Impact Mapping
 
@@ -870,43 +861,45 @@ informadas sobre qué aspectos priorizar y cómo medir el éxito a largo plazo.
 
 ## 3.4 Product Backlog
 
-|#Orden|User Story ID|Título|Descripción|Story Points|
-|:----|:----|:----|:----|:----|
-|1|HU07|Implementación de servicios externos|Como desarrollador quiero implementar servicios externos de otras empresas como Google Maps para así poder darle la funcionalidad deseada a la aplicación sin tener que desarrollar todo desde cero|5|
-|2|HU09|Configuración de búsqueda de ruta personalizada|Como cliente quiero modificar ciertas opciones relacionadas a la búsqueda de rutas (tiempo de viaje, distancia al paradero, mostrar la ruta más rápida, etc.) para optimizar esta búsqueda según mis preferencias.|5|
-|3|HU10|Visualización del mapa|Como cliente quiero ver un mapa interactivo con las rutas presentes para tener una idea más clara del posible camino por el que quiera viajar.|5|
-|4|HU11|Visualización de costos del pasaje|Como cliente quiero ver el costo del pasaje aproximado al elegir una ruta en la aplicación para saber con anticipación cuánto dinero debo tener para costear el viaje|5|
-|5|HU12|Visualización del número de buses a abordar|Como cliente quiero ver cuántos buses se tiene que abordar para llegar al destino para determinar qué ruta sería la mejor conforme a la situación en la que me encuentre.|5|
-|6|HU13|Planificación de viajes|Como cliente quiero planificar mis viajes en función a mi ubicación actual y al destino (se muestran los horarios de salida y de llegada de los buses, su ubicación, etc.) para organizar mejor mis tiempos.|5|
-|7|HU14|Información en tiempo real|Como cliente quiero observar la información pertinente a mi viaje en tiempo real (ubicación actual de los autobuses, su hora estimada de llegada y cualquier retraso o cambio en la ruta) para tomar mejores decisiones en el acto.|5|
-|8|HU15|Compra de boletos|Como cliente quiero comprar boletos para el transporte público directamente desde la aplicación para agilizar y facilitar el proceso de pago por los boletos o pasajes.|5|
-|9|HU17|Mapas interactivos|Como cliente quiero visualizar mapas interactivos en los que pueda ver la ubicación de las paradas de autobús, la ruta y la ubicación de los autobuses en tiempo real, para así poder tomar mejores decisiones en el momento sobre qué ruta elegir.|5|
-|10|HU18|Integración con otros servicios de transporte|Como desarrollador quiero integrar la aplicación con otros servicios de transporte público, como trenes o tranvías, para permitir a los usuarios planificar viajes intermodales.|5|
-|11|HU21|integración de api de transporte público|como desarrollador, quiero integrar una api de transporte público para acceder a datos actualizados sobre rutas, horarios y paradas de transporte público en tiempo real.|5|
-|12|HU23|desarrollo de algoritmo de ruta óptima|como desarrollador, quiero diseñar un algoritmo eficiente para calcular la ruta óptima entre dos puntos dados, teniendo en cuenta factores como la distancia, el tiempo y las preferencias del usuario.|5|
-|13|HU04|Registro de rutas y buses|Como desarrollador quiero registrar a las rutas de transporte urbano y a los buses que transitan por estas para así tener un registro de todas las que se encuentren en Lima.|3|
-|14|HU05|Registro de conductores|Como desarrollador quiero registrar a los conductores de los buses para así tener un registro de todos los conductores que transitan por las rutas por motivos de seguridad al usuario.|3|
-|15|HU06|Registro de las empresas operadoras de rutas|Como desarrollador quiero registrar a las empresas que operan en cada una de las rutas de transporte urbano en buses para así tener un registro de todas estas empresas en la base de datos de la aplicación|3|
-|16|HU08|Visualización del menú de opciones|Como cliente quiero ver el menú de opciones de la aplicación para así tener una idea de las funcionalidades que están presentes en esta.|3|
-|17|HU19|Accesibilidad|Como desarrollador quiero hacer la aplicación más accesible para personas con discapacidades, ofreciendo opciones de accesibilidad como la navegación por voz y el alto contraste, para ampliar la cantidad de posibles usuarios.|3|
-|18|HU20|Retroalimentación de los usuarios|Como cliente quiero dar una retroalimentación sobre mi experiencia de viaje o al utilizar la aplicación para dar a conocer mi agrado o mi malestar con respecto al funcionamiento de esta.|3|
-|19|HU22|implementación de sistema de autenticación oauth|como desarrollador, quiero implementar un sistema de autenticación oauth para permitir que los usuarios inicien sesión utilizando sus cuentas de redes sociales.|3|
-|20|HU24|sección principal de landing page|como visitante de la landing page, quiero ser recibido por una sección principal llamativa para captar mi atención y despertar mi interés en explorar más sobre la aplicación de seguimiento de rutas.|3|
-|21|HU25|información de beneficios|como visitante de la landing page, quiero encontrar una sección dedicada a los beneficios de la aplicación de seguimiento de rutas para comprender cómo puede mejorar mi experiencia de viaje.|3|
-|22|HU26|conocer los aliados que respaldan la app|como visitante de la landing page, quiero ver una lista de aliados que respaldan la aplicación de seguimiento de rutas para sentir confianza en su calidad y fiabilidad.|3|
-|23|HU27|reseñas de usuarios satisfechos|como visitante de la landing page, quiero encontrar reseñas y testimonios de usuarios satisfechos para obtener una idea de su experiencia y satisfacción con la aplicación.|3|
-|24|HU28|conocer los planes de suscripción|como visitante de la landing page, quiero encontrar información sobre los planes de suscripción disponibles para entender las opciones de pago y beneficios asociados con cada plan.|3|
-|25|HU29|obtener respuestas a preguntas frecuentes|como visitante de la landing page, quiero acceder a una sección de preguntas frecuentes para encontrar respuestas a mis dudas más comunes sobre la aplicación de seguimiento de rutas.|3|
-|26|HU01|Registrar al usuario|Como cliente quiero registrarme con todos mis datos pertinentes (nombre, correo, edad, etc.) en la aplicación para poder hacer uso de sus funcionalidades.|2|
-|27|HU02|Inicio de sesión en la aplicación|Como cliente quiero iniciar sesión en la aplicación con mis credenciales (correo y contraseña) para poder entrar a la aplicación con mi cuenta existente|2|
-|28|HU03|Eliminar cuenta o usuario|Como cliente quiero tener la posibilidad de borrar mi cuenta para que mis datos ya no permanezcan en la base de datos de la aplicación.|2|
-|29|HU16|Notificaciones personalizadas|Como cliente quiero recibir notificaciones personalizadas acerca de eventos pertinentes a mi viaje en bus (retrasos, horarios, etc.) para estar al tanto de las situaciones que pueden afectar mi futuro viaje|2|
-|30| HU30 |Promociones |Como cliente, quiero ver las promociones disponibles en la aplicación para que pueda aprovechar descuentos al utilizar el servicio de transporte público.  | 2 |
-|31|HU31 |Soporte y Ayuda |Como cliente, quiero tener acceso a opciones de soporte y ayuda dentro de la aplicación para que pueda resolver cualquier problema o duda que pueda surgir durante su uso. | 2|
-|32|HU32 | Configuración | Como cliente, quiero tener la capacidad de personalizar la configuración de mi cuenta en la aplicación para que pueda adaptarla a mis preferencias y necesidades individuales.| 3|
-|33|HU33 | Historial de Viajes| Como cliente, quiero poder acceder a un historial detallado de mis viajes anteriores en la aplicación para que pueda realizar un seguimiento de mis desplazamientos y gastos.| 5|
-|34| HU34| Recuperación de Contraseña| Como cliente, quiero tener la opción de recuperar mi contraseña en caso de olvido o pérdida para que pueda volver a acceder a mi cuenta sin problemas| 3|
+| #Orden | User Story ID | Título                                           | Descripción                                                                                                                                                                                                                                         | Story Points |
+| :----- | :------------ | :----------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- |
+| 1      | HU07          | Implementación de servicios externos             | Como desarrollador quiero implementar servicios externos de otras empresas como Google Maps para así poder darle la funcionalidad deseada a la aplicación sin tener que desarrollar todo desde cero                                                 | 5            |
+| 2      | HU09          | Configuración de búsqueda de ruta personalizada  | Como cliente quiero modificar ciertas opciones relacionadas a la búsqueda de rutas (tiempo de viaje, distancia al paradero, mostrar la ruta más rápida, etc.) para optimizar esta búsqueda según mis preferencias.                                  | 5            |
+| 3      | HU10          | Visualización del mapa                           | Como cliente quiero ver un mapa interactivo con las rutas presentes para tener una idea más clara del posible camino por el que quiera viajar.                                                                                                      | 5            |
+| 4      | HU11          | Visualización de costos del pasaje               | Como cliente quiero ver el costo del pasaje aproximado al elegir una ruta en la aplicación para saber con anticipación cuánto dinero debo tener para costear el viaje                                                                               | 5            |
+| 5      | HU12          | Visualización del número de buses a abordar      | Como cliente quiero ver cuántos buses se tiene que abordar para llegar al destino para determinar qué ruta sería la mejor conforme a la situación en la que me encuentre.                                                                           | 5            |
+| 6      | HU13          | Planificación de viajes                          | Como cliente quiero planificar mis viajes en función a mi ubicación actual y al destino (se muestran los horarios de salida y de llegada de los buses, su ubicación, etc.) para organizar mejor mis tiempos.                                        | 5            |
+| 7      | HU14          | Información en tiempo real                       | Como cliente quiero observar la información pertinente a mi viaje en tiempo real (ubicación actual de los autobuses, su hora estimada de llegada y cualquier retraso o cambio en la ruta) para tomar mejores decisiones en el acto.                 | 5            |
+| 8      | HU15          | Compra de boletos                                | Como cliente quiero comprar boletos para el transporte público directamente desde la aplicación para agilizar y facilitar el proceso de pago por los boletos o pasajes.                                                                             | 5            |
+| 9      | HU17          | Mapas interactivos                               | Como cliente quiero visualizar mapas interactivos en los que pueda ver la ubicación de las paradas de autobús, la ruta y la ubicación de los autobuses en tiempo real, para así poder tomar mejores decisiones en el momento sobre qué ruta elegir. | 5            |
+| 10     | HU18          | Integración con otros servicios de transporte    | Como desarrollador quiero integrar la aplicación con otros servicios de transporte público, como trenes o tranvías, para permitir a los usuarios planificar viajes intermodales.                                                                    | 5            |
+| 11     | HU21          | integración de api de transporte público         | como desarrollador, quiero integrar una api de transporte público para acceder a datos actualizados sobre rutas, horarios y paradas de transporte público en tiempo real.                                                                           | 5            |
+| 12     | HU23          | desarrollo de algoritmo de ruta óptima           | como desarrollador, quiero diseñar un algoritmo eficiente para calcular la ruta óptima entre dos puntos dados, teniendo en cuenta factores como la distancia, el tiempo y las preferencias del usuario.                                             | 5            |
+| 13     | HU04          | Registro de rutas y buses                        | Como desarrollador quiero registrar a las rutas de transporte urbano y a los buses que transitan por estas para así tener un registro de todas las que se encuentren en Lima.                                                                       | 3            |
+| 14     | HU05          | Registro de conductores                          | Como desarrollador quiero registrar a los conductores de los buses para así tener un registro de todos los conductores que transitan por las rutas por motivos de seguridad al usuario.                                                             | 3            |
+| 15     | HU06          | Registro de las empresas operadoras de rutas     | Como desarrollador quiero registrar a las empresas que operan en cada una de las rutas de transporte urbano en buses para así tener un registro de todas estas empresas en la base de datos de la aplicación                                        | 3            |
+| 16     | HU08          | Visualización del menú de opciones               | Como cliente quiero ver el menú de opciones de la aplicación para así tener una idea de las funcionalidades que están presentes en esta.                                                                                                            | 3            |
+| 17     | HU19          | Accesibilidad                                    | Como desarrollador quiero hacer la aplicación más accesible para personas con discapacidades, ofreciendo opciones de accesibilidad como la navegación por voz y el alto contraste, para ampliar la cantidad de posibles usuarios.                   | 3            |
+| 18     | HU20          | Retroalimentación de los usuarios                | Como cliente quiero dar una retroalimentación sobre mi experiencia de viaje o al utilizar la aplicación para dar a conocer mi agrado o mi malestar con respecto al funcionamiento de esta.                                                          | 3            |
+| 19     | HU22          | implementación de sistema de autenticación oauth | como desarrollador, quiero implementar un sistema de autenticación oauth para permitir que los usuarios inicien sesión utilizando sus cuentas de redes sociales.                                                                                    | 3            |
+| 20     | HU24          | sección principal de landing page                | como visitante de la landing page, quiero ser recibido por una sección principal llamativa para captar mi atención y despertar mi interés en explorar más sobre la aplicación de seguimiento de rutas.                                              | 3            |
+| 21     | HU25          | información de beneficios                        | como visitante de la landing page, quiero encontrar una sección dedicada a los beneficios de la aplicación de seguimiento de rutas para comprender cómo puede mejorar mi experiencia de viaje.                                                      | 3            |
+| 22     | HU26          | conocer los aliados que respaldan la app         | como visitante de la landing page, quiero ver una lista de aliados que respaldan la aplicación de seguimiento de rutas para sentir confianza en su calidad y fiabilidad.                                                                            | 3            |
+| 23     | HU27          | reseñas de usuarios satisfechos                  | como visitante de la landing page, quiero encontrar reseñas y testimonios de usuarios satisfechos para obtener una idea de su experiencia y satisfacción con la aplicación.                                                                         | 3            |
+| 24     | HU28          | conocer los planes de suscripción                | como visitante de la landing page, quiero encontrar información sobre los planes de suscripción disponibles para entender las opciones de pago y beneficios asociados con cada plan.                                                                | 3            |
+| 25     | HU29          | obtener respuestas a preguntas frecuentes        | como visitante de la landing page, quiero acceder a una sección de preguntas frecuentes para encontrar respuestas a mis dudas más comunes sobre la aplicación de seguimiento de rutas.                                                              | 3            |
+| 26     | HU01          | Registrar al usuario                             | Como cliente quiero registrarme con todos mis datos pertinentes (nombre, correo, edad, etc.) en la aplicación para poder hacer uso de sus funcionalidades.                                                                                          | 2            |
+| 27     | HU02          | Inicio de sesión en la aplicación                | Como cliente quiero iniciar sesión en la aplicación con mis credenciales (correo y contraseña) para poder entrar a la aplicación con mi cuenta existente                                                                                            | 2            |
+| 28     | HU03          | Eliminar cuenta o usuario                        | Como cliente quiero tener la posibilidad de borrar mi cuenta para que mis datos ya no permanezcan en la base de datos de la aplicación.                                                                                                             | 2            |
+| 29     | HU16          | Notificaciones personalizadas                    | Como cliente quiero recibir notificaciones personalizadas acerca de eventos pertinentes a mi viaje en bus (retrasos, horarios, etc.) para estar al tanto de las situaciones que pueden afectar mi futuro viaje                                      | 2            |
+| 30     | HU30          | Promociones                                      | Como cliente, quiero ver las promociones disponibles en la aplicación para que pueda aprovechar descuentos al utilizar el servicio de transporte público.                                                                                           | 2            |
+| 31     | HU31          | Soporte y Ayuda                                  | Como cliente, quiero tener acceso a opciones de soporte y ayuda dentro de la aplicación para que pueda resolver cualquier problema o duda que pueda surgir durante su uso.                                                                          | 2            |
+| 32     | HU32          | Configuración                                    | Como cliente, quiero tener la capacidad de personalizar la configuración de mi cuenta en la aplicación para que pueda adaptarla a mis preferencias y necesidades individuales.                                                                      | 3            |
+| 33     | HU33          | Historial de Viajes                              | Como cliente, quiero poder acceder a un historial detallado de mis viajes anteriores en la aplicación para que pueda realizar un seguimiento de mis desplazamientos y gastos.                                                                       | 5            |
+| 34     | HU34          | Recuperación de Contraseña                       | Como cliente, quiero tener la opción de recuperar mi contraseña en caso de olvido o pérdida para que pueda volver a acceder a mi cuenta sin problemas                                                                                               | 3            |
+
 ---
+
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines.
@@ -915,7 +908,7 @@ Las guías de estilo son los criterios y sugerencias creados para uniformar la a
 
 ### 4.1.1. General Style Guidelines.
 
-La paleta de colores que estamos usando en nuestra Landing Page y Web Application son los siguientes: 
+La paleta de colores que estamos usando en nuestra Landing Page y Web Application son los siguientes:
 
 <div align="center">
 
@@ -924,7 +917,6 @@ La paleta de colores que estamos usando en nuestra Landing Page y Web Applicatio
 </div>
 
 El tono predominante y fundamental de nuestra solución es el azul y sus diversas variaciones, seleccionado con el propósito de generar en nuestros usuarios sensaciones de confianza, seguridad y calma. Nuestra meta es mantener la simplicidad y el minimalismo para lograr que nuestros usuarios se sientan comodos con la aplicación.
-
 
 Se ha seleccionado MuseoModerno para el logotipo, los títulos y los subtítulos de la Landing Page y la Aplicación Web, ya que su diseño evoca pistas y carreteras, lo cual se considera adecuado para nuestro producto. Para los textos, el contenido informativo y los botones de la Landing Page, se utilizará Montserrat.
 
@@ -980,36 +972,32 @@ En este apartado, presentaremos el procedimiento de ordenar, configurar y catego
 
 ### 4.2.1. Organization Systems.
 
- - **Forma jerárquica**
-        
-        La aplicación web de TrackMyRoute se organizará de forma jerárquica, comenzando con un panel de control principal que ofrece acceso rápido a las funciones esenciales. Esto incluirá la búsqueda de rutas por ubicación y horarios en tiempo real, así como la opción de pago de pasajes. En un segundo nivel, los usuarios podrán acceder a su historial de viajes y pagos, además de encontrar promociones disponibles para ellos. En un nivel más profundo de jerarquía, tendrán la posibilidad de configurar notificaciones personalizadas y gestionar su perfil de usuario. Además, habrá una sección de ayuda que proporcionará recursos adicionales y soporte. Esta estructura jerárquica está diseñada para garantizar una navegación intuitiva y una experiencia fluida para los usuarios al buscar y gestionar información relacionada con el transporte público.
-    - **Organización secuencial (step-by-step to accomplish)**
-        En la aplicación web de TrackMyRoute, se ha implementado la organización secuencial en situaciones donde los usuarios necesitan completar una serie de pasos en un orden específico para alcanzar un objetivo determinado. Por ejemplo, durante el proceso de registro de un nuevo usuario, se les guiará a través de una secuencia de pasos que incluirá la creación de una cuenta, la configuración de preferencias y la aceptación de los términos y condiciones. Esto también se observa al buscar rutas y autobuses, así como al pagar el pasaje a través de la aplicación. Esta metodología de organización secuencial ayuda a simplificar y estructurar procesos complejos, lo que facilita la navegación y la comprensión para los usuarios.
-    - **Organización matricial**
-        
-        En TrackMyRoute, se emplea la organización matricial en situaciones donde hay una diversidad de categorías o dimensiones que se entrelazan y se relacionan entre sí. Esto es evidente al buscar autobuses, donde se muestra un mapa junto con la información de los autobuses y se ofrecen filtros para refinar la búsqueda. Asimismo, se utiliza en la disposición visual de las promociones dirigidas a los usuarios.
-
+- **Forma jerárquica**
+       La aplicación web de TrackMyRoute se organizará de forma jerárquica, comenzando con un panel de control principal que ofrece acceso rápido a las funciones esenciales. Esto incluirá la búsqueda de rutas por ubicación y horarios en tiempo real, así como la opción de pago de pasajes. En un segundo nivel, los usuarios podrán acceder a su historial de viajes y pagos, además de encontrar promociones disponibles para ellos. En un nivel más profundo de jerarquía, tendrán la posibilidad de configurar notificaciones personalizadas y gestionar su perfil de usuario. Además, habrá una sección de ayuda que proporcionará recursos adicionales y soporte. Esta estructura jerárquica está diseñada para garantizar una navegación intuitiva y una experiencia fluida para los usuarios al buscar y gestionar información relacionada con el transporte público.
+  - **Organización secuencial (step-by-step to accomplish)**
+    En la aplicación web de TrackMyRoute, se ha implementado la organización secuencial en situaciones donde los usuarios necesitan completar una serie de pasos en un orden específico para alcanzar un objetivo determinado. Por ejemplo, durante el proceso de registro de un nuevo usuario, se les guiará a través de una secuencia de pasos que incluirá la creación de una cuenta, la configuración de preferencias y la aceptación de los términos y condiciones. Esto también se observa al buscar rutas y autobuses, así como al pagar el pasaje a través de la aplicación. Esta metodología de organización secuencial ayuda a simplificar y estructurar procesos complejos, lo que facilita la navegación y la comprensión para los usuarios.
+  - **Organización matricial**
+    En TrackMyRoute, se emplea la organización matricial en situaciones donde hay una diversidad de categorías o dimensiones que se entrelazan y se relacionan entre sí. Esto es evidente al buscar autobuses, donde se muestra un mapa junto con la información de los autobuses y se ofrecen filtros para refinar la búsqueda. Asimismo, se utiliza en la disposición visual de las promociones dirigidas a los usuarios.
 
 ### 4.2.2. Labeling Systems.
 
-| Etiqueta            | Descripción                                                                                                                                    |
-|:-------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------:|
-| Buscar Rutas        | En esta sección se le mostrará al usuario avisos por parte de la aplicación                                                                    |
-| Notificaciones      | En esta sección el usuario podrá ingresar su origen y destino y visualizar sus rutas y buses, así como un mapa con información en tiempo real. |
-| Pagar Pasaje        | En esta sección el usuario podrá pagar sus pasajes de su ruta de manera anticipada para ser más eficiente a la hora de abordar el bus.         |
-| Promociones         | En esta sección el usuario podrá acceder a distintas promociones que brindamos a nuestros usuarios premium                                     |
-| Historial de Viajes | En esta sección el usuario podrá visualizar sus viajes anteriores y pasajes pagados.                                                           |
-| Soporte y Ayuda     | En esta sección el usuario accede a ayuda por parte de nuestro equipo de soporte.                                                              |
-| Configuración       | En esta sección el usuario puede configurar sus preferencias y su perfil.           
-
+|      Etiqueta       |                                                                  Descripción                                                                   |
+| :-----------------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
+|    Buscar Rutas     |                                  En esta sección se le mostrará al usuario avisos por parte de la aplicación                                   |
+|   Notificaciones    | En esta sección el usuario podrá ingresar su origen y destino y visualizar sus rutas y buses, así como un mapa con información en tiempo real. |
+|    Pagar Pasaje     |     En esta sección el usuario podrá pagar sus pasajes de su ruta de manera anticipada para ser más eficiente a la hora de abordar el bus.     |
+|     Promociones     |                   En esta sección el usuario podrá acceder a distintas promociones que brindamos a nuestros usuarios premium                   |
+| Historial de Viajes |                              En esta sección el usuario podrá visualizar sus viajes anteriores y pasajes pagados.                              |
+|   Soporte y Ayuda   |                               En esta sección el usuario accede a ayuda por parte de nuestro equipo de soporte.                                |
+|    Configuración    |                                   En esta sección el usuario puede configurar sus preferencias y su perfil.                                    |
 
 ### 4.2.3. SEO Tags and Meta Tags
 
 Los tags de SEO y Meta tags son cruciales ya que desempeñan una función vital en la optimización para motores de búsqueda (SEO), contribuyendo a mejorar la visibilidad y el ranking de una página web en los resultados de búsqueda. Por ende, para optimizar la búsqueda y el posicionamiento de TrackMyRoute, hemos implementado lo siguiente:
 
-| Landing Page | Web Application |
-|---------------|-----------------|
-|**Title:** TrackMyRoute<br>**Description:** Optimiza tu viaje y libérate del estrés<br>**Keywords:** Autobús, Metro, Tren, Paradas, Ubicación, Tráfico, Planificador, Seguridad, Comodidad, Precisión, Horario, Buses en Lima, Rutas.<br>**Authors:** TrackMyRoute| **Title:**  TrackMyRoute <br> **Description:** Optimiza tu viaje y libérate del estrés <br> **Keywords:** Autobús, Metro, Tren, Paradas, Ubicación, Tráfico, Planificador, Seguridad, Comodidad, Precisión, Horario, Buses en Lima, Rutas, Buses, Seguimiento, Mapas, Transporte, Navegación, Tiempo, Notificaciones, Promociones, Pasajes, Historial. <br> **Authors:** TrackMyRoute|
+| Landing Page                                                                                                                                                                                                                                                       | Web Application                                                                                                                                                                                                                                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Title:** TrackMyRoute<br>**Description:** Optimiza tu viaje y libérate del estrés<br>**Keywords:** Autobús, Metro, Tren, Paradas, Ubicación, Tráfico, Planificador, Seguridad, Comodidad, Precisión, Horario, Buses en Lima, Rutas.<br>**Authors:** TrackMyRoute | **Title:** TrackMyRoute <br> **Description:** Optimiza tu viaje y libérate del estrés <br> **Keywords:** Autobús, Metro, Tren, Paradas, Ubicación, Tráfico, Planificador, Seguridad, Comodidad, Precisión, Horario, Buses en Lima, Rutas, Buses, Seguimiento, Mapas, Transporte, Navegación, Tiempo, Notificaciones, Promociones, Pasajes, Historial. <br> **Authors:** TrackMyRoute |
 
 ### 4.2.4. Searching Systems.
 
@@ -1024,6 +1012,7 @@ Los métodos de navegación utilizados en TrackMyRoute son los siguientes:
 3. Tarjetas de promociones: Los usuarios pueden ver fácilmente las promociones que les ofrecemos a través de las tarjetas de promociones.
 
 ## 4.3. Landing Page UI Design.
+
 ### 4.3.1. Landing Page Wireframe.
 
 <div align="center">
@@ -1034,7 +1023,7 @@ Los métodos de navegación utilizados en TrackMyRoute son los siguientes:
 
 ### 4.3.2. Landing Page Mock-up.
 
-Link Landing Page mockup: https://www.figma.com/proto/aJREmuLbY7nLlgmOTtjcW5/TrackMyRoute-Web?type=design&node-id=1-2&t=vpM8mg1HtrwmaE8b-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2&mode=design 
+Link Landing Page mockup: https://www.figma.com/proto/aJREmuLbY7nLlgmOTtjcW5/TrackMyRoute-Web?type=design&node-id=1-2&t=vpM8mg1HtrwmaE8b-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2&mode=design
 
 <div align="center">
 
@@ -1043,6 +1032,7 @@ Link Landing Page mockup: https://www.figma.com/proto/aJREmuLbY7nLlgmOTtjcW5/Tra
 </div>
 
 ## 4.4. Mobile Applications UX/UI Design.
+
 ### 4.4.1. Mobile Applications Wireframes.
 
 <div align="center">
@@ -1105,8 +1095,6 @@ Link Landing Page mockup: https://www.figma.com/proto/aJREmuLbY7nLlgmOTtjcW5/Tra
 
 </div>
 
-
-
 <div align="center">
 
   <img src="image-report/help.png">
@@ -1120,7 +1108,7 @@ Link Landing Page mockup: https://www.figma.com/proto/aJREmuLbY7nLlgmOTtjcW5/Tra
   <img src="image-report/wireframe-flow1.jpg">
 
 </div>
-  
+
 
 <div align="center">
 
@@ -1135,7 +1123,6 @@ Link Landing Page mockup: https://www.figma.com/proto/aJREmuLbY7nLlgmOTtjcW5/Tra
   <img src="image-report/mobile-mockup.png">
 
 </div>
-
 
 ### 4.4.4. Mobile Applications User Flow Diagrams.
 
@@ -1167,6 +1154,7 @@ Link de prototipo: https://www.figma.com/design/gRfIpmDEc54Tptas8ZOsgU/TrackMyRo
 Link de prototipo: https://www.figma.com/design/gRfIpmDEc54Tptas8ZOsgU/TrackMyRoute---Experimentos?node-id=0-1&t=7fVzSFGuX1I6ZYXA-1
 
 ### 4.6. Web Applications UX/UI Design.
+
 ### 4.6.1. Web Applications Wireframes.
 
 Los wireframes actúan como el plano de la aplicación web, delineando la estructura y el diseño de cada página. Se enfocan en:
@@ -1223,7 +1211,7 @@ Visualización del Flujo de Usuario: Ilustrando cómo los usuarios navegarán a 
 
 </div>
 
-Link de wireframe:  https://www.figma.com/design/aJREmuLbY7nLlgmOTtjcW5/TrackMyRoute-Web?node-id=2053-676&node-type=FRAME&t=gDbP6FCDP3Ohxegw-0
+Link de wireframe: https://www.figma.com/design/aJREmuLbY7nLlgmOTtjcW5/TrackMyRoute-Web?node-id=2053-676&node-type=FRAME&t=gDbP6FCDP3Ohxegw-0
 
 ### 4.6.2. Web Applications Wireflow Diagrams.
 
@@ -1233,7 +1221,6 @@ Link de wireframe:  https://www.figma.com/design/aJREmuLbY7nLlgmOTtjcW5/TrackMyR
 </div>
 
 ### 4.6.3. Web Applications Mock-ups.
-
 
 <div align="center">
 
@@ -1335,19 +1322,25 @@ Este es el diagrama de Contenedores de nuestro sistema:
 ### 4.8.3. Software Architecture Components Diagrams.
 
 Esto son los diagramas de componentes de nuestro sistema:
+
 ##### Diagrama de componentes #1:
+
 <a href="https://ibb.co/fY8VnbZ"><img src="https://i.ibb.co/RphGB1t/Diagrama-de-Componentes-1.png" alt="Diagrama-de-Componentes-1" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'>
 
 ##### Diagrama de componentes #2:
+
 <a href="https://ibb.co/16Fq7d3"><img src="https://i.ibb.co/FVRwm09/Diagrama-de-Componentes-2.png" alt="Diagrama-de-Componentes-2" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'>
 
 ##### Diagrama de componentes #3:
+
 <a href="https://ibb.co/ZK3KrfR"><img src="https://i.ibb.co/J2N2TcW/Diagrama-de-Componentes-3.png" alt="Diagrama-de-Componentes-3" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'>
 
 ##### Diagrama de componentes #4:
+
 <a href="https://ibb.co/0qRCjGF"><img src="https://i.ibb.co/cJS6crC/Diagrama-de-Componentes-4.png" alt="Diagrama-de-Componentes-4" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'>
 
 ## 4.9. Software Object-Oriented Design.
+
 ### 4.9.1. Class Diagrams.
 
 Para nuestro sistema, hemos implementado un diagrama de clases. Este diagrama visualiza la estructura estática del software, mostrando las clases, sus atributos y las relaciones entre ellas. Es una herramienta esencial que nos ayuda a comprender cómo se organizan y comunican las diferentes partes de nuestro sistema de software.
@@ -1376,20 +1369,20 @@ Explicacion del funcionamiento de cada funcion por módulo.
 Módulos:
 
 - User Interface:
-Para explicar nuestro sistema de usuario este tendra que registrarse para luego iniciar sesion en su cuenta, donde este recibira un correo para confirmar su creacion, todo esto en una clase llamada UserInterface que recibira toda la información.
+  Para explicar nuestro sistema de usuario este tendra que registrarse para luego iniciar sesion en su cuenta, donde este recibira un correo para confirmar su creacion, todo esto en una clase llamada UserInterface que recibira toda la información.
 
 <a href="https://ibb.co/GTyXMmL"><img src="https://i.ibb.co/C2gq9LZ/1.png" alt="1" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'>
 
 - Subscription:
-Este modulo de clases es referido a la eleccion que tenga el usuario sobre la subscripcion que desea poseer.
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/gDHP4gp/Captura-de-pantalla-2024-04-12-012158.png" alt="Captura-de-pantalla-2024-04-12-012158" border="0"></a>
+  Este modulo de clases es referido a la eleccion que tenga el usuario sobre la subscripcion que desea poseer.
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/gDHP4gp/Captura-de-pantalla-2024-04-12-012158.png" alt="Captura-de-pantalla-2024-04-12-012158" border="0"></a>
 
 - FAQ:
-Esta esta dirigido a una parte mas de dudas que tenga el usuario sobre el uso o funcionamiento de la aplicación.
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/41KRfZJ/Captura-de-pantalla-2024-04-12-012114.png" alt="Captura-de-pantalla-2024-04-12-012114" border="0"></a>
+  Esta esta dirigido a una parte mas de dudas que tenga el usuario sobre el uso o funcionamiento de la aplicación.
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/41KRfZJ/Captura-de-pantalla-2024-04-12-012114.png" alt="Captura-de-pantalla-2024-04-12-012114" border="0"></a>
 
 - Track Route:
-Esta es el modulo que explica el funcionamiento principal de la aplicacion, nos mostrara la ruta de los buses y como de acuerdo a las preferencias del usuario puede variar, ademas de una funcionalidad para pagar el servicio del bus que este desee tomar.
+  Esta es el modulo que explica el funcionamiento principal de la aplicacion, nos mostrara la ruta de los buses y como de acuerdo a las preferencias del usuario puede variar, ademas de una funcionalidad para pagar el servicio del bus que este desee tomar.
 
 <a href="https://ibb.co/VWL1F4z"><img src="https://i.ibb.co/ccyBWnZ/TRACK-ROUTE.png" alt="TRACK-ROUTE" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'>
 
@@ -1403,7 +1396,7 @@ Utilizamos MySql para le creación de la base de datos por lo cual es una relaci
 
 <a href="https://ibb.co/kgsjjrs"><img src="https://i.ibb.co/svdnnDd/Captura-de-pantalla-2024-04-13-000952.png" alt="Captura-de-pantalla-2024-04-13-000952" border="0"></a>
 
-Tenemos una entidad que explica la data que va tener cada uno de los buses en nuestro sistema. 
+Tenemos una entidad que explica la data que va tener cada uno de los buses en nuestro sistema.
 <a href="https://ibb.co/5Yb6Zb7"><img src="https://i.ibb.co/pWYxqYm/Captura-de-pantalla-2024-04-13-001411.png" alt="Captura-de-pantalla-2024-04-13-001411" border="0"></a>
 
 Tenemos una entidad llamada tracMyRouteBuses esta se refiere a la data que va recibir sobre las rutas que van a tomar los distintos servicios de buses.
@@ -1426,17 +1419,17 @@ Tenemos una entidad la cual se encarga de ver la subscripcion actual del usuario
 # Capítulo V: Product Implementation
 
 ## 5.1 Software Configuration Management
+
 ### 5.1.1 Software Development Environment Configuration
-   **Project Management**
+
+**Project Management**
 
 Para la organizacion del proyecto necesitabamos una planificación en cuanto a tareas asignadas, un punto de reunión y un repositorio donde trabajaramos en conjunto cada avance del proyecto, es por esto que elegimos las siguientes herramientas:
 
-* Centro de organización de trabajo: Github
-    
-* Planificación de tareas: Trello
-    
-* Reuniones con el equipo: Google Meet
-    
+- Centro de organización de trabajo: Github
+- Planificación de tareas: Trello
+- Reuniones con el equipo: Google Meet
+
 **Requirements Management**
 
 Para realizar las actividades del proyecto necesitábamos designarlas a cada integrante del grupo en caso de revisión o cambios, esta lista de asignaciones fue realizada en Trello:
@@ -1516,6 +1509,7 @@ Se ha utilizado Github para alojar los distintos repositorios creados por los mi
 </table>
 
 ### 5.1.2 Source Code Management
+
    <table>
     <tbody>
         <tr>
@@ -1538,43 +1532,47 @@ Se ha utilizado Github para alojar los distintos repositorios creados por los mi
 <img src="https://nvie.com/img/git-model@2x.png" width="60%" alt="Ejemplo flujo de Gitflow"/>
 
 Usaremos el flujo de trabajo planteado por Vincent Driessen en "A successful Git branching model" con los siguientes parámetros:
- * Una rama de producción.
- * Una rama de pruebas.
- * Una rama en la que se solucionen los bugs rapidamente y vuelvan a producción.
- * Ramas de features a implementar.
- * Cada cambio en producción debe establecerse como una nueva versión.
- * Para este proyecto en concreto consideramos que los cambios en la rama de producción y de pruebas deben tener autorización de un compa­ñero de equipo.
-   
+
+- Una rama de producción.
+- Una rama de pruebas.
+- Una rama en la que se solucionen los bugs rapidamente y vuelvan a producción.
+- Ramas de features a implementar.
+- Cada cambio en producción debe establecerse como una nueva versión.
+- Para este proyecto en concreto consideramos que los cambios en la rama de producción y de pruebas deben tener autorización de un compa­ñero de equipo.
+
 Teniendo en cuenta la información anterior nos inclinamos por este tipo de organización en los branches:
-* **Main branch:** Esta rama esta destinada a la producción de la aplicación, cada cambio deberá tener autorización de un compañero de equipo para evitar cambios sin verificar.
-* **Hotfix branch:** En esta rama se incluirán todas las versiones que poseen errores identificados y que con cada arreglo de este se despliegue otra vez a Main Branch además de implementarla en lo que será Develop Branch.
-* **Release branch:** Esta rama se utilizará para una previa a lo que será el Main Branch, aquí se seguirá de cerca a la aplicación en otros ambientes en busca de bugs.
-* **Develop branch:** Esta rama está destinada a las constantes implementaciones en caliente de los features, 
-* **Features branch:** Cada feature poseerá su respectiva rama, una vez que se encuentre correctamente implementada será fusionada con Develop branch.
+
+- **Main branch:** Esta rama esta destinada a la producción de la aplicación, cada cambio deberá tener autorización de un compañero de equipo para evitar cambios sin verificar.
+- **Hotfix branch:** En esta rama se incluirán todas las versiones que poseen errores identificados y que con cada arreglo de este se despliegue otra vez a Main Branch además de implementarla en lo que será Develop Branch.
+- **Release branch:** Esta rama se utilizará para una previa a lo que será el Main Branch, aquí se seguirá de cerca a la aplicación en otros ambientes en busca de bugs.
+- **Develop branch:** Esta rama está destinada a las constantes implementaciones en caliente de los features,
+- **Features branch:** Cada feature poseerá su respectiva rama, una vez que se encuentre correctamente implementada será fusionada con Develop branch.
 
 Con cada deployment de la aplicación debe establecerse como una nueva versión.
 
 ### 5.1.3 Source Code Style Guide & Conventions
-   
+
 Usaremos buenas prácticas en cuanto al código de manera que sea coherente y sostenible.
 
 **HTML:**
-* Cada etiqueta, id, nombre y clase será nombrada usando Lowercase.
-* Utilizar UTF-8.
-* Redacción en inglés.
-* En cada referencia a un archivo, colocar el tipo de archivo (.css, .js).
-* Terminar cada etiqueta con />.
-    
-**CSS:**
-* Width del body al 100%.
-* En cuanto a las imágenes, especificar el ancho (Width) de acuerdo a la etiqueta padre.
-* Cada etiqueta, nombre y clase será nombrada de acuerdo al propósito y clasificación del elemento.
-* Separación de palabras con un guion "-".
-* Margin y padding en "*" con valor de 0.
 
-**Commit conventions:** Para las convenciones de commit, se utilizarán las convenciones básicas es decir: 
- `git commit -m "<message>" -m"<description">`
-  
+- Cada etiqueta, id, nombre y clase será nombrada usando Lowercase.
+- Utilizar UTF-8.
+- Redacción en inglés.
+- En cada referencia a un archivo, colocar el tipo de archivo (.css, .js).
+- Terminar cada etiqueta con />.
+
+**CSS:**
+
+- Width del body al 100%.
+- En cuanto a las imágenes, especificar el ancho (Width) de acuerdo a la etiqueta padre.
+- Cada etiqueta, nombre y clase será nombrada de acuerdo al propósito y clasificación del elemento.
+- Separación de palabras con un guion "-".
+- Margin y padding en "\*" con valor de 0.
+
+**Commit conventions:** Para las convenciones de commit, se utilizarán las convenciones básicas es decir:
+`git commit -m "<message>" -m"<description">`
+
 ### 5.1.4 Software Deployment Configuration
 
 #### Repositorios de la Organización
@@ -1582,7 +1580,9 @@ Usaremos buenas prácticas en cuanto al código de manera que sea coherente y so
 <img src='image-report/Repositories.png'/>
 
 #### Creación de ramas
+
 Para la creación de cada rama del proyecto seguiremos estos pasos:
+
 1. Seleccionar " # Branches":
 
   <img src='image-report/paso1-branch.jpeg'/>
@@ -1593,11 +1593,11 @@ Para la creación de cada rama del proyecto seguiremos estos pasos:
 
 3. Escribir el nombre de cada rama, luego crear nuevo branch:
 
-	<img src='image-report/paso3-branch.jpeg'/>
+<img src='image-report/paso3-branch.jpeg'/>
 
 4. Ramas creadas:
 
-	<img src='image-report/paso4-branch.jpeg'/>
+<img src='image-report/paso4-branch.jpeg'/>
 
 ### Agregar reglas de protección
 
@@ -1609,15 +1609,15 @@ Para la creación de cada rama del proyecto seguiremos estos pasos:
 
 <img src='image-report/rule-2.jpeg'/>
 
-
-
 ## Lanzamiento del proyecto
 
 ### Landing Page Deployment:
+
 Además de control de versiones, Github posee GithubPages, que sirve para lanzar tu proyecto si se encuentra en un repositorio de Github. Para esto necesitamos:
- * Una cuenta persona
- * Repositorio
- * Permisos en el repositorio
+
+- Una cuenta persona
+- Repositorio
+- Permisos en el repositorio
 
 1. Seleccionamos al branch "main", luego el directorio "/root" y finalmente guardamos la configuración.
 
@@ -1626,6 +1626,7 @@ Además de control de versiones, Github posee GithubPages, que sirve para lanzar
 https://g2-aplicacionesweb-si91.github.io/Landing/
 
 ### Frontend-Application Deployment
+
 Con el fin de desplegar el frontend usaremos Firebase, que se usa continuamente para el despliegue de aplicaciones web.
 
 <table>
@@ -1638,6 +1639,7 @@ Con el fin de desplegar el frontend usaremos Firebase, que se usa continuamente 
 </table>
 
 ## 5.2 Landing Page, Services & Applications Implementation.
+
 - ### 5.2.1 Sprint 1
 - #### 5.2.1.1. Sprint Planning 1
 
@@ -1705,7 +1707,6 @@ Con el fin de desplegar el frontend usaremos Firebase, que se usa continuamente 
 <img src='image-report/Sprint1-Trello.JPG' />
 
 Link trello: https://trello.com/b/Bwzbm2Db/sprint1
-
 
 <table>
     <thead>
@@ -1869,8 +1870,8 @@ Link trello: https://trello.com/b/Bwzbm2Db/sprint1
    
 - #### 5.2.1.5. Execution Evidence for Sprint Review
 
-  Sección LogIn:
-  
+Sección LogIn:
+
 <div align="center">
 
   <img src="image-report/landing_Login.png">
@@ -1885,56 +1886,56 @@ Link trello: https://trello.com/b/Bwzbm2Db/sprint1
 
 </div>
 
-  Sección Recuperar contraseña:
-  
+Sección Recuperar contraseña:
+
 <div align="center">
 
   <img src="image-report/Landing_Recuperar-Contraseña.png">
 
 </div>
 
-  Sección Buscar rutas:
-  
+Sección Buscar rutas:
+
 <div align="center">
 
   <img src="image-report/Dashboard-BuscarRutas.png">
 
 </div>
 
-  Sección Pagar pasaje:
-  
+Sección Pagar pasaje:
+
 <div align="center">
 
   <img src="image-report/Dashboard-PagarPasaje.png">
 
 </div>
 
-  Sección Historial de viajes:
-  
+Sección Historial de viajes:
+
 <div align="center">
 
   <img src="image-report/Dashboard-HistorialdeViajes.png">
 
 </div>
 
-  Sección Promos:
-  
+Sección Promos:
+
 <div align="center">
 
   <img src="image-report/Dashboard-Promos.png">
 
 </div>
 
-  Sección Soporte:
-  
+Sección Soporte:
+
 <div align="center">
 
   <img src="image-report/Dashboard-SoporteyAyuda.png">
 
 </div>
 
-  Sección Configuración:
-  
+Sección Configuración:
+
 <div align="center">
 
   <img src="image-report/Dashboard-Configuracion.png">
@@ -1947,9 +1948,10 @@ Link trello: https://trello.com/b/Bwzbm2Db/sprint1
 - #### 5.2.1.7. Software Deployment Evidence for Sprint Review
    Para realizar el despliegue de la Landing Page hemos utilizado Github Pages ya que permite alojar paginas desde el mismo repositorio, es fácil y práctica de usar, además de gratuita.
 
-   Link de Landing Page desplegada: https://g2-aplicacionesweb-si91.github.io/Landing/
+Link de Landing Page desplegada: https://g2-aplicacionesweb-si91.github.io/Landing/
 
-	<img src='image-report/landing1.png'/>
+    <img src='image-report/landing1.png'/>
+
   <img src='image-report/LANDING-SS2.JPG'/>
 	<img src='image-report/LANDING-SS3.JPG'/>
 	<img src='image-report/LANDING-SS4.JPG'/>
@@ -1967,6 +1969,7 @@ Link trello: https://trello.com/b/Bwzbm2Db/sprint1
 </div>
 
 ### 5.2.2. Sprint 2
+
 - #### 5.2.2.1 Sprint Planning 2
 
 <table>
@@ -2245,8 +2248,6 @@ En esta entrega no se hace uso de Web Services por lo que no hay documentación 
 
 - #### 5.2.2.7 Software Deployment Evidence for Sprint Review
 
-
-
 - #### 5.2.2.8 Team Collaboration Insights during Sprint
 
 <div align="center">
@@ -2262,6 +2263,7 @@ En esta entrega no se hace uso de Web Services por lo que no hay documentación 
 </div>
 
 ### 5.2.3. Sprint 3
+
 - #### 5.2.3.1 Sprint Planning 3
 
 <table>
@@ -2519,6 +2521,7 @@ En esta entrega no se hace uso de sistemas de Testing ya que solo nos enfocamos 
 - #### 5.2.3.6 Services Documentation Evidence for Sprint Review
 
 Backend Service:
+
 <table>
     <thead>
         <tr>
@@ -2586,7 +2589,6 @@ Backend Service:
     </tbody>
 </table>
 
-
 - #### 5.2.3.7 Software Deployment Evidence for Sprint Review
 
 * Langing Page
@@ -2606,7 +2608,7 @@ Backend Service:
     </tbody>
 </table>
 * Backend Service
-Nos enfocamos en la evidencia del backend para este sprint, se trabajo con SwaggerAPI para el testeo de conexión y correcto funcionamiento del backend.
+  Nos enfocamos en la evidencia del backend para este sprint, se trabajo con SwaggerAPI para el testeo de conexión y correcto funcionamiento del backend.
 
 <div align="center">
 
@@ -2640,6 +2642,7 @@ Nos enfocamos en la evidencia del backend para este sprint, se trabajo con Swagg
 </div>
 
 ### 5.2.4. Sprint 4
+
 - #### 5.2.4.1 Sprint Planning 4
 
 <table>
@@ -2907,10 +2910,10 @@ Link: [https://trello.com/b/8cUWzeGy/si730-2401-si91-grupo2]
 
 </div>
 
-
 - #### 5.2.4.6 Services Documentation Evidence for Sprint Review
 
 Backend Service:
+
 <table>
     <thead>
         <tr>
@@ -3014,7 +3017,6 @@ Backend Service:
     </tbody>
 </table>
 
-
 - #### 5.2.4.7 Software Deployment Evidence for Sprint Review
 
 * Langing Page
@@ -3034,7 +3036,7 @@ Backend Service:
     </tbody>
 </table>
 * Backend Service
-Nos enfocamos en la evidencia del backend para este sprint, se trabajo con SwaggerAPI para el testeo de conexión y correcto funcionamiento del backend.
+  Nos enfocamos en la evidencia del backend para este sprint, se trabajo con SwaggerAPI para el testeo de conexión y correcto funcionamiento del backend.
 
 <div align="center">
 
@@ -3067,12 +3069,11 @@ Nos enfocamos en la evidencia del backend para este sprint, se trabajo con Swagg
 
 </div>
 
-
 ## 5.3. Validation Interviews
 
 En esta sección, el equipo registra y explica las actividades de entrevistas de validación durante el proyecto.
 
-### 5.3.1. Diseño de Entrevistas 
+### 5.3.1. Diseño de Entrevistas
 
 **Segmento 1: Usuarios de servicios de transporte**
 
@@ -3102,7 +3103,6 @@ En esta sección, el equipo registra y explica las actividades de entrevistas de
 
 ### 5.3.2. Registro de Entrevistas
 
-
 - Entrevista 1
 
 <div align="center">
@@ -3122,7 +3122,9 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202115412_upc_edu_pe/Ee
 ---
 
 # Capítulo VI: Product Verification & Validation
+
 ## 6.1. Testing Suites & Validation
+
 ### 6.1.1. Core Entities Unit Tests
 
 **Entidad Notification**
@@ -3163,7 +3165,6 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202115412_upc_edu_pe/Ee
   <img src="./image-report/IntegrationTest3.png"/>
 </div>
 
-
 ### 6.1.3. Core Behavior-Driven Development
 
 <div align="center">
@@ -3196,23 +3197,30 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202115412_upc_edu_pe/Ee
   <img src=" "/>
 </div>
 
-# 6.2  Static testing & Verification
+# 6.2 Static testing & Verification
+
 ## 6.2.1. Static Code Analysis
+
 ### 6.2.1.1. Coding standard & Code conventions.
+
 En esta sección se destacarán los estándares que se aplicarán para la codificación de las aplicaciones, ya sea en el desarrollo del frontend, backend o la página de aterrizaje.
 
 ### Naming Conventions
+
 - **Nombres de proyectos, clases y variables:** se utilizarán nombres cortos.
 - **Proyectos:** comenzarán en mayúscula; para clases y variables, en minúscula.
 - **Formato:** CamelCase se empleará para nombrar proyectos, clases y variables, mientras que snake_case se usará para las tablas en el backend.
 
 ### Indentación y Espaciado
+
 Para mejorar la legibilidad del código, se utilizará tabulación para separar visualmente las secciones de código.
 
 ### Comentarios
+
 Se añadirán comentarios breves en inglés para facilitar la comprensión de partes específicas del código, explicando el propósito de algunas líneas o funciones.
 
 ### Organización de Archivos
+
 - **Backend:** organizado en carpetas de `model`, `dto`, `controller` y `services`.
 - **Frontend:** se usará una carpeta por funcionalidad, como `sign-in` o `crear-grupo-de-cinéfilos`.
 - **Landing Page:** no se ha dividido en carpetas separadas por secciones.
@@ -3234,8 +3242,8 @@ El proceso de revisión del código busca garantizar calidad, consistencia y seg
 4. **Revisión de Seguridad:** Se identificarán vulnerabilidades en áreas sensibles del código usando Jenkins y Lighthouse para proteger el entorno de producción.
 
 ### Documentación de Revisiones
-Cada revisión será documentada, registrando problemas y correcciones para fomentar una mejora continua en el desarrollo.
 
+Cada revisión será documentada, registrando problemas y correcciones para fomentar una mejora continua en el desarrollo.
 
 # 6.3 Validation Interviews
 
@@ -3278,10 +3286,11 @@ Las preguntas están diseñadas para explorar cómo la página web cumple con la
 Se documentará cada entrevista capturando tanto las respuestas como las observaciones sobre el comportamiento y las emociones de los participantes al interactuar con la página web. Esto permitirá una visión completa de sus expectativas y experiencias.
 
 ### Segmento 1
-| Nombre           | Edad | Domicilio | Enlace al Video           |
-|------------------|------|-----------|----------------------------|
-| Alejandra Neyra  | 19   | Surco       | [Entrevista #1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213404_upc_edu_pe/EXU3cY_kNMhKhZHV1A5LhZcBQXHW2y91FhKBMOtxEZ5eBg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Foaq7S) |
-| Martin Rioja     | 19   | Ate       | [Entrevista #2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213404_upc_edu_pe/EdRbRJz9451Fp022enlwyPgB8a18Qmjm0-Y9kTGKlhDsYw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5qNXx4) |
+
+| Nombre          | Edad | Domicilio | Enlace al Video                                                                                                                                                                                                                                                                                                                              |
+| --------------- | ---- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Alejandra Neyra | 19   | Surco     | [Entrevista #1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213404_upc_edu_pe/EXU3cY_kNMhKhZHV1A5LhZcBQXHW2y91FhKBMOtxEZ5eBg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Foaq7S) |
+| Martin Rioja    | 19   | Ate       | [Entrevista #2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213404_upc_edu_pe/EdRbRJz9451Fp022enlwyPgB8a18Qmjm0-Y9kTGKlhDsYw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5qNXx4) |
 
 **Resumen de la Entrevista - Alejandra Neyra**:  
 La Joven Alejandra Neyra opina que la aplicacion tiene un toque extra a la hora de tener promociones por usar la pagina web, que es facil de usar y que las facilidades de pago son su mayor atractivo puesto a que es una persona que se moviliza bastante con el trasnporte publico.
@@ -3290,11 +3299,11 @@ La Joven Alejandra Neyra opina que la aplicacion tiene un toque extra a la hora 
 El Joven Martin Rijoa opina que la informacion de las rutas de buses debe ser mas completa asi las personas sabran por donde es que se mueve la ruta, la pagina tiene un diseño entendible y ccompleto junto con un mapa Visual que le permite ver cuando no sabe a donde dirigirse,
 
 ### Segmento 2
-| Nombre           | Edad | Domicilio           | Enlace al Video           |
-|------------------|------|---------------------|----------------------------|
-| Juan Gamarra     | 23   | San Martin de Porres | [Entrevista #3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213404_upc_edu_pe/EVorEH1PtO5BntEwErui7x0BqLI1fMt3M6fiFzceg8J-IA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=zjfE83) |
-| Sebastian Silva     | 21   | Ate                 | [Entrevista #4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213404_upc_edu_pe/EfqJMn9lKy5Bqmafd2YvZoUBXnDhfnypzLGkngZ8HKzfPQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=co6ewQ) |
 
+| Nombre          | Edad | Domicilio            | Enlace al Video                                                                                                                                                                                                                                                                                                                              |
+| --------------- | ---- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Juan Gamarra    | 23   | San Martin de Porres | [Entrevista #3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213404_upc_edu_pe/EVorEH1PtO5BntEwErui7x0BqLI1fMt3M6fiFzceg8J-IA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=zjfE83) |
+| Sebastian Silva | 21   | Ate                  | [Entrevista #4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213404_upc_edu_pe/EfqJMn9lKy5Bqmafd2YvZoUBXnDhfnypzLGkngZ8HKzfPQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=co6ewQ) |
 
 **Resumen de la Entrevista - Juan Gamarra**:  
 Juan Gamarra opina que es una pagina sencilla con la cual se puede trabajar y que tiene las pestañas claras para un correcto desplazamiento, que se debe centrar la informacion para que no se sienta todo muy acumlado a la vez que le gustaria poder mas rutas de buses en la pagina web.
@@ -3305,37 +3314,38 @@ Sebastian Silva opina que es una pagina sencilla con la cual se realiza todo de 
 ## 6.3.3 Evaluación Según Heurísticas
 
 ### Segmento 1
-| Entrevistado     | Heurística                   | Evaluación                                                                 |
-|------------------|------------------------------|---------------------------------------------------------------------------|
-| Alejandra Neyra  | Claridad de la Información   | La información sobre promociones y pagos es clara y fácil de entender. Sin embargo, sugiere que algunas secciones podrían ser más descriptivas para mejorar la comprensión. |
-|                  | Facilidad de Navegación      | Encuentra la navegación fácil e intuitiva, aunque en ocasiones le gustaría ver más indicaciones visuales para ubicar funciones específicas. |
-|                  | Satisfacción General         | Generalmente satisfecha, valora las promociones y la facilidad de pago, pero menciona que podría mejorar la orientación en ciertas secciones. |
-| Martin Rioja     | Claridad de la Información   | Aunque la información general es clara, considera que la descripción de las rutas es insuficiente, lo que limita la comprensión para los usuarios. |
-|                  | Facilidad de Navegación      | Encuentra la navegación fácil y el diseño intuitivo. Sin embargo, sugiere que algunas secciones podrían ser menos densas en contenido visual para no saturar la vista. |
-|                  | Satisfacción General         | Satisfecho en general, pero menciona que la falta de detalles en las rutas reduce la utilidad de la página para nuevos usuarios. |
+
+| Entrevistado    | Heurística                 | Evaluación                                                                                                                                                                  |
+| --------------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Alejandra Neyra | Claridad de la Información | La información sobre promociones y pagos es clara y fácil de entender. Sin embargo, sugiere que algunas secciones podrían ser más descriptivas para mejorar la comprensión. |
+|                 | Facilidad de Navegación    | Encuentra la navegación fácil e intuitiva, aunque en ocasiones le gustaría ver más indicaciones visuales para ubicar funciones específicas.                                 |
+|                 | Satisfacción General       | Generalmente satisfecha, valora las promociones y la facilidad de pago, pero menciona que podría mejorar la orientación en ciertas secciones.                               |
+| Martin Rioja    | Claridad de la Información | Aunque la información general es clara, considera que la descripción de las rutas es insuficiente, lo que limita la comprensión para los usuarios.                          |
+|                 | Facilidad de Navegación    | Encuentra la navegación fácil y el diseño intuitivo. Sin embargo, sugiere que algunas secciones podrían ser menos densas en contenido visual para no saturar la vista.      |
+|                 | Satisfacción General       | Satisfecho en general, pero menciona que la falta de detalles en las rutas reduce la utilidad de la página para nuevos usuarios.                                            |
 
 ### Segmento 2
-| Entrevistado     | Heurística                   | Evaluación                                                                 |
-|------------------|------------------------------|---------------------------------------------------------------------------|
-| Juan Gamarra     | Claridad de la Información   | La información es clara, pero siente que está un poco acumulada en algunas secciones, lo que puede dificultar la lectura rápida. |
-|                  | Facilidad de Navegación      | Le resulta fácil moverse entre las pestañas, aunque menciona que en dispositivos móviles algunas opciones son menos accesibles. |
-|                  | Satisfacción General         | Moderadamente satisfecho; sugiere que incluir más rutas de buses y mejorar la disposición visual podría incrementar la usabilidad. |
-| Sebastian Silva  | Claridad de la Información   | Considera que la información es clara y completa para sus necesidades, aunque le gustaría ver más opciones de personalización en la interfaz. |
-|                  | Facilidad de Navegación      | La navegación le parece rápida y sin complicaciones, pero opina que podría beneficiarse de un botón de “volver” en algunas secciones. |
-|                  | Satisfacción General         | Muy satisfecho con la funcionalidad y la accesibilidad de la información, aunque cree que la personalización aumentaría su satisfacción. |
 
-
-
+| Entrevistado    | Heurística                 | Evaluación                                                                                                                                    |
+| --------------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Juan Gamarra    | Claridad de la Información | La información es clara, pero siente que está un poco acumulada en algunas secciones, lo que puede dificultar la lectura rápida.              |
+|                 | Facilidad de Navegación    | Le resulta fácil moverse entre las pestañas, aunque menciona que en dispositivos móviles algunas opciones son menos accesibles.               |
+|                 | Satisfacción General       | Moderadamente satisfecho; sugiere que incluir más rutas de buses y mejorar la disposición visual podría incrementar la usabilidad.            |
+| Sebastian Silva | Claridad de la Información | Considera que la información es clara y completa para sus necesidades, aunque le gustaría ver más opciones de personalización en la interfaz. |
+|                 | Facilidad de Navegación    | La navegación le parece rápida y sin complicaciones, pero opina que podría beneficiarse de un botón de “volver” en algunas secciones.         |
+|                 | Satisfacción General       | Muy satisfecho con la funcionalidad y la accesibilidad de la información, aunque cree que la personalización aumentaría su satisfacción.      |
 
 ---
 
 # Capítulo VII: DevOps Practices
+
 ## 7.1. Continuous Integration
+
 ### 7.1.1. Tools and Practices
 
 Para poder garantizar que el software desarrollado cumple con las especificaciones y se puedan realizar pruebas fácilmente dentro de la aplicación, se van a utilizar las siguientes herramientas:
 
- **Jenkins**
+**Jenkins**
 Servidor de código abierto que sirve para compilar y probar aplicaciones de software de forma continua.
 
 **JUnit**
@@ -3355,8 +3365,8 @@ Cada una de estas herramientas permitirá al grupo realizar pruebas y garantizar
 
 ![image](https://github.com/user-attachments/assets/ca176743-ca02-4821-a4ff-23e67d68c983)
 
-
 ## 7.2. Continuous Delivery
+
 ### 7.2.1. Tools and Practices
 
 En el marco del proceso de despliegue continuo (CD), se emplea Jenkins Pipeline como una herramienta central para automatizar la entrega de software. Jenkins Pipeline permite definir los pasos del proceso de construcción, prueba y despliegue como código, lo que facilita la creación y gestión de flujos de trabajo complejos de forma eficiente y flexible.
@@ -3365,14 +3375,14 @@ Además, se hace uso de NPM (Node Package Manager) como gestor de paquetes para 
 
 En el contexto de Jenkins Pipeline, se integra NPM como parte del proceso de construcción y despliegue de la aplicación. Esto incluye la instalación de dependencias utilizando el comando npm install, la ejecución de scripts de construcción y prueba definidos en el archivo package.json, y el despliegue de la aplicación utilizando los comandos específicos proporcionados por NPM, como npm run deploy.
 
-
 ### 7.2.2. Stages Deployment Pipeline Components
 
 ![image](https://github.com/user-attachments/assets/e70b69ea-ec28-4246-99ca-a8dc889abef8)
 
 ![image](https://github.com/user-attachments/assets/8e0db0f2-84fb-4131-91a1-33aab73ce6ca)
 
-## 7.3. Continuous Deployment   
+## 7.3. Continuous Deployment
+
 ### 7.3.1. Tools and Practices
 
 En el proceso de Continuous Deployment (CD), el objetivo principal es automatizar el despliegue de la aplicación en los entornos de producción de manera continua y sin intervención manual, siempre y cuando todas las pruebas hayan sido exitosas. Las herramientas y prácticas utilizadas en este proceso son clave para garantizar una entrega rápida, confiable y sin errores. A continuación, se detallan las herramientas utilizadas para el Continuous Deployment:
@@ -3393,36 +3403,37 @@ Jenkins Pipeline: Se utiliza como la herramienta principal para automatizar el f
 
 ## 7.4. Continuous Monitoring
 
-
 El monitoreo continuo implementado en TrackRoute ha transformado la gestión del transporte público en Lima, proporcionando una supervisión en tiempo real de las rutas y del comportamiento de desplazamiento de los pasajeros. A través de un sistema de monitoreo avanzado, las empresas de transporte ahora pueden acceder a datos actualizados sobre la ubicación de los autobuses, condiciones del tráfico y el cumplimiento de los horarios. Este monitoreo se traduce en dashboards y reportes dinámicos que permiten a los gerentes de operaciones realizar ajustes rápidos y eficientes según las condiciones de cada ruta.
 
 Gracias a este sistema, TrackRoute detecta de manera temprana problemas como retrasos o congestión, permitiendo que las empresas respondan proactivamente y optimicen sus servicios en tiempo real. Para los pasajeros, el monitoreo continuo garantiza información precisa sobre los tiempos de llegada y disponibilidad de autobuses, mejorando significativamente la experiencia de viaje y reduciendo la incertidumbre en los tiempos de espera. Este enfoque integral no solo ha mejorado la eficiencia operativa de las empresas de transporte, sino que también ha elevado la satisfacción de los usuarios al brindarles un servicio más confiable y puntual.
 
-
 # Capítulo VIII: Experiment-Driven Development
+
 ## 8.1. Experiment Planning
+
 ### 8.1.1. As-Is Summary
+
 Route-Logic es una plataforma la cual está dirigida a que los pasajeros que buscan un transporte
-público puedan encontrar la ruta mas eficiente para llegar a  sus destinos, por medio de dichos transportes. 
-Esta plataforma permite que  los usuarios puedan planificar sus viajes de forma eficaz, al igual que tener
-información acerca de las rutas actuales de sus medios de transporte y disponibilidad de estos mismos. 
+público puedan encontrar la ruta mas eficiente para llegar a sus destinos, por medio de dichos transportes.
+Esta plataforma permite que los usuarios puedan planificar sus viajes de forma eficaz, al igual que tener
+información acerca de las rutas actuales de sus medios de transporte y disponibilidad de estos mismos.
 De igual manera, esta plataforma ayuda a que las empresas de transporte puedan promover sus servicios
 de forma precisa.
-Route-Logic esta desarrollado con el framework de Vue.js y .NET 
+Route-Logic esta desarrollado con el framework de Vue.js y .NET
 
-### 8.1.2.  Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims.
+### 8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims.
+
 **Assumptions:**
 
-- Se asume que los usuarios buscan encontrar la mejor ruta para un medio de transporte al momento como dentro de un rango de tiempo específico. 
-- Se asume que la aplicación es la mejor opción para que los pasajeros tengan información sobre medios de transporte y sus rutas en la ciudad. 
+- Se asume que los usuarios buscan encontrar la mejor ruta para un medio de transporte al momento como dentro de un rango de tiempo específico.
+- Se asume que la aplicación es la mejor opción para que los pasajeros tengan información sobre medios de transporte y sus rutas en la ciudad.
 - Se asume que la aplicación generará una cantidad considerable de usuarios los cuales usan el aplicativo con frecuencia.
-- Se asume que las empresas de transporte encuentran un valor significativo para promover su negocio dentro de nuestra aplicación. 
+- Se asume que las empresas de transporte encuentran un valor significativo para promover su negocio dentro de nuestra aplicación.
 
 **Knowledge Gaps:**
 
 - No se tiene conocimiento sobre aplicaciones que proporcionen los mismos beneficios en Peru.
 - No se tiene conocimiento acerca de un grupo fijo de usuarios debido a falta de entrevistas.
-
 
 **Ideas:**
 
@@ -3432,142 +3443,180 @@ Route-Logic esta desarrollado con el framework de Vue.js y .NET
 
 **Claims:**
 
-- El proposito de la aplicacion es brindar la ruta mas eficiente a un usuario para que puede llegar a su destino. 
+- El proposito de la aplicacion es brindar la ruta mas eficiente a un usuario para que puede llegar a su destino.
 - La aplicación permite que las empresas de transporte puedan ampliar el alcance de sus negocios.
 - La aplicacion ayuda a planificar un viaje preciso y con informacion a tiempo real.
 
-
 ### 8.1.3. Experiment-Ready Question
+
 - ¿Cuál es la cantidad de usuarios registrados que usan la aplicación para obtener rutas en un dia cotidiano?
 - ¿Cuál es el nivel de satisfacción de los usuarios que interactúan con nuestra aplicación en comparación a su interacción con otras aplicaciones similares?
 - ¿Qué nivel de conocimiento tecnológico tienen las personas que usan transporte público de manera regular para que puedan hacer uso del aplicativo?
 - ¿Qué cantidad de personas han sido beneficiadas en cuanto a la eficacia en llegar a sus destinos desde que comenzaron a usar nuestra aplicación?
 
-
-| Pregunta | Confianza | Riesgo | Impacto | Interés | Total Score |
-|-----------|-----------|-----------|-----------|-----------|-----------|
-| ¿Cuál es la cantidad de usuarios registrados que usan la aplicación para obtener rutas en un día cotidiano?    | 8    | 6    | 8    | 9    | 31   |
-| ¿Cuál es el nivel de satisfacción de los usuarios que interactúan con nuestra aplicación en comparación a su interacción con otras aplicaciones similares?    | 8    | 5    | 8    | 8    | 29    |
-| ¿Qué nivel de conocimiento tecnológico tienen las personas que usan transporte público de manera regular para que puedan hacer uso del aplicativo?   | 7    | 7    | 8    | 8    | 30    |
-| ¿Qué cantidad de personas han sido beneficiadas en cuanto a la eficacia en llegar a sus destinos desde que comenzaron a usar nuestra aplicación?    | 8    | 5    | 8  | 9    | 30    |
-
+| Pregunta                                                                                                                                                   | Confianza | Riesgo | Impacto | Interés | Total Score |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------ | ------- | ------- | ----------- |
+| ¿Cuál es la cantidad de usuarios registrados que usan la aplicación para obtener rutas en un día cotidiano?                                                | 8         | 6      | 8       | 9       | 31          |
+| ¿Cuál es el nivel de satisfacción de los usuarios que interactúan con nuestra aplicación en comparación a su interacción con otras aplicaciones similares? | 8         | 5      | 8       | 8       | 29          |
+| ¿Qué nivel de conocimiento tecnológico tienen las personas que usan transporte público de manera regular para que puedan hacer uso del aplicativo?         | 7         | 7      | 8       | 8       | 30          |
+| ¿Qué cantidad de personas han sido beneficiadas en cuanto a la eficacia en llegar a sus destinos desde que comenzaron a usar nuestra aplicación?           | 8         | 5      | 8       | 9       | 30          |
 
 ### 8.1.4. Questions Backlog
-| Prioridad | Preguntas |
-|-----------|-----------|
-| 8    | ¿Qué cantidad de personas han sido beneficiadas en cuanto a la eficacia en llegar a sus destinos desde que comenzaron a usar nuestra aplicación?    |
-| 8    | ¿Cuál es la cantidad de usuarios registrados que usan la aplicación para obtener rutas en un día cotidiano?    |
-| 8    | ¿Cuál es el nivel de satisfacción de los usuarios que interactúan con nuestra aplicación en comparación a su interacción con otras aplicaciones similares?    |
-| 5    | ¿Qué nivel de conocimiento tecnológico tienen las personas que usan transporte público de manera regular para que puedan hacer uso del aplicativo?    |
 
+| Prioridad | Preguntas                                                                                                                                                  |
+| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 8         | ¿Qué cantidad de personas han sido beneficiadas en cuanto a la eficacia en llegar a sus destinos desde que comenzaron a usar nuestra aplicación?           |
+| 8         | ¿Cuál es la cantidad de usuarios registrados que usan la aplicación para obtener rutas en un día cotidiano?                                                |
+| 8         | ¿Cuál es el nivel de satisfacción de los usuarios que interactúan con nuestra aplicación en comparación a su interacción con otras aplicaciones similares? |
+| 5         | ¿Qué nivel de conocimiento tecnológico tienen las personas que usan transporte público de manera regular para que puedan hacer uso del aplicativo?         |
 
 ### 8.1.5. Experiment Cards
-| QUESTION | ¿Cuál es la cantidad de usuarios registrados que usan la aplicación para obtener rutas en un día cotidiano? |
-|-----------|-----------|
-| WHY    | Si tenemos en cuenta la cantidad de usuarios registrados que usan la aplicación en su dia a dia podremos corroborar la eficacia de las estrategias para atraer usuarios.    |
-| WHAT    | Implementar una funcion interna para obtener estadisticas acerca de  la cantidad de usuarios activos en relacion a los registrados    |
-| HYPOTHESIS    | Creemos que al tener datos estadisticos acerca de nuestros usuarios activos podremos implementar estrategias para motivar a que los usuarios registrados vuelvan a la aplicación en un 10% inicialmente.    |
 
+| QUESTION   | ¿Cuál es la cantidad de usuarios registrados que usan la aplicación para obtener rutas en un día cotidiano?                                                                                              |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| WHY        | Si tenemos en cuenta la cantidad de usuarios registrados que usan la aplicación en su dia a dia podremos corroborar la eficacia de las estrategias para atraer usuarios.                                 |
+| WHAT       | Implementar una funcion interna para obtener estadisticas acerca de la cantidad de usuarios activos en relacion a los registrados                                                                        |
+| HYPOTHESIS | Creemos que al tener datos estadisticos acerca de nuestros usuarios activos podremos implementar estrategias para motivar a que los usuarios registrados vuelvan a la aplicación en un 10% inicialmente. |
 
-| QUESTION | ¿Cuál es el nivel de satisfacción de los usuarios que interactúan con nuestra aplicación en comparación a su interacción con otras aplicaciones similares? |
-|-----------|-----------|
-| WHY    | Para tener conocimiento de que logramos llamar la atención de los usuarios y que logramos sobreponernos ante la competencia    |
-| WHAT    | Implementar encuestas en las cuales los usuarios nos den valoraciones acerca de su experiencia con la aplicación.    |
-| HYPOTHESIS    | Creemos que al identificar los niveles de satisfacción e insatisfacción de los usuarios con nuestra aplicación podremos implementar mejoras las cuales las cuales cambiarán la percepción de los usuarios en un 15% .   |
+| QUESTION   | ¿Cuál es el nivel de satisfacción de los usuarios que interactúan con nuestra aplicación en comparación a su interacción con otras aplicaciones similares?                                                            |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| WHY        | Para tener conocimiento de que logramos llamar la atención de los usuarios y que logramos sobreponernos ante la competencia                                                                                           |
+| WHAT       | Implementar encuestas en las cuales los usuarios nos den valoraciones acerca de su experiencia con la aplicación.                                                                                                     |
+| HYPOTHESIS | Creemos que al identificar los niveles de satisfacción e insatisfacción de los usuarios con nuestra aplicación podremos implementar mejoras las cuales las cuales cambiarán la percepción de los usuarios en un 15% . |
 
+| QUESTION   | ¿Qué nivel de conocimiento tecnológico tienen las personas que usan transporte público de manera regular para que puedan hacer uso del aplicativo?                                                                                                           |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| WHY        | Para saber a qué público está orientado principalmente la aplicación y qué se puede hacer para ayudar a que el resto de personas puedan hacer uso de la aplicación.                                                                                          |
+| WHAT       | Entrevistar a usuarios aleatorios en las calles para conocer su nivel tecnológico y que tanto usan dispositivos electrónicos para planificar sus viajes.                                                                                                     |
+| HYPOTHESIS | Creemos que al conocer que tanto usuarios pasajeros usan dispositivos electrónicos al planificar sus viajes podremos desarrollar estrategias para que más personas hagan uso de estos dispositivos y mejorar la eficacia de viaje de los usuarios en un 20%. |
 
-| QUESTION | ¿Qué nivel de conocimiento tecnológico tienen las personas que usan transporte público de manera regular para que puedan hacer uso del aplicativo? |
-|-----------|-----------|
-| WHY    | Para saber a qué público está orientado principalmente la aplicación y qué se puede hacer para ayudar a que el resto de personas puedan hacer uso de la aplicación.    |
-| WHAT    | Entrevistar a usuarios aleatorios en las calles para conocer su nivel tecnológico y que tanto usan dispositivos electrónicos para planificar sus viajes.    |
-| HYPOTHESIS    | Creemos que al conocer que tanto usuarios pasajeros usan dispositivos electrónicos al planificar sus viajes podremos desarrollar estrategias para que más personas hagan uso de estos dispositivos y mejorar la eficacia de viaje de los usuarios en un 20%.    |
-
-
-| QUESTION | ¿Qué cantidad de personas han sido beneficiadas en cuanto a la eficacia en llegar a sus destinos desde que comenzaron a usar nuestra aplicación? |
-|-----------|-----------|
-| WHY    | Para saber si nuestros algoritmos dentro de la aplicación funcionan de manera correcta y poder ofrecer un producto de calidad a los usuarios.    |
-| WHAT    | Implementar una sección para que los usuarios publiquen comentarios acerca de la aplicación y tomar en cuenta el feedback brindado.    |
-| HYPOTHESIS    | Creemos que al obtener comentarios por parte de los usuarios y conocer la eficacia de nuestra aplicación podremos seguir ofreciendo una aplicación de calidad y así aumentar nuestros usuarios en un 10% en los próximos 3 meses.    |
-
-
+| QUESTION   | ¿Qué cantidad de personas han sido beneficiadas en cuanto a la eficacia en llegar a sus destinos desde que comenzaron a usar nuestra aplicación?                                                                                  |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| WHY        | Para saber si nuestros algoritmos dentro de la aplicación funcionan de manera correcta y poder ofrecer un producto de calidad a los usuarios.                                                                                     |
+| WHAT       | Implementar una sección para que los usuarios publiquen comentarios acerca de la aplicación y tomar en cuenta el feedback brindado.                                                                                               |
+| HYPOTHESIS | Creemos que al obtener comentarios por parte de los usuarios y conocer la eficacia de nuestra aplicación podremos seguir ofreciendo una aplicación de calidad y así aumentar nuestros usuarios en un 10% en los próximos 3 meses. |
 
 # 8.2 Experiment Design
 
 ## 8.2.1 Hypotheses
+
 Se espera que los usuarios de la aplicación TrackMyRoute puedan mejorar su eficiencia en el seguimiento de rutas en un %, reduciendo el tiempo de planificación y aumentando la precisión en la estimación de tiempos de llegada.
 
 ## 8.2.2 Measures
+
 Para evaluar el éxito del experimento, se medirán los siguientes aspectos clave:
+
 - **Tiempo promedio para completar una tarea de planificación de ruta.**
 - **Porcentaje de errores o desviaciones en la ruta seleccionada.**
 - **Nivel de satisfacción del usuario** medido a través de encuestas posteriores a la tarea.
 
 ## 8.2.3 Conditions
+
 El experimento se llevará a cabo bajo dos condiciones principales:
+
 1. **Entorno controlado**: Pruebas en un entorno de laboratorio donde se simulan rutas específicas.
 2. **Escenario real**: Pruebas en un entorno real donde los usuarios realizan la planificación de rutas en situaciones cotidianas.
 
 ## 8.2.4 Scale Calculations and Decisions
+
 Para obtener resultados significativos, se planea realizar pruebas con al menos 50 usuarios en cada grupo de condiciones. Este tamaño de muestra permitirá realizar comparaciones estadísticas entre los dos entornos.
 
 ## 8.2.5 Methods Selection
+
 Se utilizarán los siguientes métodos de recolección de datos:
+
 - **Encuestas de satisfacción** al finalizar cada tarea.
 - **Análisis de logs de comportamiento** para monitorear el tiempo y los eventos de la aplicación.
 - **Entrevistas** a una selección de usuarios para obtener retroalimentación cualitativa.
 
 ## 8.2.6 Data Analytics: Goals, KPIs, and Metrics Selection
+
 Los objetivos de análisis de datos incluyen evaluar la precisión y satisfacción del usuario. Se medirán los siguientes KPIs:
+
 - **Tasa de adopción de la funcionalidad de planificación de rutas.**
 - **Tiempo promedio de uso por sesión.**
 - **Índice de precisión en la estimación de tiempos de llegada.**
 
 ## 8.2.7 Web and Mobile Tracking Plan
+
 Se implementará un plan de seguimiento tanto para la versión web como móvil de la aplicación. Se rastrearán los siguientes eventos:
+
 - Inicio de sesión y frecuencia de uso de la aplicación.
 - Acceso a funcionalidades clave, como la planificación de rutas y visualización de mapas.
 - Duración de la sesión y eventos de interacción específicos, utilizando herramientas como Google Analytics y Firebase.
-
 
 ## 8.3. Experimentation
 
 ### 8.3.1. To-Be User Stories
 
-| ID   | User Story                                                                                                                             | Criterios de Aceptación                                                                                                                                                                                                                                                |
-|------|----------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| US01 | Como usuario frecuente de transporte público, quiero ver una lista de las rutas más eficientes en tiempo real, para optimizar mi viaje diario. | - La aplicación debe mostrar las rutas actualizadas en tiempo real.<br> - El sistema debe sugerir rutas alternativas en caso de alta congestión o problemas de transporte.                                                                                             |
-| US02 | Como administrador de una empresa de transporte, quiero poder promocionar nuestras rutas y servicios a través de la plataforma, para atraer más usuarios. | - El administrador debe tener acceso a una interfaz donde pueda publicar rutas, horarios y tarifas.<br> - El administrador debe poder ver estadísticas sobre el alcance de sus anuncios.                                                                                |
-| US03 | Como usuario de la aplicación, quiero poder proporcionar retroalimentación sobre mi experiencia usando la aplicación, para que los desarrolladores puedan hacer mejoras. | - La aplicación debe tener una sección donde el usuario pueda escribir comentarios y asignar una calificación.<br> - La aplicación debe recolectar y analizar los comentarios de manera periódica para su análisis.                                                   |
-| US04 | Como usuario, quiero recibir sugerencias de rutas y mejoras en la planificación de mis viajes según mis preferencias de transporte, para optimizar mi tiempo de llegada. | - El usuario debe poder establecer preferencias de transporte (por ejemplo, evitar rutas largas o congestionadas).<br> - La aplicación debe recordar y ajustar las rutas sugeridas de acuerdo con las preferencias almacenadas.                                           |
-| US05 | Como equipo de desarrollo, queremos implementar encuestas automáticas que midan la satisfacción de los usuarios después de usar la aplicación, para evaluar nuestro rendimiento frente a la competencia. | - La encuesta debe activarse después de un número determinado de usos de la aplicación.<br> - Los datos de la encuesta deben almacenarse y analizarse regularmente para realizar mejoras en la experiencia del usuario.                                                  |
-| US06 | Como usuario, quiero recibir notificaciones sobre retrasos o interrupciones en mi ruta diaria, para ajustar mis planes a tiempo. | - El sistema debe enviar notificaciones automáticas en caso de cambios o retrasos importantes en las rutas frecuentes del usuario.<br> - Las notificaciones deben incluir alternativas sugeridas.                                                                        |
-| US07 | Como administrador, quiero poder gestionar el acceso de nuevos usuarios empresariales a la plataforma, para mantener la calidad de los servicios publicados. | - El administrador debe poder aprobar o rechazar solicitudes de registro de nuevas empresas en la plataforma.<br> - Debe existir un panel de control para administrar las cuentas empresariales.                                                                       |
-| US08 | Como usuario, quiero guardar mis rutas favoritas, para acceder fácilmente a ellas sin necesidad de buscarlas cada vez. | - El usuario debe poder marcar rutas como favoritas.<br> - La aplicación debe mostrar una lista de rutas favoritas accesible desde el menú principal.                                                                                                                  |
-| US09 | Como usuario, quiero poder planificar mis viajes con anticipación seleccionando fecha y hora específicas, para asegurarme de llegar a tiempo. | - La aplicación debe permitir ingresar fecha y hora para generar un plan de viaje.<br> - El sistema debe alertar al usuario si hay problemas previstos para la hora seleccionada (congestión, obras, etc.).                                                            |
-| US10 | Como equipo de desarrollo, queremos implementar análisis de uso para identificar patrones en el comportamiento de los usuarios, para mejorar la experiencia general. | - El sistema debe registrar datos de uso (frecuencia, rutas buscadas, retroalimentación, etc.).<br> - Los datos deben analizarse y presentarse en informes periódicos para detectar oportunidades de mejora.                                                             |
+| ID   | User Story                                                                                                                                                                                               | Criterios de Aceptación                                                                                                                                                                                                         |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| US01 | Como usuario frecuente de transporte público, quiero ver una lista de las rutas más eficientes en tiempo real, para optimizar mi viaje diario.                                                           | - La aplicación debe mostrar las rutas actualizadas en tiempo real.<br> - El sistema debe sugerir rutas alternativas en caso de alta congestión o problemas de transporte.                                                      |
+| US02 | Como administrador de una empresa de transporte, quiero poder promocionar nuestras rutas y servicios a través de la plataforma, para atraer más usuarios.                                                | - El administrador debe tener acceso a una interfaz donde pueda publicar rutas, horarios y tarifas.<br> - El administrador debe poder ver estadísticas sobre el alcance de sus anuncios.                                        |
+| US03 | Como usuario de la aplicación, quiero poder proporcionar retroalimentación sobre mi experiencia usando la aplicación, para que los desarrolladores puedan hacer mejoras.                                 | - La aplicación debe tener una sección donde el usuario pueda escribir comentarios y asignar una calificación.<br> - La aplicación debe recolectar y analizar los comentarios de manera periódica para su análisis.             |
+| US04 | Como usuario, quiero recibir sugerencias de rutas y mejoras en la planificación de mis viajes según mis preferencias de transporte, para optimizar mi tiempo de llegada.                                 | - El usuario debe poder establecer preferencias de transporte (por ejemplo, evitar rutas largas o congestionadas).<br> - La aplicación debe recordar y ajustar las rutas sugeridas de acuerdo con las preferencias almacenadas. |
+| US05 | Como equipo de desarrollo, queremos implementar encuestas automáticas que midan la satisfacción de los usuarios después de usar la aplicación, para evaluar nuestro rendimiento frente a la competencia. | - La encuesta debe activarse después de un número determinado de usos de la aplicación.<br> - Los datos de la encuesta deben almacenarse y analizarse regularmente para realizar mejoras en la experiencia del usuario.         |
+| US06 | Como usuario, quiero recibir notificaciones sobre retrasos o interrupciones en mi ruta diaria, para ajustar mis planes a tiempo.                                                                         | - El sistema debe enviar notificaciones automáticas en caso de cambios o retrasos importantes en las rutas frecuentes del usuario.<br> - Las notificaciones deben incluir alternativas sugeridas.                               |
+| US07 | Como administrador, quiero poder gestionar el acceso de nuevos usuarios empresariales a la plataforma, para mantener la calidad de los servicios publicados.                                             | - El administrador debe poder aprobar o rechazar solicitudes de registro de nuevas empresas en la plataforma.<br> - Debe existir un panel de control para administrar las cuentas empresariales.                                |
+| US08 | Como usuario, quiero guardar mis rutas favoritas, para acceder fácilmente a ellas sin necesidad de buscarlas cada vez.                                                                                   | - El usuario debe poder marcar rutas como favoritas.<br> - La aplicación debe mostrar una lista de rutas favoritas accesible desde el menú principal.                                                                           |
+| US09 | Como usuario, quiero poder planificar mis viajes con anticipación seleccionando fecha y hora específicas, para asegurarme de llegar a tiempo.                                                            | - La aplicación debe permitir ingresar fecha y hora para generar un plan de viaje.<br> - El sistema debe alertar al usuario si hay problemas previstos para la hora seleccionada (congestión, obras, etc.).                     |
+| US10 | Como equipo de desarrollo, queremos implementar análisis de uso para identificar patrones en el comportamiento de los usuarios, para mejorar la experiencia general.                                     | - El sistema debe registrar datos de uso (frecuencia, rutas buscadas, retroalimentación, etc.).<br> - Los datos deben analizarse y presentarse en informes periódicos para detectar oportunidades de mejora.                    |
 
 ### 8.3.2. To-Be Product Backlog
 
-| Prioridad | Historia de Usuario                       | Descripción                                                                                                  | Tareas                                                                                                                                                         |
-|-----------|-------------------------------------------|--------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Alta      | Implementación de rutas en tiempo real    | Desarrollar la funcionalidad para mostrar las rutas más eficientes y en tiempo real a los usuarios.          | 1. Desarrollar la lógica para el cálculo de rutas en tiempo real.<br>2. Integrar con APIs de transporte público.<br>3. Probar y validar la precisión de rutas. |
-| Alta      | Interfaz de administración para empresas  | Crear una interfaz para que los administradores puedan promocionar sus servicios y ver estadísticas.         | 1. Desarrollar la interfaz de administración.<br>2. Implementar sistema de publicación de rutas.<br>3. Añadir sección de estadísticas de alcance.            |
-| Media     | Sección de retroalimentación de usuarios  | Crear una funcionalidad donde los usuarios puedan dejar comentarios y calificaciones sobre la aplicación.    | 1. Desarrollar la sección de retroalimentación.<br>2. Almacenar comentarios en la base de datos.<br>3. Crear un panel para analizar los comentarios.          |
-| Alta      | Notificaciones de retrasos o interrupciones | Implementar un sistema de notificaciones automáticas en caso de problemas en rutas.                         | 1. Integrar APIs de monitoreo de tráfico.<br>2. Crear sistema de alertas para usuarios afectados.<br>3. Probar y optimizar la funcionalidad.                  |
-| Media     | Gestión de cuentas empresariales          | Desarrollar un panel para aprobar y administrar cuentas empresariales.                                       | 1. Crear un sistema de registro para empresas.<br>2. Implementar lógica de aprobación/rechazo.<br>3. Diseñar interfaz para administrar cuentas.              |
-| Alta      | Guardar rutas favoritas                   | Permitir a los usuarios marcar y acceder fácilmente a sus rutas más usadas.                                  | 1. Añadir opción de favoritos en la interfaz de usuario.<br>2. Crear lógica para almacenar rutas favoritas.<br>3. Implementar sección de favoritos.          |
-| Media     | Planificación anticipada de viajes        | Diseñar funcionalidad para planificar viajes en fechas y horarios específicos.                               | 1. Añadir calendario y selector de horario.<br>2. Integrar predicciones de congestión.<br>3. Probar y validar funcionalidad.                                 |
-| Alta      | Análisis de patrones de uso               | Implementar análisis de datos para identificar comportamientos y preferencias de usuarios.                   | 1. Crear lógica para recolectar datos de uso.<br>2. Diseñar panel para visualización de estadísticas.<br>3. Generar informes periódicos para el equipo.       |
+| Prioridad | Historia de Usuario                         | Descripción                                                                                               | Tareas                                                                                                                                                         |
+| --------- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Alta      | Implementación de rutas en tiempo real      | Desarrollar la funcionalidad para mostrar las rutas más eficientes y en tiempo real a los usuarios.       | 1. Desarrollar la lógica para el cálculo de rutas en tiempo real.<br>2. Integrar con APIs de transporte público.<br>3. Probar y validar la precisión de rutas. |
+| Alta      | Interfaz de administración para empresas    | Crear una interfaz para que los administradores puedan promocionar sus servicios y ver estadísticas.      | 1. Desarrollar la interfaz de administración.<br>2. Implementar sistema de publicación de rutas.<br>3. Añadir sección de estadísticas de alcance.              |
+| Media     | Sección de retroalimentación de usuarios    | Crear una funcionalidad donde los usuarios puedan dejar comentarios y calificaciones sobre la aplicación. | 1. Desarrollar la sección de retroalimentación.<br>2. Almacenar comentarios en la base de datos.<br>3. Crear un panel para analizar los comentarios.           |
+| Alta      | Notificaciones de retrasos o interrupciones | Implementar un sistema de notificaciones automáticas en caso de problemas en rutas.                       | 1. Integrar APIs de monitoreo de tráfico.<br>2. Crear sistema de alertas para usuarios afectados.<br>3. Probar y optimizar la funcionalidad.                   |
+| Media     | Gestión de cuentas empresariales            | Desarrollar un panel para aprobar y administrar cuentas empresariales.                                    | 1. Crear un sistema de registro para empresas.<br>2. Implementar lógica de aprobación/rechazo.<br>3. Diseñar interfaz para administrar cuentas.                |
+| Alta      | Guardar rutas favoritas                     | Permitir a los usuarios marcar y acceder fácilmente a sus rutas más usadas.                               | 1. Añadir opción de favoritos en la interfaz de usuario.<br>2. Crear lógica para almacenar rutas favoritas.<br>3. Implementar sección de favoritos.            |
+| Media     | Planificación anticipada de viajes          | Diseñar funcionalidad para planificar viajes en fechas y horarios específicos.                            | 1. Añadir calendario y selector de horario.<br>2. Integrar predicciones de congestión.<br>3. Probar y validar funcionalidad.                                   |
+| Alta      | Análisis de patrones de uso                 | Implementar análisis de datos para identificar comportamientos y preferencias de usuarios.                | 1. Crear lógica para recolectar datos de uso.<br>2. Diseñar panel para visualización de estadísticas.<br>3. Generar informes periódicos para el equipo.        |
 
 ### 8.3.3 Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle
+
 #### 8.3.3.1 To-Be Sprint Backlogs
+
+### 8.3.3.1 To-Be Sprint Backlogs
+
+| **#Orden** | **User Story ID** | **Título**                           | **ID** | **Tareas**                                                                                                                                                   | **Estado** | **Horas** |
+| ---------- | ----------------- | ------------------------------------ | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------- |
+| 1          | US-01             | Ver rutas eficientes en tiempo real  | W-01   | - Mostrar rutas actualizadas en tiempo real. <br> - Sugerir rutas alternativas en casos de congestión o problemas de transporte.                             | In Process | 5.0 h     |
+| 2          | US-02             | Promoción de servicios empresariales | W-02   | - Crear una interfaz para publicar rutas, horarios y tarifas. <br> - Añadir estadísticas de alcance de anuncios.                                             | To-Do      | 4.5 h     |
+| 3          | US-03             | Proporcionar retroalimentación       | W-03   | - Implementar sección para comentarios y calificaciones. <br> - Analizar y almacenar retroalimentación periódicamente.                                       | To-Do      | 3.5 h     |
+| 4          | US-04             | Sugerencias de rutas personalizadas  | W-04   | - Permitir al usuario establecer preferencias de transporte. <br> - Ajustar rutas sugeridas según las preferencias.                                          | To-Do      | 3.0 h     |
+| 5          | US-05             | Encuestas automáticas                | W-05   | - Implementar encuestas después de un número determinado de usos. <br> - Almacenar y analizar datos de encuestas regularmente.                               | To-Do      | 3.5 h     |
+| 6          | US-06             | Recibir notificaciones de retrasos   | W-06   | - Enviar notificaciones automáticas por cambios o retrasos. <br> - Proporcionar alternativas sugeridas en las alertas.                                       | In Process | 3.0 h     |
+| 7          | US-07             | Gestión de cuentas empresariales     | W-07   | - Aprobar/rechazar solicitudes de empresas. <br> - Diseñar panel para administrar cuentas empresariales.                                                     | To-Do      | 4.0 h     |
+| 8          | US-08             | Guardar rutas favoritas              | W-08   | - Permitir al usuario marcar rutas favoritas. <br> - Mostrar lista accesible de rutas favoritas desde el menú principal.                                     | Done       | 2.5 h     |
+| 9          | US-09             | Planificar viajes con anticipación   | W-09   | - Permitir seleccionar fecha y hora para planificar viajes. <br> - Alertar sobre problemas previstos en la hora seleccionada.                                | To-Do      | 3.5 h     |
+| 10         | US-10             | Análisis de patrones de uso          | W-10   | - Registrar datos de uso (frecuencia, rutas buscadas, retroalimentación, etc.). <br> - Generar informes periódicos para identificar oportunidades de mejora. | To-Do      | 4.5 h     |
+| 11         | US-11             | Landing Page                         | W-10   | - Implementacion del landing page en la app. <br> - Generar informes periódicos para identificar oportunidades de mejora.                                    | Done       | 4.5 h     |
+
 #### 8.3.3.2 Implemented To-Be Landing Page Evidence
+
+| **#Orden** | **User Story ID** | **Título**   | **ID** | **Tareas**                                                                                                                | **Estado** | **Horas** |
+| ---------- | ----------------- | ------------ | ------ | ------------------------------------------------------------------------------------------------------------------------- | ---------- | --------- |
+| 1          | US-11             | Landing Page | W-10   | - Implementación del landing page en la app. <br> - Generar informes periódicos para identificar oportunidades de mejora. | Done       | 4.5 h     |
+
+<div align="center">
+
+  <img src="image-report/landing_mockup.png">
+
+</div>
+
 #### 8.3.3.3 Implemented To-Be Frontend-Web Application Evidence
+
 #### 8.3.3.4 Implemented To-Be Native-Mobile Application Evidence
+
 #### 8.3.3.5 Implemented To-Be RESTful API and/or Serverless Backend Evidence
+
 #### 8.3.3.6 Team Collaboration Insights
 
-### 8.3.4 To-Be Validation Interviews 
+### 8.3.4 To-Be Validation Interviews
+
 #### 8.3.4.1 Diseño de Entrevistas.
 
 Llevaremos a cabo una serie de entrevistas de validacion que nos permitira evaluar nuestra aplicacion.
@@ -3582,35 +3631,36 @@ Llevaremos a cabo una serie de entrevistas de validacion que nos permitira evalu
 
 - ¿Qué aspectos mejorarias o cambiarias en la pagina para hacerla mas efectiva?
 
-
 #### 8.3.4.2 Registro de Entrevistas.
 
 ### Entrevista 1
+
 - **Nombre y Apellido:** Juan David Gamarra Beltran
 - **Edad:** 20
 - **Distrito:** San Martin de Porres
 - **Enlace:** [Entrevista Juan Gamarra ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213404_upc_edu_pe/Ef7FdABP_3lMih5miP4-kOwBoEmn5k1KX1gbiEVj0Ms_Lw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=izjFSg)
 - **Duración:** 6:26
 - **Resumen:**  
-  Juan es un joven estudiante que opina que es una pagina funcional que ofrece la busqueda de rutas de manera rapida y que ayudaria bastante, recomienda hacer el cambio de tema para incluir el modo oscuro.
-<img src="image-report/Entrevista_Juan_TF.png" alt="Preview de la entrevista" style="width: 100%; max-width: 400px; height: auto;">
-
+   Juan es un joven estudiante que opina que es una pagina funcional que ofrece la busqueda de rutas de manera rapida y que ayudaria bastante, recomienda hacer el cambio de tema para incluir el modo oscuro.
+  <img src="image-report/Entrevista_Juan_TF.png" alt="Preview de la entrevista" style="width: 100%; max-width: 400px; height: auto;">
 
 ---
 
-###  Entrevista 2
+### Entrevista 2
+
 - **Nombre y Apellido:** Estrella del Pilar Ticona Panduro
 - **Edad:** 19
 - **Distrito:** Rimac
-- **Enlace:** [Entrevista Estrella Ticona ]( https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213404_upc_edu_pe/EWaQYLnigVxGsWD-TMeGbh8BBqimWllTnUzCeKFzHVhBaA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=B71gWg)
+- **Enlace:** [Entrevista Estrella Ticona ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213404_upc_edu_pe/EWaQYLnigVxGsWD-TMeGbh8BBqimWllTnUzCeKFzHVhBaA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=B71gWg)
 - **Duración:** 7:08
 - **Resumen:**  
-  Estrella es una chica que usa tranportes publicos para irse de punto a punto y le parece muy util ya que puede tener el seguimiento de los paraderos y un mejor control de a donde quiere ir porque puede ver los paraderos y la ruta completa, opina que la carga de datos ha sido rapida y que se mejoraria a la hora de hacer las busquedas.
-<img src="image-report/Entrevista_Estrella_TF.png" alt="Preview de la entrevista" style="width: 100%; max-width: 400px; height: auto;">
+   Estrella es una chica que usa tranportes publicos para irse de punto a punto y le parece muy util ya que puede tener el seguimiento de los paraderos y un mejor control de a donde quiere ir porque puede ver los paraderos y la ruta completa, opina que la carga de datos ha sido rapida y que se mejoraria a la hora de hacer las busquedas.
+  <img src="image-report/Entrevista_Estrella_TF.png" alt="Preview de la entrevista" style="width: 100%; max-width: 400px; height: auto;">
 
 ---
 
 ## Entrevista 3
+
 - **Nombre y Apellido:** Elisa Mariafe Yataco Perez
 - **Edad:** 21
 - **Distrito:** Surco
@@ -3623,26 +3673,26 @@ Llevaremos a cabo una serie de entrevistas de validacion que nos permitira evalu
 
 ---
 
-###  Entrevista 4
+### Entrevista 4
+
 - **Nombre y Apellido:** Sebastian Valentino Silva Tirado
 - **Edad:** 22
 - **Distrito:** San Borja
 - **Enlace:** [Entrevista Sebastian](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213404_upc_edu_pe/EaHvLizkwzNNhVtLR_pCl78B0bXaRX9HDHFdT9nF6KV7cQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=1TNIbL)
 - **Duración:** 7:53
 - **Resumen:**  
-  Sebastian es una persona que le interesa saber la informacion de la ruta que va a tomar, le parece un diseño claro y un mapa completo para poder ver la ruta como el quiere, opina que deberia haber estadisticas de los gastos y que bus se toma mas para poder asi estudiarlo y tomar las medidas adecuadas.
- <img src="image-report/Entrevista_Sebastian_TF.png" alt="Preview de la entrevista" style="width: 100%; max-width: 400px; height: auto;">
+   Sebastian es una persona que le interesa saber la informacion de la ruta que va a tomar, le parece un diseño claro y un mapa completo para poder ver la ruta como el quiere, opina que deberia haber estadisticas de los gastos y que bus se toma mas para poder asi estudiarlo y tomar las medidas adecuadas.
+  <img src="image-report/Entrevista_Sebastian_TF.png" alt="Preview de la entrevista" style="width: 100%; max-width: 400px; height: auto;">
 
 ---
 
 ## 8.4 Experiment Aftermath & Analysis
+
 ## 8.4.1 Analysis and Interpretation of Results
+
 ## 8.4.2 Re-scored and Re-prioritized Question Backlog
 
-
-
-
-## 8.5. Continuous Learning 
+## 8.5. Continuous Learning
 
 La capacidad de aprendizaje continuo es clave para el éxito y la evolución de TrackMyRoute, permitiendo que el equipo incorpore lecciones aprendidas en el diseño, desarrollo y mejora de la aplicación. Esto asegura que la plataforma se mantenga alineada con las necesidades cambiantes de los usuarios y las mejores prácticas tecnológicas.
 
@@ -3673,14 +3723,12 @@ Análisis y síntesis:
 Documentación compartida: resúmenes de aprendizajes clave organizados en Confluence o Notion.
 Presentaciones: sesiones de retroalimentación periódicas para alinear al equipo en torno a las lecciones aprendidas.
 
-
 Implementación de mejoras:
 
 Priorizar y aplicar cambios basados en los aprendizajes documentados (por ejemplo, optimización de algoritmos de rutas o ajustes en la interfaz del usuario).
 Retroalimentación continua:
 
 Realizar ciclos iterativos de evaluación después de aplicar cambios, asegurando que las soluciones implementadas cumplan los objetivos deseados.
-
 
 ## 8.6. To-Be Software Platform Pre-Launch
 
@@ -3697,8 +3745,6 @@ Entrenamiento del equipo:
 <div align="center">
   <img src="./image-report/Dashboard-BuscarRutas-final.png"/>
 </div>
-
-
 
 Lanzar una campaña en redes sociales y realizar demostraciones en vivo para generar expectativa entre los usuarios.
 
@@ -3718,20 +3764,19 @@ Con este enfoque, TrackMyRoute estará preparada para ofrecer un servicio confia
 # Conclusiones
 
 - TB1:
-	Para esta entrega concluimos que es muy importante tener en cuenta la opinion de nuestros futuros usuarios, así como la ventaja competitiva que podemos brindar sobre nuestros competidores. Tambien concluimos que es necesaria una previa investigación y diseño de producto para tener claro los puntos principales de la aplicación.
+  Para esta entrega concluimos que es muy importante tener en cuenta la opinion de nuestros futuros usuarios, así como la ventaja competitiva que podemos brindar sobre nuestros competidores. Tambien concluimos que es necesaria una previa investigación y diseño de producto para tener claro los puntos principales de la aplicación.
 
 - TP:
   Concluimos que es importante tener un buen orden en el control de versiones o Git Flow, para que no haya conflictos a la hora de hacer las integraciones correpondientes.
 
-- TB2: 
+- TB2:
   En esta entrega comprendimos que cuando usamos metodologías ágiles en un proyecto trabajamos de manera más armoniona y beneficiosa en cuanto a eficacia.
 
 - TF: Para la entrega final de Trackmyroute, concluimos que la combinación de Vue.js para el frontend y .NET para el backend, junto con la implementación de Domain-Driven Design (DDD), ha sido una elección técnica robusta que nos permitió abordar la complejidad del dominio de nuestro proyecto de manera eficaz. A lo largo del desarrollo, aprendimos la importancia de mantener una arquitectura bien estructurada y cohesiva, lo cual facilitó la gestión y evolución del código. Aunque no hemos completado la aplicación en su totalidad, el proceso nos brindó valiosas lecciones sobre la integración de tecnologías modernas y metodologías de diseño avanzadas. La utilización de DDD nos permitió enfocar nuestro esfuerzo en el comportamiento del negocio, asegurando que las funcionalidades clave estuvieran alineadas con las necesidades del usuario final. Además, trabajar con Git Flow fue crucial para mantener un control de versiones ordenado y minimizar conflictos durante las integraciones. Finalmente, la adopción de metodologías ágiles nos ayudó a mejorar la colaboración del equipo y la eficacia en la entrega de resultados incrementales, lo que nos permitirá continuar el desarrollo de Trackmyroute con una base sólida y bien fundamentada.
 
-
 # Anexos
 
-Link Landing Page mockup: https://www.figma.com/proto/aJREmuLbY7nLlgmOTtjcW5/TrackMyRoute-Web?type=design&node-id=1-2&t=vpM8mg1HtrwmaE8b-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2&mode=design 
+Link Landing Page mockup: https://www.figma.com/proto/aJREmuLbY7nLlgmOTtjcW5/TrackMyRoute-Web?type=design&node-id=1-2&t=vpM8mg1HtrwmaE8b-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2&mode=design
 
 Link de prototipo: https://www.figma.com/proto/aJREmuLbY7nLlgmOTtjcW5/TrackMyRoute-Web?type=design&node-id=3-6&t=PO71zMM1GnVJDk1r-1&scaling=scale-down-width&page-id=1%3A3&starting-point-node-id=3%3A6&mode=design
 
@@ -3745,7 +3790,7 @@ Link Landing Page Desplegada: https://g2-aplicacionesweb-si91.github.io/Landing/
 
 Link Web App Desplegada: https://trackmyroute-appsweb123.web.app/login
 
-Link Web Service Desplegado: 
+Link Web Service Desplegado:
 
 Link video expo TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202020108_upc_edu_pe/EWG5NyVGtpVArTHxzr9npgMBf_cZyZDDOk5VOPT0KqlPWg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=djw7bV
 Link video expo TB2: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202020108_upc_edu_pe/EdrPQyFP1i5OrawuOG0juK0B6KVfb2Ak78IviFQ6IFKIkw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=huH7c0
