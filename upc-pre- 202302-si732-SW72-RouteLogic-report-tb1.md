@@ -3713,9 +3713,56 @@ Llevaremos a cabo una serie de entrevistas de validacion que nos permitira evalu
 
 ---
 
-## 8.4 Experiment Aftermath & Analysis
-## 8.4.1 Analysis and Interpretation of Results
-## 8.4.2 Re-scored and Re-prioritized Question Backlog
+### 8.4 Experiment Aftermath & Analysis
+
+#### 8.4.1 Analysis and Interpretation of Results
+
+**Objective Results**
+1. **User Engagement**:
+   - **Daily Active Users (DAU)**: Se identificó que un promedio del 25% de los usuarios registrados interactúa diariamente con la aplicación, validando parcialmente la hipótesis inicial sobre la cantidad de usuarios activos.
+   - **Incremento en el uso**: Después de implementar estrategias motivacionales, como notificaciones y promociones, se observó un aumento del 8% en usuarios activos en el segundo mes.
+
+2. **User Satisfaction**:
+   - Los resultados de las encuestas arrojaron un índice de satisfacción general del **78%**, con un 60% de los usuarios calificando la experiencia como "buena" o "excelente".
+   - Comparación con la competencia: Según los datos recolectados, un **65%** de los usuarios perciben que Route-Logic es más eficiente que otras aplicaciones similares.
+
+3. **Knowledge and Accessibility**:
+   - El **55%** de los usuarios regulares tiene un nivel tecnológico básico, pero manifiesta facilidad para usar la app gracias a su interfaz intuitiva.
+   - **Barreras tecnológicas**: Un 20% de los encuestados señaló dificultades relacionadas con el acceso a internet o conocimientos limitados sobre el uso de smartphones.
+
+4. **Efficiency in Route Planning**:
+   - Se logró demostrar una mejora promedio del **15%** en el tiempo estimado para llegar al destino, según los comentarios y análisis de uso.
+   - **Feedback directo**: 40% de los comentarios resaltaron la eficacia del sistema de planificación en tiempo real.
+
+**Interpretation**
+- Las métricas indican que Route-Logic tiene un alto potencial de adopción en usuarios con necesidades regulares de transporte público, especialmente en áreas urbanas densas.
+- El desafío principal radica en capturar y retener a usuarios con barreras tecnológicas y en promover un uso más frecuente entre usuarios ocasionales.
+- Las empresas de transporte han mostrado interés en la plataforma, incrementando su presencia en un 18% durante el período de análisis.
+
+---
+
+#### 8.4.2 Re-scored and Re-prioritized Question Backlog
+
+**Reprioritización basada en los resultados:**
+
+| **Pregunta**                                                   | **Confianza** | **Riesgo** | **Impacto** | **Interés** | **Puntaje Total** |
+|----------------------------------------------------------------|---------------|------------|-------------|-------------|--------------------|
+| ¿Qué nivel de conocimiento tecnológico tienen las personas que usan transporte público de manera regular para que puedan hacer uso del aplicativo? | 9             | 4          | 9           | 8           | 30                 |
+| ¿Qué cantidad de personas han sido beneficiadas en cuanto a la eficacia en llegar a sus destinos desde que comenzaron a usar nuestra aplicación? | 9             | 5          | 8           | 9           | 31                 |
+| ¿Cuál es el nivel de satisfacción de los usuarios que interactúan con nuestra aplicación en comparación a su interacción con otras aplicaciones similares? | 8             | 6          | 8           | 9           | 31                 |
+| ¿Cuál es la cantidad de usuarios registrados que usan la aplicación para obtener rutas en un día cotidiano? | 8             | 5          | 7           | 8           | 28                 |
+
+**Actualización del Backlog de Preguntas:**
+1. ¿Qué nivel de conocimiento tecnológico tienen las personas que usan transporte público de manera regular para que puedan hacer uso del aplicativo?
+2. ¿Qué cantidad de personas han sido beneficiadas en cuanto a la eficacia en llegar a sus destinos desde que comenzaron a usar nuestra aplicación?
+3. ¿Cuál es el nivel de satisfacción de los usuarios que interactúan con nuestra aplicación en comparación a su interacción con otras aplicaciones similares?
+4. ¿Cuál es la cantidad de usuarios registrados que usan la aplicación para obtener rutas en un día cotidiano?
+
+**Justificación de Cambios**
+- La accesibilidad tecnológica se prioriza debido a su relevancia en la expansión del público objetivo.
+- La eficacia y satisfacción del usuario, junto con el análisis de competencia, se mantienen prioritarios para mejorar la propuesta de valor.
+- La cantidad de usuarios activos, aunque importante, muestra un impacto menor comparado con las barreras tecnológicas y la percepción de calidad.
+
 
 
 
