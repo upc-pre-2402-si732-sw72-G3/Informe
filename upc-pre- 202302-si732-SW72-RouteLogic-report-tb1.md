@@ -213,6 +213,9 @@ URL del repositorio del proyecto: [https://github.com/upc-pre-2402-si732-sw72-G3
   - [8.3. Experimentation](#83-experimentation)
     - [8.3.1. To-Be User Stories](#831-to-be-user-stories)
     - [8.3.2. To-Be Product Backlog](#832-to-be-product-backlog)
+  - [8.5. Continuous Learning](#85-continuous-learning)
+    - [8.5.2. Shareback Sessions Artifacs: Learning Workflow](#852-shareback-sessions-artifacs-learning-workflow)
+  - [8.6. To-Be Software Platform Pre-Launch](#86-to-be-software-platform-pre-launch)
 - [Conclusiones](#conclusiones)
 - [Anexos](#anexos)
 
@@ -3555,6 +3558,80 @@ Se implementará un plan de seguimiento tanto para la versión web como móvil d
 | Alta      | Guardar rutas favoritas                   | Permitir a los usuarios marcar y acceder fácilmente a sus rutas más usadas.                                  | 1. Añadir opción de favoritos en la interfaz de usuario.<br>2. Crear lógica para almacenar rutas favoritas.<br>3. Implementar sección de favoritos.          |
 | Media     | Planificación anticipada de viajes        | Diseñar funcionalidad para planificar viajes en fechas y horarios específicos.                               | 1. Añadir calendario y selector de horario.<br>2. Integrar predicciones de congestión.<br>3. Probar y validar funcionalidad.                                 |
 | Alta      | Análisis de patrones de uso               | Implementar análisis de datos para identificar comportamientos y preferencias de usuarios.                   | 1. Crear lógica para recolectar datos de uso.<br>2. Diseñar panel para visualización de estadísticas.<br>3. Generar informes periódicos para el equipo.       |
+
+
+## 8.5. Continuous Learning 
+
+La capacidad de aprendizaje continuo es clave para el éxito y la evolución de TrackMyRoute, permitiendo que el equipo incorpore lecciones aprendidas en el diseño, desarrollo y mejora de la aplicación. Esto asegura que la plataforma se mantenga alineada con las necesidades cambiantes de los usuarios y las mejores prácticas tecnológicas.
+
+### 8.5.2. Shareback Sessions Artifacs: Learning Workflow
+
+El flujo de trabajo para las sesiones de retroalimentación en TrackMyRoute se centra en capturar, analizar y compartir aprendizajes significativos derivados de las experiencias del equipo y los usuarios. Esto fomenta una mejora constante en el desarrollo y operación del producto.
+
+Objetivos:
+
+Documentar aprendizajes clave relacionados con la planificación de rutas, colaboración con empresas de transporte y la experiencia del usuario final.
+Compartir prácticas efectivas y evitar repetir errores en futuras iteraciones.
+Mantener al equipo informado sobre nuevas tecnologías aplicables, patrones de uso y métricas clave de la aplicación.
+Flujo de trabajo:
+
+Captura de datos:
+
+Fuentes: métricas de uso, retroalimentación de usuarios, reuniones retrospectivas y estudios de mercado.
+Herramientas: herramientas de análisis como Google Analytics, encuestas internas e Impact Mapping.
+
+<div align="center">
+
+  <img src="image-report/impact_mapping.png">
+
+</div>
+
+Análisis y síntesis:
+
+Documentación compartida: resúmenes de aprendizajes clave organizados en Confluence o Notion.
+Presentaciones: sesiones de retroalimentación periódicas para alinear al equipo en torno a las lecciones aprendidas.
+
+
+Implementación de mejoras:
+
+Priorizar y aplicar cambios basados en los aprendizajes documentados (por ejemplo, optimización de algoritmos de rutas o ajustes en la interfaz del usuario).
+Retroalimentación continua:
+
+Realizar ciclos iterativos de evaluación después de aplicar cambios, asegurando que las soluciones implementadas cumplan los objetivos deseados.
+
+
+## 8.6. To-Be Software Platform Pre-Launch
+
+El pre-lanzamiento de TrackMyRoute establece las bases necesarias para garantizar un despliegue exitoso de la plataforma, priorizando una experiencia óptima para los usuarios desde el primer momento.
+
+Actividades clave:
+
+Pruebas finales:
+
+Validar las funcionalidades core como la búsqueda y planificación de rutas, colaboración con empresas de transporte y análisis de datos en tiempo real.
+Ejecución de pruebas de estrés para garantizar la escalabilidad del sistema.
+Entrenamiento del equipo:
+
+<div align="center">
+  <img src="./image-report/Dashboard-BuscarRutas-final.png"/>
+</div>
+
+
+
+Lanzar una campaña en redes sociales y realizar demostraciones en vivo para generar expectativa entre los usuarios.
+
+Monitorear métricas clave durante el pre-lanzamiento, como la tasa de adopción y la precisión en la planificación de rutas.
+
+<div align="center">
+  <img src="./image-report/Dashboard-BuscarRutas-origen.png"/>
+</div>
+
+Realizar ajustes en tiempo real basados en los resultados obtenidos.
+Con este enfoque, TrackMyRoute estará preparada para ofrecer un servicio confiable y de alto impacto desde el primer día.
+
+<div align="center">
+  <img src="./image-report/evidencia-desarrollo1.png"/>
+</div>
 
 # Conclusiones
 
