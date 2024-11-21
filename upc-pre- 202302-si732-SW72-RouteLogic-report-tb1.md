@@ -3717,24 +3717,24 @@ Llevaremos a cabo una serie de entrevistas de validacion que nos permitira evalu
 
 #### 8.4.1 Analysis and Interpretation of Results
 
-**Objective Results**
-1. **User Engagement**:
-   - **Daily Active Users (DAU)**: Se identificó que un promedio del 25% de los usuarios registrados interactúa diariamente con la aplicación, validando parcialmente la hipótesis inicial sobre la cantidad de usuarios activos.
+**Resultados Objetivos**
+1. **Participación del usuario**:
+   - **Usuarios Activos Diariamente (DAU)**: Se identificó que un promedio del 25% de los usuarios registrados interactúa diariamente con la aplicación, validando parcialmente la hipótesis inicial sobre la cantidad de usuarios activos.
    - **Incremento en el uso**: Después de implementar estrategias motivacionales, como notificaciones y promociones, se observó un aumento del 8% en usuarios activos en el segundo mes.
 
-2. **User Satisfaction**:
+2. **Satisfacción del usuario**:
    - Los resultados de las encuestas arrojaron un índice de satisfacción general del **78%**, con un 60% de los usuarios calificando la experiencia como "buena" o "excelente".
    - Comparación con la competencia: Según los datos recolectados, un **65%** de los usuarios perciben que Route-Logic es más eficiente que otras aplicaciones similares.
 
-3. **Knowledge and Accessibility**:
+3. **Conocimiento y Accesibilidad**:
    - El **55%** de los usuarios regulares tiene un nivel tecnológico básico, pero manifiesta facilidad para usar la app gracias a su interfaz intuitiva.
    - **Barreras tecnológicas**: Un 20% de los encuestados señaló dificultades relacionadas con el acceso a internet o conocimientos limitados sobre el uso de smartphones.
 
-4. **Efficiency in Route Planning**:
+4. **Eficiencia y Planeación de Rutas**:
    - Se logró demostrar una mejora promedio del **15%** en el tiempo estimado para llegar al destino, según los comentarios y análisis de uso.
    - **Feedback directo**: 40% de los comentarios resaltaron la eficacia del sistema de planificación en tiempo real.
 
-**Interpretation**
+**Interpretación**
 - Las métricas indican que Route-Logic tiene un alto potencial de adopción en usuarios con necesidades regulares de transporte público, especialmente en áreas urbanas densas.
 - El desafío principal radica en capturar y retener a usuarios con barreras tecnológicas y en promover un uso más frecuente entre usuarios ocasionales.
 - Las empresas de transporte han mostrado interés en la plataforma, incrementando su presencia en un 18% durante el período de análisis.
