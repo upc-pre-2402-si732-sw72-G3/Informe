@@ -3291,6 +3291,8 @@ Se documentará cada entrevista capturando tanto las respuestas como las observa
 | --------------- | ---- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Alejandra Neyra | 19   | Surco     | [Entrevista #1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213404_upc_edu_pe/EXU3cY_kNMhKhZHV1A5LhZcBQXHW2y91FhKBMOtxEZ5eBg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Foaq7S) |
 | Martin Rioja    | 19   | Ate       | [Entrevista #2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213404_upc_edu_pe/EdRbRJz9451Fp022enlwyPgB8a18Qmjm0-Y9kTGKlhDsYw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5qNXx4) |
+| Carlos Martinez    | 24   | Santiago de Surco       | [Entrevista #5](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117152_upc_edu_pe/ERwIvyuexbdBpBIbcIFgvQoBhAYfw-gGsSaGjN-2imsIQw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=IiREVP) |
+
 
 **Resumen de la Entrevista - Alejandra Neyra**:  
 La Joven Alejandra Neyra opina que la aplicacion tiene un toque extra a la hora de tener promociones por usar la pagina web, que es facil de usar y que las facilidades de pago son su mayor atractivo puesto a que es una persona que se moviliza bastante con el trasnporte publico.
@@ -3298,18 +3300,26 @@ La Joven Alejandra Neyra opina que la aplicacion tiene un toque extra a la hora 
 **Resumen de la Entrevista - Martin Rioja**:  
 El Joven Martin Rijoa opina que la informacion de las rutas de buses debe ser mas completa asi las personas sabran por donde es que se mueve la ruta, la pagina tiene un diseño entendible y ccompleto junto con un mapa Visual que le permite ver cuando no sabe a donde dirigirse,
 
+**Resumen de la Entrevista - Carlos Martinez**:
+Como usuario diario nos comenta que nuestra app es muy util en funcionalidades y diseño, pero seria bueno que se agregaran mas descuentos o algo para lograr captar mas usuarios.
+
 ### Segmento 2
 
 | Nombre          | Edad | Domicilio            | Enlace al Video                                                                                                                                                                                                                                                                                                                              |
 | --------------- | ---- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Juan Gamarra    | 23   | San Martin de Porres | [Entrevista #3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213404_upc_edu_pe/EVorEH1PtO5BntEwErui7x0BqLI1fMt3M6fiFzceg8J-IA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=zjfE83) |
 | Sebastian Silva | 21   | Ate                  | [Entrevista #4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213404_upc_edu_pe/EfqJMn9lKy5Bqmafd2YvZoUBXnDhfnypzLGkngZ8HKzfPQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=co6ewQ) |
+| Franco Ramirez | 25   | Santiago de Surco                  | [Entrevista #6](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117152_upc_edu_pe/EXoS9KNcVepGl-ki_ai722MBDYpswAi4hiOySCvtYfwadQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=doy3ee) |
+
 
 **Resumen de la Entrevista - Juan Gamarra**:  
 Juan Gamarra opina que es una pagina sencilla con la cual se puede trabajar y que tiene las pestañas claras para un correcto desplazamiento, que se debe centrar la informacion para que no se sienta todo muy acumlado a la vez que le gustaria poder mas rutas de buses en la pagina web.
 
 **Resumen de la Entrevista - Sebastian Silva**:  
 Sebastian Silva opina que es una pagina sencilla con la cual se realiza todo de forma rapida, informacion comoda y completa para poder consultar en cualquier momento.
+
+**Resumen de la Entrevista - Franco Ramirez**:  
+Franco ramirez nos da su punto de opinon para nuestro app, la cual si cumple con sus necesidades pero esta misma podria mejorar en diseño y funcionalidad. 
 
 ## 6.3.3 Evaluación Según Heurísticas
 
