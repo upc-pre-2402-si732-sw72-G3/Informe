@@ -195,6 +195,10 @@ URL del repositorio del proyecto: [https://github.com/upc-pre-2402-si732-sw72-G3
     - [7.3.1. Tools and Practices](#731-tools-and-practices)
     - [7.3.2. Production Deployment Pipeline Components](#732-production-deployment-pipeline-components)
   - [7.4. Continuous Monitoring](#74-continuous-monitoring)
+    - [7.4.1. Tools and Practices](#741-tools-and-practices)
+    - [7.4.2. Monitoring Pipeline Components](#742-monitoring-pipeline-components)
+    - [7.4.3. Alerting Pipeline Components](#743-alerting-pipeline-components)
+    - [7.4.4. Notification Pipeline Components](#744-notification-pipeline-components)
 - [Capítulo VIII: Experiment-Driven Development](#capítulo-viii-experiment-driven-development)
   - [8.1. Experiment Planning](#81-experiment-planning)
     - [8.1.1. As-Is Summary](#811-as-is-summary)
@@ -213,10 +217,28 @@ URL del repositorio del proyecto: [https://github.com/upc-pre-2402-si732-sw72-G3
   - [8.3. Experimentation](#83-experimentation)
     - [8.3.1. To-Be User Stories](#831-to-be-user-stories)
     - [8.3.2. To-Be Product Backlog](#832-to-be-product-backlog)
+    - [8.3.3 Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle](#833-pipeline-supported-experiment-driven-to-be-software-platform-lifecycle)
+      - [8.3.3.1 To-Be Sprint Backlogs](#8331-to-be-sprint-backlogs)
+      - [8.3.3.2 Implemented To-Be Landing Page Evidence](#8332-implemented-to-be-landing-page-evidence)
+      - [8.3.3.3 Implemented To-Be Frontend-Web Application Evidence](#8333-implemented-to-be-frontend-web-application-evidence)
+      - [**Secciones implementadas del Aplicativo Web**](#secciones-implementadas-del-aplicativo-web)
+      - [8.3.3.4 Implemented To-Be RESTful API and/or Serverless Backend Evidence](#8334-implemented-to-be-restful-api-andor-serverless-backend-evidence)
+      - [8.3.3.5 Team Collaboration Insights](#8335-team-collaboration-insights)
+    - [8.3.4 To-Be Validation Interviews](#834-to-be-validation-interviews)
+      - [8.3.4.1 Diseño de Entrevistas.](#8341-diseño-de-entrevistas)
+      - [8.3.4.2 Registro de Entrevistas.](#8342-registro-de-entrevistas)
+    - [Entrevista 1](#entrevista-1)
+    - [Entrevista 2](#entrevista-2)
+  - [Entrevista 3](#entrevista-3)
+    - [Entrevista 4](#entrevista-4)
+  - [8.4 Experiment Aftermath \& Analysis](#84-experiment-aftermath--analysis)
+    - [8.4.1 Analysis and Interpretation of Results](#841-analysis-and-interpretation-of-results)
+    - [8.4.2 Re-scored and Re-prioritized Question Backlog](#842-re-scored-and-re-prioritized-question-backlog)
   - [8.5. Continuous Learning](#85-continuous-learning)
     - [8.5.2. Shareback Sessions Artifacs: Learning Workflow](#852-shareback-sessions-artifacs-learning-workflow)
   - [8.6. To-Be Software Platform Pre-Launch](#86-to-be-software-platform-pre-launch)
 - [Conclusiones](#conclusiones)
+    - [8.6.1. About-the-Product Intro Video](#861-about-the-product-intro-video)
 - [Anexos](#anexos)
 
 ---
@@ -3894,6 +3916,11 @@ Con este enfoque, TrackMyRoute estará preparada para ofrecer un servicio confia
 
 - TF: Para la entrega final de Trackmyroute, concluimos que la combinación de Vue.js para el frontend y .NET para el backend, junto con la implementación de Domain-Driven Design (DDD), ha sido una elección técnica robusta que nos permitió abordar la complejidad del dominio de nuestro proyecto de manera eficaz. A lo largo del desarrollo, aprendimos la importancia de mantener una arquitectura bien estructurada y cohesiva, lo cual facilitó la gestión y evolución del código. Aunque no hemos completado la aplicación en su totalidad, el proceso nos brindó valiosas lecciones sobre la integración de tecnologías modernas y metodologías de diseño avanzadas. La utilización de DDD nos permitió enfocar nuestro esfuerzo en el comportamiento del negocio, asegurando que las funcionalidades clave estuvieran alineadas con las necesidades del usuario final. Además, trabajar con Git Flow fue crucial para mantener un control de versiones ordenado y minimizar conflictos durante las integraciones. Finalmente, la adopción de metodologías ágiles nos ayudó a mejorar la colaboración del equipo y la eficacia en la entrega de resultados incrementales, lo que nos permitirá continuar el desarrollo de Trackmyroute con una base sólida y bien fundamentada.
 
+### 8.6.1. About-the-Product Intro Video
+
+Link de About-the-Product Video : https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111654_upc_edu_pe/EWkB-Vmbi3tEr5kes-gcipcBjb5RxXMGj66poFPHkxmkkg?e=ro20q0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Link de About-the-Team Video : https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111654_upc_edu_pe/EZ3QrkVdd4pCjhhEXPgESOUBvSqdPg2yVgg0rPGZ0Y_6oQ?e=JxKB3S&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 # Anexos
 
@@ -3903,19 +3930,10 @@ Link de prototipo: https://www.figma.com/proto/aJREmuLbY7nLlgmOTtjcW5/TrackMyRou
 
 Link Repositorio Landing Page: https://github.com/G2-AplicacionesWeb-SI91/Landing
 
-Link Repositorio Frontend: https://github.com/G2-AplicacionesWeb-SI91/frontend
+Link Repositorio Frontend: https://github.com/upc-pre-2402-si732-sw72-G3/Frontend
 
-Link Repositorio Backend: https://github.com/G2-AplicacionesWeb-SI91/backend
+Link Repositorio Backend: https://github.com/upc-pre-2402-si732-sw72-G3/Backend
 
 Link Landing Page Desplegada: https://g2-aplicacionesweb-si91.github.io/Landing/
 
 Link Web App Desplegada: https://trackmyroute-appsweb123.web.app/login
-
-Link Web Service Desplegado: 
-
-Link video expo TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202020108_upc_edu_pe/EWG5NyVGtpVArTHxzr9npgMBf_cZyZDDOk5VOPT0KqlPWg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=djw7bV
-Link video expo TB2: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202020108_upc_edu_pe/EdrPQyFP1i5OrawuOG0juK0B6KVfb2Ak78IviFQ6IFKIkw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=huH7c0
-Link video expo TP: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202020108_upc_edu_pe/EVVqKmJMqIVHq8E1U6yoXwUBChC-lofGLCrTjTPqA8uxpw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xm0QJ7
-Link video expo TF: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202020108_upc_edu_pe/EVwWZyV6o1pLrrRyGqz7tH8BFs1HYOCp9Dq9LUTg6KaBIQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MormXS
-
-Video About-The-Team-Sprint-3: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e831
