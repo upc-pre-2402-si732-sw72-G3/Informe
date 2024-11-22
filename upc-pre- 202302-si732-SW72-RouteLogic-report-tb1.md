@@ -3391,12 +3391,51 @@ Jenkins Pipeline: Se utiliza como la herramienta principal para automatizar el f
 
 ![PT4](/image-report/pt.4.png)
 
-## 7.4. Continuous Monitoring
+## 7.4 Continuous Monitoring
+
+### 7.4.1 Tools and Practices
+Para garantizar un monitoreo efectivo de la aplicación y sus entornos, se implementan las siguientes herramientas y prácticas:
+
+- **Prometheus**: Herramienta de monitoreo y alerta diseñada para registrar métricas en tiempo real desde diferentes servicios y aplicaciones. Prometheus se utiliza para capturar y almacenar métricas relacionadas con el rendimiento de la aplicación, como el tiempo de respuesta y la carga del sistema.
+- **Grafana**: Plataforma de análisis visual que permite crear dashboards personalizados basados en datos recopilados por Prometheus. Grafana se usa para visualizar métricas clave en tiempo real y facilitar la identificación de problemas.
+- **ELK Stack (Elasticsearch, Logstash, Kibana)**: Conjunto de herramientas para la gestión de registros y análisis de logs. Elasticsearch permite buscar y analizar datos, Logstash procesa y transforma los registros, mientras que Kibana proporciona una interfaz para visualizarlos.
+- **New Relic**: Herramienta de monitoreo de aplicaciones (APM) que ofrece visibilidad en tiempo real sobre la experiencia del usuario y el rendimiento de la aplicación.
+- **PagerDuty**: Plataforma de gestión de incidentes utilizada para enviar alertas en caso de problemas críticos en los servicios o la infraestructura.
+
+### 7.4.2 Monitoring Pipeline Components
+El monitoreo de los componentes del pipeline asegura que cada etapa funcione correctamente y que cualquier anomalía sea detectada de inmediato:
+
+- **Jenkins Pipeline**: Se configura para generar métricas sobre el tiempo de ejecución de cada etapa del pipeline, la frecuencia de fallos y las tasas de éxito en las pruebas automatizadas.
+- **NPM Logs**: Los registros generados durante la instalación de dependencias (`npm install`) y las tareas de construcción (`npm run build`) son monitoreados para identificar problemas con paquetes o scripts.
+- **Server Metrics**: Se monitorean recursos clave del servidor (CPU, memoria, disco, red) durante las fases de construcción, prueba y despliegue.
+- **Application Health**: Se implementan endpoints de salud (health checks) en la aplicación que reportan el estado de las dependencias críticas, como la base de datos o servicios externos.
+
+### 7.4.3 Alerting Pipeline Components
+El sistema de alertas notifica al equipo en tiempo real cuando se detectan problemas. Las configuraciones principales incluyen:
+
+- **Threshold-Based Alerts**:
+  - Alertas configuradas en Prometheus para detectar valores fuera de los rangos aceptables en métricas clave (latencia, uso de CPU, errores 500, etc.).
+- **Pipeline Failures**:
+  - Jenkins envía alertas automáticas en caso de fallos en alguna etapa del pipeline, incluyendo pruebas unitarias, integración continua o despliegue.
+- **Service Availability**:
+  - Alertas configuradas en ELK Stack y New Relic para detectar tiempos de inactividad o problemas de conectividad.
+
+### 7.4.4 Notification Pipeline Components
+Las notificaciones automatizadas aseguran que el equipo reciba actualizaciones en tiempo real sobre el estado de la aplicación y el pipeline:
+
+- **Slack Notifications**:
+  - Integración con Slack para enviar mensajes en canales específicos cuando:
+    - Se completa exitosamente una etapa del pipeline.
+    - Ocurre un fallo en el pipeline.
+    - Se detecta un incidente crítico en la aplicación.
+- **Alertas de Email**:
+  - Configuración de notificaciones por correo electrónico a los responsables del equipo en caso de problemas críticos o fallos repetitivos en el pipeline.
+- **PagerDuty Integration**:
+  - Notificaciones de alta prioridad enviadas a dispositivos móviles para incidentes que requieren atención inmediata.
+- **Grafana Alerts**:
+  - Configuración de notificaciones personalizadas basadas en métricas definidas, enviadas directamente a Slack o por correo electrónico.
 
 
-El monitoreo continuo implementado en TrackRoute ha transformado la gestión del transporte público en Lima, proporcionando una supervisión en tiempo real de las rutas y del comportamiento de desplazamiento de los pasajeros. A través de un sistema de monitoreo avanzado, las empresas de transporte ahora pueden acceder a datos actualizados sobre la ubicación de los autobuses, condiciones del tráfico y el cumplimiento de los horarios. Este monitoreo se traduce en dashboards y reportes dinámicos que permiten a los gerentes de operaciones realizar ajustes rápidos y eficientes según las condiciones de cada ruta.
-
-Gracias a este sistema, TrackRoute detecta de manera temprana problemas como retrasos o congestión, permitiendo que las empresas respondan proactivamente y optimicen sus servicios en tiempo real. Para los pasajeros, el monitoreo continuo garantiza información precisa sobre los tiempos de llegada y disponibilidad de autobuses, mejorando significativamente la experiencia de viaje y reduciendo la incertidumbre en los tiempos de espera. Este enfoque integral no solo ha mejorado la eficiencia operativa de las empresas de transporte, sino que también ha elevado la satisfacción de los usuarios al brindarles un servicio más confiable y puntual.
 
 
 # Capítulo VIII: Experiment-Driven Development
