@@ -3391,9 +3391,9 @@ Jenkins Pipeline: Se utiliza como la herramienta principal para automatizar el f
 
 ![PT4](/image-report/pt.4.png)
 
-## 7.4 Continuous Monitoring
+## 7.4. Continuous Monitoring
 
-### 7.4.1 Tools and Practices
+### 7.4.1. Tools and Practices
 Para garantizar un monitoreo efectivo de la aplicación y sus entornos, se implementan las siguientes herramientas y prácticas:
 
 - **Prometheus**: Herramienta de monitoreo y alerta diseñada para registrar métricas en tiempo real desde diferentes servicios y aplicaciones. Prometheus se utiliza para capturar y almacenar métricas relacionadas con el rendimiento de la aplicación, como el tiempo de respuesta y la carga del sistema.
@@ -3402,7 +3402,7 @@ Para garantizar un monitoreo efectivo de la aplicación y sus entornos, se imple
 - **New Relic**: Herramienta de monitoreo de aplicaciones (APM) que ofrece visibilidad en tiempo real sobre la experiencia del usuario y el rendimiento de la aplicación.
 - **PagerDuty**: Plataforma de gestión de incidentes utilizada para enviar alertas en caso de problemas críticos en los servicios o la infraestructura.
 
-### 7.4.2 Monitoring Pipeline Components
+### 7.4.2. Monitoring Pipeline Components
 El monitoreo de los componentes del pipeline asegura que cada etapa funcione correctamente y que cualquier anomalía sea detectada de inmediato:
 
 - **Jenkins Pipeline**: Se configura para generar métricas sobre el tiempo de ejecución de cada etapa del pipeline, la frecuencia de fallos y las tasas de éxito en las pruebas automatizadas.
@@ -3410,7 +3410,7 @@ El monitoreo de los componentes del pipeline asegura que cada etapa funcione cor
 - **Server Metrics**: Se monitorean recursos clave del servidor (CPU, memoria, disco, red) durante las fases de construcción, prueba y despliegue.
 - **Application Health**: Se implementan endpoints de salud (health checks) en la aplicación que reportan el estado de las dependencias críticas, como la base de datos o servicios externos.
 
-### 7.4.3 Alerting Pipeline Components
+### 7.4.3. Alerting Pipeline Components
 El sistema de alertas notifica al equipo en tiempo real cuando se detectan problemas. Las configuraciones principales incluyen:
 
 - **Threshold-Based Alerts**:
@@ -3420,7 +3420,7 @@ El sistema de alertas notifica al equipo en tiempo real cuando se detectan probl
 - **Service Availability**:
   - Alertas configuradas en ELK Stack y New Relic para detectar tiempos de inactividad o problemas de conectividad.
 
-### 7.4.4 Notification Pipeline Components
+### 7.4.4. Notification Pipeline Components
 Las notificaciones automatizadas aseguran que el equipo reciba actualizaciones en tiempo real sobre el estado de la aplicación y el pipeline:
 
 - **Slack Notifications**:
@@ -3752,9 +3752,9 @@ Llevaremos a cabo una serie de entrevistas de validacion que nos permitira evalu
 
 ---
 
-### 8.4 Experiment Aftermath & Analysis
+## 8.4 Experiment Aftermath & Analysis
 
-#### 8.4.1 Analysis and Interpretation of Results
+### 8.4.1 Analysis and Interpretation of Results
 
 **Resultados Objetivos**
 1. **Participación del usuario**:
@@ -3780,7 +3780,7 @@ Llevaremos a cabo una serie de entrevistas de validacion que nos permitira evalu
 
 ---
 
-#### 8.4.2 Re-scored and Re-prioritized Question Backlog
+### 8.4.2 Re-scored and Re-prioritized Question Backlog
 
 **Reprioritización basada en los resultados:**
 
