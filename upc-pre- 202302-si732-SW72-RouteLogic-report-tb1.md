@@ -35,7 +35,9 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 | **Versión** | **Fecha** | **Autor** | **Descripción de Modificación** |
 |-------------|-----------|-----------|---------------------------------|
 |    TB1      |     4/09/2024      |    Todos        |      Añadimos los capítulos 1, 2, 3, 4 y 5. Además se tomó en cuenta la creación de los prototipos en dispositivos móviles. |
-|    TP1      |     24/09/2024      |    Todos        |      Hicimos los cambios que el profesor nos brindó en la retroalimentación de la versión anterior junto a la adición de los capítulos 6 y 7. |
+|    TP      |     24/09/2024      |    Todos        |      Hicimos los cambios que el profesor nos brindó en la retroalimentación de la versión anterior junto a la adición de los capítulos 6 y 7. |
+|    TB2      |     1/11/2024      |    Todos        |      Se desarollo lo faltante del capitulo 7 y nuevas secciones del capitulo 8. |
+|    TF      |     21//2024      |    Todos        |      Se hicieron correcciones y mejoras de los capitulos anteriores y se agregaron las secciones faltantes del capitulo 8. |
 
 ---
 
