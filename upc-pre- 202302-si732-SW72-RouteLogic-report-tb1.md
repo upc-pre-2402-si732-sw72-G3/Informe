@@ -1709,86 +1709,86 @@ Link trello: https://trello.com/b/Bwzbm2Db/sprint1
 
 <table>
     <thead>
-            <tr>
+        <tr>
             <td>Sprint #:</td>
             <td colspan="7">Sprint 1</td>
-            </tr>
-            <tr>
-                <td colspan="2">User Story</td>
-                <td colspan="6">Work-Item / Task</td>
-            </tr>
-            <tr>
-                <td>ID</td>
-                <td>Title</td>
-                <td>ID</td>
-                <td>Title</td>
-                <td>Description</td>
-                <td>Estimation (Hours)</td>
-                <td>Assigned to</td>
-                <td>Status (To-Do/In-Process/To-Review/Done)</td>
-            </tr>
+        </tr>
+        <tr>
+            <td colspan="2">User Story</td>
+            <td colspan="6">Work-Item / Task</td>
+        </tr>
+        <tr>
+            <td>ID</td>
+            <td>Title</td>
+            <td>ID</td>
+            <td>Title</td>
+            <td>Description</td>
+            <td>Estimation (Hours)</td>
+            <td>Assigned to</td>
+            <td>Status (To-Do/In-Process/To-Review/Done)</td>
+        </tr>
     </thead>
     <tbody>
-            <tr>
-                <td>HU24</td>
-                <td>sección principal de landing page</td>
-                <td>01</td>
-                <td>Sección principal de Landing Page</td>
-                <td>Usuario debe serle visualmente atractiva la página y su contenido.</td>
-                <td>2</td>
-                <td>Favio Landeo</td>
-                <td>Done</td>
-            </tr>
-	    <tr>
-                <td>HU25</td>
-                <td>información de beneficios</td>
-                <td>02</td>
-                <td>nformación de beneficios</td>
-                <td>Usuario debe poder visualizar una sección dedicada a los beneficios de la aplicación.</td>
-                <td>2</td>
-                <td>Alessandro Valenzuela</td>
-                <td>Done</td>
-            </tr>
-	    <tr>
-                <td>HU26</td>
-                <td>conocer los aliados que respaldan la app</td>
-                <td>03</td>
-                <td>Conocer los aliados que respaldan la app</td>
-                <td>Usuario debe poder visualizar una lista de aliados estratégicos.</td>
-                <td>2</td>
-                <td>Arian Ramirez</td>
-                <td>To-Do</td>
-            </tr>
-	    <tr>
-                <td>HU27</td>
-                <td>reseñas de usuarios satisfechos</td>
-                <td>04</td>
-                <td>Reseñas de usuarios satisfechos</td>
-                <td>Usuario debe poder visualizar reseñas y testimonios de usuarios satisfechos con la aplicación.</td>
-                <td>2</td>
-                <td>Not asigned yet</td>
-                <td>Arian Ramirez</td>
-            </tr>
-	    <tr>
-                <td>HU28</td>
-                <td>conocer los planes de suscripción</td>
-                <td>05</td>
-                <td>Conocer los planes de suscripción</td>
-                <td>Usuario debe poder visualizar información sobre los planes de suscripción.</td>
-                <td>2</td>
-                <td>Not asigned yet</td>
-                <td>Carlos Casimiro</td>
-            </tr>
-	    <tr>
-                <td>HU29</td>
-                <td>obtener respuestas a preguntas frecuentes</td>
-                <td>06</td>
-                <td>Obtener respuestas a preguntas frecuentes</td>
-                <td>Usuario debe poder visualizar una sección de preguntas frecuentes.</td>
-                <td>2</td>
-                <td>Not asigned yet</td>
-                <td>David Rivas/td>
-            </tr>
+        <tr>
+            <td>HU24</td>
+            <td>Sección principal de landing page</td>
+            <td>01</td>
+            <td>Sección principal de Landing Page</td>
+            <td>Usuario debe serle visualmente atractiva la página y su contenido.</td>
+            <td>6</td>
+            <td>Favio Landeo</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>HU25</td>
+            <td>Información de beneficios</td>
+            <td>02</td>
+            <td>Información de beneficios</td>
+            <td>Usuario debe poder visualizar una sección dedicada a los beneficios de la aplicación.</td>
+            <td>5</td>
+            <td>Julio Elsner</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>HU26</td>
+            <td>Conocer los aliados que respaldan la app</td>
+            <td>03</td>
+            <td>Conocer los aliados que respaldan la app</td>
+            <td>Usuario debe poder visualizar una lista de aliados estratégicos.</td>
+            <td>4</td>
+            <td>Piero Miranda</td>
+            <td>To-Do</td>
+        </tr>
+        <tr>
+            <td>HU27</td>
+            <td>Reseñas de usuarios satisfechos</td>
+            <td>04</td>
+            <td>Reseñas de usuarios satisfechos</td>
+            <td>Usuario debe poder visualizar reseñas y testimonios de usuarios satisfechos con la aplicación.</td>
+            <td>4</td>
+            <td>Jose Luza</td>
+            <td>To-Do</td>
+        </tr>
+        <tr>
+            <td>HU28</td>
+            <td>Conocer los planes de suscripción</td>
+            <td>05</td>
+            <td>Conocer los planes de suscripción</td>
+            <td>Usuario debe poder visualizar información sobre los planes de suscripción.</td>
+            <td>5</td>
+            <td>Gustavo Espinoza</td>
+            <td>To-Do</td>
+        </tr>
+        <tr>
+            <td>HU29</td>
+            <td>Obtener respuestas a preguntas frecuentes</td>
+            <td>06</td>
+            <td>Obtener respuestas a preguntas frecuentes</td>
+            <td>Usuario debe poder visualizar una sección de preguntas frecuentes.</td>
+            <td>6</td>
+            <td>Miguel Ramirez</td>
+            <td>To-Do</td>
+        </tr>
     </tbody>
 </table>
   
@@ -2056,7 +2056,7 @@ Link trello: https://trello.com/b/Bwzbm2Db/sprint1
       <td>T001</td>
       <td>Desarrollo de pagina de recuperación de contraseña</td>
       <td>Desarrollo e implementacion de la pagina de recuperación de contraseña</td>
-      <td>4 hrs</td>
+      <td>5 hrs</td>
       <td>Favio Landeo</td>
       <td>Done</td>
     </tr>
@@ -2066,8 +2066,8 @@ Link trello: https://trello.com/b/Bwzbm2Db/sprint1
       <td>T002</td>
       <td>Desarrollo de pantalla de registro</td>
       <td>Desarrollo e implementación del la vista de registro de usuario</td>
-      <td>4 hrs</td>
-      <td>Alessandro Valenzuela</td>
+      <td>5 hrs</td>
+      <td>Julio Elsner</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -2077,7 +2077,7 @@ Link trello: https://trello.com/b/Bwzbm2Db/sprint1
       <td>Desarrollo de sistema de inicio de sesion</td>
       <td>Desarrollo e implementación de la vista de inicio de sesión y autenticacion</td>
       <td>4 hrs</td>
-      <td>Alessandro Valenzuela</td>
+      <td>Piero Miranda</td>
       <td>In Process</td>
     </tr>
     <tr>
@@ -2086,8 +2086,8 @@ Link trello: https://trello.com/b/Bwzbm2Db/sprint1
       <td>T003</td>
       <td>Desarrollo de pagina de notificaciones</td>
       <td>Desarrollo e implementación de la vista de notificaciones</td>
-      <td>4 hrs</td>
-      <td>Favio Landeo</td>
+      <td>6 hrs</td>
+      <td>Jose Luza</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -2097,7 +2097,7 @@ Link trello: https://trello.com/b/Bwzbm2Db/sprint1
       <td>Desarrollo de menu de opciones	</td>
       <td>Desarrollo e implementación del side nav con opciones para el usuario</td>
       <td>4 hrs</td>
-      <td>Arian Ramirez</td>
+      <td>Gustavo Espinoza</td>
       <td>In Process</td>
     </tr>
     <tr>
@@ -2107,7 +2107,7 @@ Link trello: https://trello.com/b/Bwzbm2Db/sprint1
       <td>Desarrollo de vista del mapa</td>
       <td>Desarrollo e implementación de la vista del mapa con los campos de ingreso de origen y destino</td>
       <td>5 hrs</td>
-      <td>Arian Ramirez</td>
+      <td>Miguel Ramirez</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -2117,7 +2117,7 @@ Link trello: https://trello.com/b/Bwzbm2Db/sprint1
       <td>Desarrollo de vista pay-ticket</td>
       <td>Desarrollo e implementación de la vista de la sección para pagar pasaje de algun bus seleccionado</td>
       <td>7 hrs</td>
-      <td>Arian Ramirez</td>
+      <td>Julio Elsner</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -2126,8 +2126,8 @@ Link trello: https://trello.com/b/Bwzbm2Db/sprint1
       <td>T007</td>
       <td>Desarrollo de pagina de promociones</td>
       <td>Desarrollo e implementación de la vista de promociones que se le ofreceran al usuario premiun</td>
-      <td>4hrs</td>
-      <td>David Rivas</td>
+      <td>5hrs</td>
+      <td>Julio Elsner</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -2137,7 +2137,7 @@ Link trello: https://trello.com/b/Bwzbm2Db/sprint1
       <td>Desarrollo de pagina de ayuda</td>
       <td>Desarrollo e implementación de la vista de soporte y ayuda</td>
       <td>4hr</td>
-      <td>Carlos Casimiro</td>
+      <td>Favio Landeo</td>
       <td>In Process</td>
     </tr>
     <tr>
@@ -2147,7 +2147,7 @@ Link trello: https://trello.com/b/Bwzbm2Db/sprint1
       <td>Desarrollo de pagina de configuración</td>
       <td>Desarrollo e implementación de la pagina de configuración</td>
       <td>4 hr</td>
-      <td>Carlos Casimiro</td>
+      <td>Gustavo Espinoza</td>
       <td>In Process</td>
     </tr>
     <tr>
@@ -2157,7 +2157,7 @@ Link trello: https://trello.com/b/Bwzbm2Db/sprint1
       <td>Desarrollo de pagina de historial de viajes</td>
       <td>Desarrollo e implementación de la pagina de historial de viajes</td>
       <td>4 hrs</td>
-      <td>David Rivas</td>
+      <td>Gustavo Espinoza</td>
       <td>Done</td>
     </tr>
   </tbody>
@@ -2736,7 +2736,7 @@ Link: [https://trello.com/b/8cUWzeGy/si730-2401-si91-grupo2]
       <td>Planificación de viajes</td>
       <td>Como cliente quiero planificar mis viajes en función a mi ubicación actual y al destino (se muestran los horarios de salida y de llegada de los buses, su ubicación, etc.) para organizar mejor mis tiempos.</td>
       <td>5</td>
-      <td>Arian Ramirez</td>
+      <td>Gustavo Espinoza</td>
       <td>Done</td>
     </tr>
 	  <tr>
@@ -2745,7 +2745,7 @@ Link: [https://trello.com/b/8cUWzeGy/si730-2401-si91-grupo2]
       <td>1</td>
        <td>Notificaciones personalizadas</td>
       <td>Como cliente quiero recibir notificaciones personalizadas acerca de eventos pertinentes a mi viaje en bus (retrasos, horarios, etc.) para estar al tanto de las situaciones que pueden afectar mi futuro viaje</td>
-      <td>2</td>
+      <td>5</td>
       <td>Favio Landeo</td>
       <td>Done</td>
     </tr>
@@ -2755,8 +2755,8 @@ Link: [https://trello.com/b/8cUWzeGy/si730-2401-si91-grupo2]
       <td>1</td>
      <td>Promociones </td>
       <td>Como cliente, quiero ver las promociones disponibles en la aplicación para que pueda aprovechar descuentos al utilizar el servicio de transporte público.</td>
-      <td>2</td>
-      <td>David Rivas</td>
+      <td>4</td>
+      <td>Piero Miranda</td>
       <td>Done</td>
     </tr>
 	  <tr>
@@ -2765,8 +2765,8 @@ Link: [https://trello.com/b/8cUWzeGy/si730-2401-si91-grupo2]
       <td>1</td>
      <td>Inicio de sesión en la aplicación</td>
       <td>Como cliente quiero iniciar sesión en la aplicación con mis credenciales (correo y contraseña) para poder entrar a la aplicación con mi cuenta existente</td>
-      <td>2</td>
-      <td>Alessandro Valenzuela</td>
+      <td>4</td>
+      <td>Julio Elsner</td>
       <td>Done</td>
     </tr>
 	<tr>
@@ -2775,9 +2775,9 @@ Link: [https://trello.com/b/8cUWzeGy/si730-2401-si91-grupo2]
       <td>1</td>
      <td>Registrar al usuario</td>
       <td>Como cliente quiero registrarme con todos mis datos pertinentes (nombre, correo, edad, etc.) en la aplicación para poder hacer uso de sus funcionalidades.</td>
-      <td>2</td>
-      <td>Alessandro Valenzuela</td>
-      <td>In process</td>
+      <td>5</td>
+      <td>Piero Miranda</td>
+      <td>Done</td>
     </tr>
 <tr>
       <td>HU20</td>
@@ -2785,9 +2785,9 @@ Link: [https://trello.com/b/8cUWzeGy/si730-2401-si91-grupo2]
       <td>1</td>
      <td>Retroalimentación de los usuarios</td>
       <td>Como cliente quiero dar una retroalimentación sobre mi experiencia de viaje o al utilizar la aplicación para dar a conocer mi agrado o mi malestar con respecto al funcionamiento de esta.</td>
-      <td>3</td>
-      <td>Casimiro</td>
-      <td>In process</td>
+      <td>4</td>
+      <td>Miguel Ramirez</td>
+      <td>Done</td>
     </tr>
 	  <tr>
       <td>HU33</td>
@@ -2796,7 +2796,7 @@ Link: [https://trello.com/b/8cUWzeGy/si730-2401-si91-grupo2]
          <td>Historial de Viajes conexion Backend con Frontend</td>
       <td>Como cliente, quiero poder acceder a un historial detallado de mis viajes anteriores en la aplicación para que pueda realizar un seguimiento de mis desplazamientos y gastos.</td>
       <td>5</td>
-      <td>Arian Ramirez</td>
+      <td>Miguel Ramirez</td>
       <td>Done</td>
     </tr>
 	  <tr>
@@ -2805,9 +2805,9 @@ Link: [https://trello.com/b/8cUWzeGy/si730-2401-si91-grupo2]
       <td>1</td>
       <td>Soporte y Ayuda</td>
       <td>Como cliente, quiero tener acceso a opciones de soporte y ayuda dentro de la aplicación para que pueda resolver cualquier problema o duda que pueda surgir durante su uso.</td>
-      <td>2</td>
-      <td>Casimiro</td>
-      <td>In process</td>
+      <td>4</td>
+      <td>Julio Elsner</td>
+      <td>Done</td>
     </tr>
 	  <tr>
       <td>HU06</td>
@@ -2815,9 +2815,9 @@ Link: [https://trello.com/b/8cUWzeGy/si730-2401-si91-grupo2]
       <td>1</td>
       <td>Registro de las empresas operadoras de rutas</td>
       <td>Como desarrollador quiero registrar a las empresas que operan en cada una de las rutas de transporte urbano en buses para así tener un registro de todas estas empresas en la base de datos de la aplicación</td>
-      <td>3</td>
-      <td>David Rivas</td>
-      <td>In process</td>
+      <td>4</td>
+      <td>Favio Landeo</td>
+      <td>Done</td>
     </tr>  
   </tbody>
 </table>
@@ -3533,31 +3533,33 @@ Se implementará un plan de seguimiento tanto para la versión web como móvil d
 
 ### 8.3.1. To-Be User Stories
 
-| ID   | User Story                                                                                                                             | Criterios de Aceptación                                                                                                                                                                                                                                                |
-|------|----------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| US01 | Como usuario frecuente de transporte público, quiero ver una lista de las rutas más eficientes en tiempo real, para optimizar mi viaje diario. | - La aplicación debe mostrar las rutas actualizadas en tiempo real.<br> - El sistema debe sugerir rutas alternativas en caso de alta congestión o problemas de transporte.                                                                                             |
-| US02 | Como administrador de una empresa de transporte, quiero poder promocionar nuestras rutas y servicios a través de la plataforma, para atraer más usuarios. | - El administrador debe tener acceso a una interfaz donde pueda publicar rutas, horarios y tarifas.<br> - El administrador debe poder ver estadísticas sobre el alcance de sus anuncios.                                                                                |
-| US03 | Como usuario de la aplicación, quiero poder proporcionar retroalimentación sobre mi experiencia usando la aplicación, para que los desarrolladores puedan hacer mejoras. | - La aplicación debe tener una sección donde el usuario pueda escribir comentarios y asignar una calificación.<br> - La aplicación debe recolectar y analizar los comentarios de manera periódica para su análisis.                                                   |
-| US04 | Como usuario, quiero recibir sugerencias de rutas y mejoras en la planificación de mis viajes según mis preferencias de transporte, para optimizar mi tiempo de llegada. | - El usuario debe poder establecer preferencias de transporte (por ejemplo, evitar rutas largas o congestionadas).<br> - La aplicación debe recordar y ajustar las rutas sugeridas de acuerdo con las preferencias almacenadas.                                           |
-| US05 | Como equipo de desarrollo, queremos implementar encuestas automáticas que midan la satisfacción de los usuarios después de usar la aplicación, para evaluar nuestro rendimiento frente a la competencia. | - La encuesta debe activarse después de un número determinado de usos de la aplicación.<br> - Los datos de la encuesta deben almacenarse y analizarse regularmente para realizar mejoras en la experiencia del usuario.                                                  |
-| US06 | Como usuario, quiero recibir notificaciones sobre retrasos o interrupciones en mi ruta diaria, para ajustar mis planes a tiempo. | - El sistema debe enviar notificaciones automáticas en caso de cambios o retrasos importantes en las rutas frecuentes del usuario.<br> - Las notificaciones deben incluir alternativas sugeridas.                                                                        |
-| US07 | Como administrador, quiero poder gestionar el acceso de nuevos usuarios empresariales a la plataforma, para mantener la calidad de los servicios publicados. | - El administrador debe poder aprobar o rechazar solicitudes de registro de nuevas empresas en la plataforma.<br> - Debe existir un panel de control para administrar las cuentas empresariales.                                                                       |
-| US08 | Como usuario, quiero guardar mis rutas favoritas, para acceder fácilmente a ellas sin necesidad de buscarlas cada vez. | - El usuario debe poder marcar rutas como favoritas.<br> - La aplicación debe mostrar una lista de rutas favoritas accesible desde el menú principal.                                                                                                                  |
-| US09 | Como usuario, quiero poder planificar mis viajes con anticipación seleccionando fecha y hora específicas, para asegurarme de llegar a tiempo. | - La aplicación debe permitir ingresar fecha y hora para generar un plan de viaje.<br> - El sistema debe alertar al usuario si hay problemas previstos para la hora seleccionada (congestión, obras, etc.).                                                            |
-| US10 | Como equipo de desarrollo, queremos implementar análisis de uso para identificar patrones en el comportamiento de los usuarios, para mejorar la experiencia general. | - El sistema debe registrar datos de uso (frecuencia, rutas buscadas, retroalimentación, etc.).<br> - Los datos deben analizarse y presentarse en informes periódicos para detectar oportunidades de mejora.                                                             |
+| ID   | User Story                                                                                                                             | Criterios de Aceptación                                                                                                                                                                                                                                                                                           |
+|------|----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| US01 | Como usuario frecuente de transporte público, quiero ver una lista de las rutas más eficientes en tiempo real, para optimizar mi viaje diario. | **Given** que el usuario accede a la aplicación, **when** selecciona su punto de inicio y destino, **then** se muestra una lista de rutas actualizadas en tiempo real.<br> **Given** que una ruta esté congestionada, **when** el usuario solicita alternativas, **then** se muestran rutas alternativas sugeridas. |
+| US02 | Como administrador de una empresa de transporte, quiero poder promocionar nuestras rutas y servicios a través de la plataforma, para atraer más usuarios. | **Given** que el administrador inicia sesión en la plataforma, **when** accede a la interfaz de administración, **then** puede publicar rutas, horarios y tarifas.<br> **Given** que el administrador publica un anuncio, **when** revisa las estadísticas, **then** puede ver el alcance y la interacción de sus anuncios. |
+| US03 | Como usuario de la aplicación, quiero poder proporcionar retroalimentación sobre mi experiencia usando la aplicación, para que los desarrolladores puedan hacer mejoras. | **Given** que el usuario accede a la sección de retroalimentación, **when** escribe un comentario y asigna una calificación, **then** la información se almacena para análisis.<br> **Given** que los comentarios son recolectados, **when** el equipo los analiza, **then** pueden identificar áreas de mejora en la aplicación. |
+| US04 | Como usuario, quiero recibir sugerencias de rutas y mejoras en la planificación de mis viajes según mis preferencias de transporte, para optimizar mi tiempo de llegada. | **Given** que el usuario configura sus preferencias de transporte, **when** solicita una ruta, **then** la aplicación muestra opciones optimizadas según sus preferencias.<br> **Given** que el usuario utiliza frecuentemente las mismas preferencias, **when** vuelve a planificar un viaje, **then** las sugerencias se ajustan automáticamente. |
+| US05 | Como equipo de desarrollo, queremos implementar encuestas automáticas que midan la satisfacción de los usuarios después de usar la aplicación, para evaluar nuestro rendimiento frente a la competencia. | **Given** que un usuario utiliza la aplicación varias veces, **when** alcanza el umbral establecido, **then** se activa una encuesta automática de satisfacción.<br> **Given** que las encuestas son respondidas, **when** el equipo revisa los resultados, **then** puede identificar tendencias para mejorar la experiencia del usuario. |
+| US06 | Como usuario, quiero recibir notificaciones sobre retrasos o interrupciones en mi ruta diaria, para ajustar mis planes a tiempo. | **Given** que hay un retraso o interrupción en la ruta frecuente del usuario, **when** ocurre un cambio significativo, **then** el sistema envía una notificación automática con detalles y sugerencias de alternativas.                                                                                                  |
+| US07 | Como administrador, quiero poder gestionar el acceso de nuevos usuarios empresariales a la plataforma, para mantener la calidad de los servicios publicados. | **Given** que un usuario empresarial solicita registro, **when** el administrador revisa la solicitud, **then** puede aprobarla o rechazarla.<br> **Given** que el administrador accede al panel de control, **when** gestiona las cuentas, **then** puede modificar los permisos o eliminar cuentas empresariales.     |
+| US08 | Como usuario, quiero guardar mis rutas favoritas, para acceder fácilmente a ellas sin necesidad de buscarlas cada vez. | **Given** que el usuario accede a una ruta, **when** la marca como favorita, **then** esta se guarda en la lista de favoritos.<br> **Given** que el usuario accede al menú principal, **when** selecciona la sección de favoritos, **then** puede ver y gestionar sus rutas favoritas.                                   |
+| US09 | Como usuario, quiero planificar mis viajes con anticipación seleccionando fecha y hora específicas, para asegurarme de llegar a tiempo. | **Given** que el usuario ingresa fecha y hora para un viaje, **when** solicita un plan de ruta, **then** el sistema genera un plan acorde a sus necesidades.<br> **Given** que hay problemas previstos para la hora seleccionada, **when** el usuario genera un plan, **then** el sistema alerta sobre estos problemas. |
+| US10 | Como equipo de desarrollo, queremos implementar análisis de uso para identificar patrones en el comportamiento de los usuarios, para mejorar la experiencia general. | **Given** que los usuarios interactúan con la aplicación, **when** se recolectan datos de uso, **then** estos se registran para su análisis.<br> **Given** que los datos son analizados, **when** el equipo genera informes, **then** pueden identificar oportunidades de mejora en la experiencia del usuario.            |
+
 
 ### 8.3.2. To-Be Product Backlog
 
-| Prioridad | Historia de Usuario                       | Descripción                                                                                                  | Tareas                                                                                                                                                         |
-|-----------|-------------------------------------------|--------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Alta      | Implementación de rutas en tiempo real    | Desarrollar la funcionalidad para mostrar las rutas más eficientes y en tiempo real a los usuarios.          | 1. Desarrollar la lógica para el cálculo de rutas en tiempo real.<br>2. Integrar con APIs de transporte público.<br>3. Probar y validar la precisión de rutas. |
-| Alta      | Interfaz de administración para empresas  | Crear una interfaz para que los administradores puedan promocionar sus servicios y ver estadísticas.         | 1. Desarrollar la interfaz de administración.<br>2. Implementar sistema de publicación de rutas.<br>3. Añadir sección de estadísticas de alcance.            |
-| Media     | Sección de retroalimentación de usuarios  | Crear una funcionalidad donde los usuarios puedan dejar comentarios y calificaciones sobre la aplicación.    | 1. Desarrollar la sección de retroalimentación.<br>2. Almacenar comentarios en la base de datos.<br>3. Crear un panel para analizar los comentarios.          |
-| Alta      | Notificaciones de retrasos o interrupciones | Implementar un sistema de notificaciones automáticas en caso de problemas en rutas.                         | 1. Integrar APIs de monitoreo de tráfico.<br>2. Crear sistema de alertas para usuarios afectados.<br>3. Probar y optimizar la funcionalidad.                  |
-| Media     | Gestión de cuentas empresariales          | Desarrollar un panel para aprobar y administrar cuentas empresariales.                                       | 1. Crear un sistema de registro para empresas.<br>2. Implementar lógica de aprobación/rechazo.<br>3. Diseñar interfaz para administrar cuentas.              |
-| Alta      | Guardar rutas favoritas                   | Permitir a los usuarios marcar y acceder fácilmente a sus rutas más usadas.                                  | 1. Añadir opción de favoritos en la interfaz de usuario.<br>2. Crear lógica para almacenar rutas favoritas.<br>3. Implementar sección de favoritos.          |
-| Media     | Planificación anticipada de viajes        | Diseñar funcionalidad para planificar viajes en fechas y horarios específicos.                               | 1. Añadir calendario y selector de horario.<br>2. Integrar predicciones de congestión.<br>3. Probar y validar funcionalidad.                                 |
-| Alta      | Análisis de patrones de uso               | Implementar análisis de datos para identificar comportamientos y preferencias de usuarios.                   | 1. Crear lógica para recolectar datos de uso.<br>2. Diseñar panel para visualización de estadísticas.<br>3. Generar informes periódicos para el equipo.       |
+| Prioridad | Historia de Usuario                       | Descripción                                                                                                  | Estimación (Horas) |
+|-----------|-------------------------------------------|--------------------------------------------------------------------------------------------------------------|--------------------|
+| Alta      | Implementación de rutas en tiempo real    | Desarrollar la funcionalidad para mostrar las rutas más eficientes y en tiempo real a los usuarios.          | 8                  |
+| Alta      | Interfaz de administración para empresas  | Crear una interfaz para que los administradores puedan promocionar sus servicios y ver estadísticas.         | 8                  |
+| Media     | Sección de retroalimentación de usuarios  | Crear una funcionalidad donde los usuarios puedan dejar comentarios y calificaciones sobre la aplicación.    | 6                  |
+| Alta      | Notificaciones de retrasos o interrupciones | Implementar un sistema de notificaciones automáticas en caso de problemas en rutas.                         | 8                  |
+| Media     | Gestión de cuentas empresariales          | Desarrollar un panel para aprobar y administrar cuentas empresariales.                                       | 6                  |
+| Alta      | Guardar rutas favoritas                   | Permitir a los usuarios marcar y acceder fácilmente a sus rutas más usadas.                                  | 4                  |
+| Media     | Planificación anticipada de viajes        | Diseñar funcionalidad para planificar viajes en fechas y horarios específicos.                               | 6                  |
+| Alta      | Análisis de patrones de uso               | Implementar análisis de datos para identificar comportamientos y preferencias de usuarios.                   | 8                  |
+
 
 
 ## 8.5. Continuous Learning 
