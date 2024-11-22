@@ -3393,10 +3393,49 @@ Jenkins Pipeline: Se utiliza como la herramienta principal para automatizar el f
 
 ## 7.4. Continuous Monitoring
 
+### 7.4.1. Tools and Practices
+Para garantizar un monitoreo efectivo de la aplicación y sus entornos, se implementan las siguientes herramientas y prácticas:
 
-El monitoreo continuo implementado en TrackRoute ha transformado la gestión del transporte público en Lima, proporcionando una supervisión en tiempo real de las rutas y del comportamiento de desplazamiento de los pasajeros. A través de un sistema de monitoreo avanzado, las empresas de transporte ahora pueden acceder a datos actualizados sobre la ubicación de los autobuses, condiciones del tráfico y el cumplimiento de los horarios. Este monitoreo se traduce en dashboards y reportes dinámicos que permiten a los gerentes de operaciones realizar ajustes rápidos y eficientes según las condiciones de cada ruta.
+- **Prometheus**: Herramienta de monitoreo y alerta diseñada para registrar métricas en tiempo real desde diferentes servicios y aplicaciones. Prometheus se utiliza para capturar y almacenar métricas relacionadas con el rendimiento de la aplicación, como el tiempo de respuesta y la carga del sistema.
+- **Grafana**: Plataforma de análisis visual que permite crear dashboards personalizados basados en datos recopilados por Prometheus. Grafana se usa para visualizar métricas clave en tiempo real y facilitar la identificación de problemas.
+- **ELK Stack (Elasticsearch, Logstash, Kibana)**: Conjunto de herramientas para la gestión de registros y análisis de logs. Elasticsearch permite buscar y analizar datos, Logstash procesa y transforma los registros, mientras que Kibana proporciona una interfaz para visualizarlos.
+- **New Relic**: Herramienta de monitoreo de aplicaciones (APM) que ofrece visibilidad en tiempo real sobre la experiencia del usuario y el rendimiento de la aplicación.
+- **PagerDuty**: Plataforma de gestión de incidentes utilizada para enviar alertas en caso de problemas críticos en los servicios o la infraestructura.
 
-Gracias a este sistema, TrackRoute detecta de manera temprana problemas como retrasos o congestión, permitiendo que las empresas respondan proactivamente y optimicen sus servicios en tiempo real. Para los pasajeros, el monitoreo continuo garantiza información precisa sobre los tiempos de llegada y disponibilidad de autobuses, mejorando significativamente la experiencia de viaje y reduciendo la incertidumbre en los tiempos de espera. Este enfoque integral no solo ha mejorado la eficiencia operativa de las empresas de transporte, sino que también ha elevado la satisfacción de los usuarios al brindarles un servicio más confiable y puntual.
+### 7.4.2. Monitoring Pipeline Components
+El monitoreo de los componentes del pipeline asegura que cada etapa funcione correctamente y que cualquier anomalía sea detectada de inmediato:
+
+- **Jenkins Pipeline**: Se configura para generar métricas sobre el tiempo de ejecución de cada etapa del pipeline, la frecuencia de fallos y las tasas de éxito en las pruebas automatizadas.
+- **NPM Logs**: Los registros generados durante la instalación de dependencias (`npm install`) y las tareas de construcción (`npm run build`) son monitoreados para identificar problemas con paquetes o scripts.
+- **Server Metrics**: Se monitorean recursos clave del servidor (CPU, memoria, disco, red) durante las fases de construcción, prueba y despliegue.
+- **Application Health**: Se implementan endpoints de salud (health checks) en la aplicación que reportan el estado de las dependencias críticas, como la base de datos o servicios externos.
+
+### 7.4.3. Alerting Pipeline Components
+El sistema de alertas notifica al equipo en tiempo real cuando se detectan problemas. Las configuraciones principales incluyen:
+
+- **Threshold-Based Alerts**:
+  - Alertas configuradas en Prometheus para detectar valores fuera de los rangos aceptables en métricas clave (latencia, uso de CPU, errores 500, etc.).
+- **Pipeline Failures**:
+  - Jenkins envía alertas automáticas en caso de fallos en alguna etapa del pipeline, incluyendo pruebas unitarias, integración continua o despliegue.
+- **Service Availability**:
+  - Alertas configuradas en ELK Stack y New Relic para detectar tiempos de inactividad o problemas de conectividad.
+
+### 7.4.4. Notification Pipeline Components
+Las notificaciones automatizadas aseguran que el equipo reciba actualizaciones en tiempo real sobre el estado de la aplicación y el pipeline:
+
+- **Slack Notifications**:
+  - Integración con Slack para enviar mensajes en canales específicos cuando:
+    - Se completa exitosamente una etapa del pipeline.
+    - Ocurre un fallo en el pipeline.
+    - Se detecta un incidente crítico en la aplicación.
+- **Alertas de Email**:
+  - Configuración de notificaciones por correo electrónico a los responsables del equipo en caso de problemas críticos o fallos repetitivos en el pipeline.
+- **PagerDuty Integration**:
+  - Notificaciones de alta prioridad enviadas a dispositivos móviles para incidentes que requieren atención inmediata.
+- **Grafana Alerts**:
+  - Configuración de notificaciones personalizadas basadas en métricas definidas, enviadas directamente a Slack o por correo electrónico.
+
+
 
 
 # Capítulo VIII: Experiment-Driven Development
@@ -3559,6 +3598,213 @@ Se implementará un plan de seguimiento tanto para la versión web como móvil d
 | Alta      | Guardar rutas favoritas                   | Permitir a los usuarios marcar y acceder fácilmente a sus rutas más usadas.                                  | 4                  |
 | Media     | Planificación anticipada de viajes        | Diseñar funcionalidad para planificar viajes en fechas y horarios específicos.                               | 6                  |
 | Alta      | Análisis de patrones de uso               | Implementar análisis de datos para identificar comportamientos y preferencias de usuarios.                   | 8                  |
+
+
+### 8.3.3 Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle
+#### 8.3.3.1 To-Be Sprint Backlogs
+#### 8.3.3.2 Implemented To-Be Landing Page Evidence
+
+#### 8.3.3.3 Implemented To-Be Frontend-Web Application Evidence
+
+#### **Secciones implementadas del Aplicativo Web**
+
+- Inicio de sesion :
+  
+<div align="center">
+
+  <img src="image-report/landing_Login.png">
+
+</div>
+  
+  - Registro de Usuario:
+  
+<div align="center">
+
+  <img src="image-report/Landing_register.png">
+
+</div>
+
+
+  - Busqueda de ruta:
+  
+<div align="center">
+
+  <img src="image-report/Dashboard-BuscarRutas.png">
+
+</div>
+
+  - Pagos de viajes:
+  
+<div align="center">
+
+  <img src="image-report/Dashboard-PagarPasaje.png">
+
+</div>
+
+  - Historial de viajes:
+  
+<div align="center">
+
+  <img src="image-report/Dashboard-HistorialdeViajes.png">
+
+</div>
+
+   - Promos:
+  
+<div align="center">
+
+  <img src="image-report/Dashboard-Promos.png">
+
+</div>
+
+   - Soporte:
+  
+<div align="center">
+
+  <img src="image-report/Dashboard-SoporteyAyuda.png">
+
+</div>
+
+
+#### 8.3.3.4 Implemented To-Be RESTful API and/or Serverless Backend Evidence
+
+- **API probado en Swagger UI**
+<div align="center">
+
+  <img src="image-report/NotifSSjpeg.jpeg">
+
+</div>
+
+- **Endpoints para cada bounded context**
+<div align="center">
+
+  <img src="./image-report/back-sprint4.jpg">
+
+</div>
+
+#### 8.3.3.5 Team Collaboration Insights
+
+![insights](image-report/insights-track-my-route-final.JPG)
+
+### 8.3.4 To-Be Validation Interviews 
+#### 8.3.4.1 Diseño de Entrevistas.
+
+Llevaremos a cabo una serie de entrevistas de validacion que nos permitira evaluar nuestra aplicacion.
+
+- ¿Que impresion te causa la pagina al verla por primera vez?
+
+- ¿Puedes identificar facilmente el proposito de la aplicacion al ver la Landing Page?
+
+- ¿La navegacion de la pagina es intuitiva y facil de usar?
+
+- ¿El tiempo de cara de la pagina es satisfactorio para una buena experiencias del usuario?
+
+- ¿Qué aspectos mejorarias o cambiarias en la pagina para hacerla mas efectiva?
+
+
+#### 8.3.4.2 Registro de Entrevistas.
+
+### Entrevista 1
+- **Nombre y Apellido:** Juan David Gamarra Beltran
+- **Edad:** 20
+- **Distrito:** San Martin de Porres
+- **Enlace:** [Entrevista Juan Gamarra ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213404_upc_edu_pe/Ef7FdABP_3lMih5miP4-kOwBoEmn5k1KX1gbiEVj0Ms_Lw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=izjFSg)
+- **Duración:** 6:26
+- **Resumen:**  
+  Juan es un joven estudiante que opina que es una pagina funcional que ofrece la busqueda de rutas de manera rapida y que ayudaria bastante, recomienda hacer el cambio de tema para incluir el modo oscuro.
+<img src="image-report/Entrevista_Juan_TF.png" alt="Preview de la entrevista" style="width: 100%; max-width: 400px; height: auto;">
+
+
+---
+
+###  Entrevista 2
+- **Nombre y Apellido:** Estrella del Pilar Ticona Panduro
+- **Edad:** 19
+- **Distrito:** Rimac
+- **Enlace:** [Entrevista Estrella Ticona ]( https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213404_upc_edu_pe/EWaQYLnigVxGsWD-TMeGbh8BBqimWllTnUzCeKFzHVhBaA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=B71gWg)
+- **Duración:** 7:08
+- **Resumen:**  
+  Estrella es una chica que usa tranportes publicos para irse de punto a punto y le parece muy util ya que puede tener el seguimiento de los paraderos y un mejor control de a donde quiere ir porque puede ver los paraderos y la ruta completa, opina que la carga de datos ha sido rapida y que se mejoraria a la hora de hacer las busquedas.
+<img src="image-report/Entrevista_Estrella_TF.png" alt="Preview de la entrevista" style="width: 100%; max-width: 400px; height: auto;">
+
+---
+
+## Entrevista 3
+- **Nombre y Apellido:** Elisa Mariafe Yataco Perez
+- **Edad:** 21
+- **Distrito:** Surco
+- **Enlace:** [Entrevista Mariafe](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213404_upc_edu_pe/EaRXxerXrJZAmiS-xq2I5UcBX5xahOxr_LV2xk7tV7hbHw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=rrUvDu)
+- **Duración:** 8:37
+- **Resumen:**  
+  Mariafe es una persona que usa el transporte public muy seguido sin embargo, siempre tiene inconvenientes a la hora de ver donde subir o bajar, opina que para los turistas es una aplicacion muy util, le parece muy importante ver cuanto le costo y la duracion del viaje, para asi poder guiarse a la hora de tomar la ruta.
+
+ <img src="image-report/Entrevista_Mariafe_TF.png" alt="Preview de la entrevista" style="width: 100%; max-width: 400px; height: auto;">
+
+---
+
+###  Entrevista 4
+- **Nombre y Apellido:** Sebastian Valentino Silva Tirado
+- **Edad:** 22
+- **Distrito:** San Borja
+- **Enlace:** [Entrevista Sebastian](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213404_upc_edu_pe/EaHvLizkwzNNhVtLR_pCl78B0bXaRX9HDHFdT9nF6KV7cQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=1TNIbL)
+- **Duración:** 7:53
+- **Resumen:**  
+  Sebastian es una persona que le interesa saber la informacion de la ruta que va a tomar, le parece un diseño claro y un mapa completo para poder ver la ruta como el quiere, opina que deberia haber estadisticas de los gastos y que bus se toma mas para poder asi estudiarlo y tomar las medidas adecuadas.
+ <img src="image-report/Entrevista_Sebastian_TF.png" alt="Preview de la entrevista" style="width: 100%; max-width: 400px; height: auto;">
+
+---
+
+## 8.4 Experiment Aftermath & Analysis
+
+### 8.4.1 Analysis and Interpretation of Results
+
+**Resultados Objetivos**
+1. **Participación del usuario**:
+   - **Usuarios Activos Diariamente (DAU)**: Se identificó que un promedio del 25% de los usuarios registrados interactúa diariamente con la aplicación, validando parcialmente la hipótesis inicial sobre la cantidad de usuarios activos.
+   - **Incremento en el uso**: Después de implementar estrategias motivacionales, como notificaciones y promociones, se observó un aumento del 8% en usuarios activos en el segundo mes.
+
+2. **Satisfacción del usuario**:
+   - Los resultados de las encuestas arrojaron un índice de satisfacción general del **78%**, con un 60% de los usuarios calificando la experiencia como "buena" o "excelente".
+   - Comparación con la competencia: Según los datos recolectados, un **65%** de los usuarios perciben que Route-Logic es más eficiente que otras aplicaciones similares.
+
+3. **Conocimiento y Accesibilidad**:
+   - El **55%** de los usuarios regulares tiene un nivel tecnológico básico, pero manifiesta facilidad para usar la app gracias a su interfaz intuitiva.
+   - **Barreras tecnológicas**: Un 20% de los encuestados señaló dificultades relacionadas con el acceso a internet o conocimientos limitados sobre el uso de smartphones.
+
+4. **Eficiencia y Planeación de Rutas**:
+   - Se logró demostrar una mejora promedio del **15%** en el tiempo estimado para llegar al destino, según los comentarios y análisis de uso.
+   - **Feedback directo**: 40% de los comentarios resaltaron la eficacia del sistema de planificación en tiempo real.
+
+**Interpretación**
+- Las métricas indican que Route-Logic tiene un alto potencial de adopción en usuarios con necesidades regulares de transporte público, especialmente en áreas urbanas densas.
+- El desafío principal radica en capturar y retener a usuarios con barreras tecnológicas y en promover un uso más frecuente entre usuarios ocasionales.
+- Las empresas de transporte han mostrado interés en la plataforma, incrementando su presencia en un 18% durante el período de análisis.
+
+---
+
+### 8.4.2 Re-scored and Re-prioritized Question Backlog
+
+**Reprioritización basada en los resultados:**
+
+| **Pregunta**                                                   | **Confianza** | **Riesgo** | **Impacto** | **Interés** | **Puntaje Total** |
+|----------------------------------------------------------------|---------------|------------|-------------|-------------|--------------------|
+| ¿Qué nivel de conocimiento tecnológico tienen las personas que usan transporte público de manera regular para que puedan hacer uso del aplicativo? | 9             | 4          | 9           | 8           | 30                 |
+| ¿Qué cantidad de personas han sido beneficiadas en cuanto a la eficacia en llegar a sus destinos desde que comenzaron a usar nuestra aplicación? | 9             | 5          | 8           | 9           | 31                 |
+| ¿Cuál es el nivel de satisfacción de los usuarios que interactúan con nuestra aplicación en comparación a su interacción con otras aplicaciones similares? | 8             | 6          | 8           | 9           | 31                 |
+| ¿Cuál es la cantidad de usuarios registrados que usan la aplicación para obtener rutas en un día cotidiano? | 8             | 5          | 7           | 8           | 28                 |
+
+**Actualización del Backlog de Preguntas:**
+1. ¿Qué nivel de conocimiento tecnológico tienen las personas que usan transporte público de manera regular para que puedan hacer uso del aplicativo?
+2. ¿Qué cantidad de personas han sido beneficiadas en cuanto a la eficacia en llegar a sus destinos desde que comenzaron a usar nuestra aplicación?
+3. ¿Cuál es el nivel de satisfacción de los usuarios que interactúan con nuestra aplicación en comparación a su interacción con otras aplicaciones similares?
+4. ¿Cuál es la cantidad de usuarios registrados que usan la aplicación para obtener rutas en un día cotidiano?
+
+**Justificación de Cambios**
+- La accesibilidad tecnológica se prioriza debido a su relevancia en la expansión del público objetivo.
+- La eficacia y satisfacción del usuario, junto con el análisis de competencia, se mantienen prioritarios para mejorar la propuesta de valor.
+- La cantidad de usuarios activos, aunque importante, muestra un impacto menor comparado con las barreras tecnológicas y la percepción de calidad.
+
+
 
 
 
